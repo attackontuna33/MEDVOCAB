@@ -4,10 +4,11 @@ Private YÖKDİL Sağlık vocabulary study app.
 
 ## Product decisions
 - Daily target: 20 new words
-- Review-first queue: due reviews before new words
-- Flashcards reveal meaning on tap; examples always visible after reveal
-- Mixed English → Turkish and Turkish → English direction
+- Review-first queue: all due reviews appear before new words
+- Flashcards reveal meanings on tap and show an English example with Turkish translation
+- Mixed English → Turkish and Turkish → English card direction
 - Streak, weekly summary, wrong-answer list, and exam area
+- Exam modes: vocabulary, contextual fill-in-the-blank, health-text practice, and mixed mini exam
 - Vocabulary source: *YÖKDİL Sağlık Alanı Özel Kelime Listesi* (29-page PDF)
 
 ## Run locally
@@ -17,7 +18,9 @@ npm run dev
 ```
 
 ## Vocabulary data
-The source PDF contains numbered entries 1–725. The app intentionally starts with an empty dataset rather than invented words. Each record in `public/data/words.json` must preserve its source English expression and Turkish meaning. Multiple expressions on one source row remain one record. Example sentences and Turkish translations are authored separately and must not replace source meanings.
+`public/data/words.json` contains all 725 numbered records from the source PDF. The original English expressions and Turkish meanings are retained as source entries; expressions grouped on one PDF row remain one card. Each record also has a separate English example sentence and Turkish translation. Historical or outdated expressions in the source are retained for source fidelity and marked with current respectful terminology in the translation/example fields where relevant.
+
+A GitHub Actions workflow validates the 725 records and runs the production build on pushes to `main`.
 
 ## Progress storage
-The first version stores individual study progress in the browser's localStorage. Supabase credentials and authentication are not embedded in the repository; cloud sync can be added after the study flow is validated.
+The current version stores per-word progress in browser localStorage. No Supabase credentials or authentication secrets are embedded in the repository. Cloud sync and multi-device progress are not yet configured.
