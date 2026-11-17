@@ -2398,5 +2398,245 @@
     "exampleEn": "Chronic respiratory diseases afflict millions of people worldwide.",
     "exampleTr": "Kronik solunum yolu hastalıkları dünya çapında milyonlarca insanı etkiler.",
     "sourceNumber": 300
+  },
+  {
+    "id": 301,
+    "english": "get over",
+    "turkish": "hastalığı yenmek",
+    "exampleEn": "Most patients get over a mild viral infection within a few days.",
+    "exampleTr": "Hastaların çoğu hafif bir viral enfeksiyonu birkaç gün içinde atlatır.",
+    "sourceNumber": 301
+  },
+  {
+    "id": 302,
+    "english": "course of illness",
+    "turkish": "hastalığın seyri",
+    "exampleEn": "The course of illness varies depending on the patient's age and general health.",
+    "exampleTr": "Hastalığın seyri hastanın yaşına ve genel sağlık durumuna bağlı olarak değişir.",
+    "sourceNumber": 302
+  },
+  {
+    "id": 303,
+    "english": "malady",
+    "turkish": "hastalık",
+    "exampleEn": "The article discussed a malady that primarily affects older adults.",
+    "exampleTr": "Makale, öncelikle yaşlı yetişkinleri etkileyen bir hastalığı ele aldı.",
+    "sourceNumber": 303
+  },
+  {
+    "id": 304,
+    "english": "hypochondriasis",
+    "turkish": "hastalık hastası olma durumu",
+    "exampleEn": "Hypochondriasis involves persistent fears of having a serious illness.",
+    "exampleTr": "Hipokondriyazis, ciddi bir hastalığa sahip olma konusunda sürekli korkular içerir.",
+    "sourceNumber": 304
+  },
+  {
+    "id": 305,
+    "english": "be taken ill",
+    "turkish": "hastalık kapmak, hastalığa yakalanmak",
+    "exampleEn": "Several participants were taken ill during the outbreak.",
+    "exampleTr": "Salgın sırasında birkaç katılımcı hastalandı.",
+    "sourceNumber": 305
+  },
+  {
+    "id": 306,
+    "english": "etiologic",
+    "turkish": "hastalık nedenleriyle ilgili",
+    "exampleEn": "The researchers investigated the etiologic factors associated with the infection.",
+    "exampleTr": "Araştırmacılar enfeksiyonla ilişkili hastalık nedeni faktörleri araştırdı.",
+    "sourceNumber": 306
+  },
+  {
+    "id": 307,
+    "english": "bout",
+    "turkish": "hastalık nöbeti",
+    "exampleEn": "The patient experienced a bout of severe coughing during the night.",
+    "exampleTr": "Hasta gece boyunca şiddetli bir öksürük nöbeti geçirdi.",
+    "sourceNumber": 307
+  },
+  {
+    "id": 308,
+    "english": "pull through",
+    "turkish": "hastalıktan kurtulmak",
+    "exampleEn": "The patient was critically ill but eventually managed to pull through.",
+    "exampleTr": "Hasta kritik durumdaydı ancak sonunda hastalıktan kurtulmayı başardı.",
+    "sourceNumber": 308
+  },
+  {
+    "id": 309,
+    "english": "in-patient",
+    "turkish": "hastanede yatan hasta",
+    "exampleEn": "The in-patient received continuous monitoring after the operation.",
+    "exampleTr": "Hastanede yatan hasta ameliyattan sonra sürekli izlem altında tutuldu.",
+    "sourceNumber": 309
+  },
+  {
+    "id": 310,
+    "english": "admission to hospital",
+    "turkish": "hastaneye kabul",
+    "exampleEn": "Admission to hospital was necessary because of the severity of the symptoms.",
+    "exampleTr": "Belirtilerin şiddeti nedeniyle hastaneye kabul gerekliydi.",
+    "sourceNumber": 310
+  },
+  {
+    "id": 311,
+    "english": "hospitalize",
+    "turkish": "hastaneye yatırmak",
+    "exampleEn": "Doctors decided to hospitalize the patient for further observation.",
+    "exampleTr": "Doktorlar hastayı daha ileri gözlem için hastaneye yatırmaya karar verdi.",
+    "sourceNumber": 311
+  },
+  {
+    "id": 312,
+    "english": "sedate",
+    "turkish": "sakinleştirmek, (ilaçla) uyutmak",
+    "exampleEn": "The patient was sedated before the procedure.",
+    "exampleTr": "Hasta işlemden önce sakinleştirici ilaçla uyutuldu.",
+    "sourceNumber": 312
+  },
+  {
+    "id": 313,
+    "english": "discharge from",
+    "turkish": "hastayı taburcu etmek",
+    "exampleEn": "The medical team planned to discharge the patient from hospital the following day.",
+    "exampleTr": "Sağlık ekibi hastayı ertesi gün hastaneden taburcu etmeyi planladı.",
+    "sourceNumber": 313
+  },
+  {
+    "id": 314,
+    "english": "seizure",
+    "turkish": "havale, nöbet",
+    "exampleEn": "A seizure may involve sudden changes in movement or awareness.",
+    "exampleTr": "Bir nöbet, hareketlerde veya farkındalıkta ani değişiklikler içerebilir.",
+    "sourceNumber": 314
+  },
+  {
+    "id": 315,
+    "english": "vitally important",
+    "turkish": "hayati öneme sahip",
+    "exampleEn": "Early treatment is vitally important in cases of severe infection.",
+    "exampleTr": "Şiddetli enfeksiyon vakalarında erken tedavi hayati öneme sahiptir.",
+    "sourceNumber": 315
+  },
+  {
+    "id": 316,
+    "english": "preparation",
+    "turkish": "hazırlama, hazırlık; (ilaç) preparat, müstahzar",
+    "exampleEn": "The patient followed the preparation instructions before the colonoscopy.",
+    "exampleTr": "Hasta kolonoskopi öncesinde hazırlık talimatlarına uydu.",
+    "sourceNumber": 316
+  },
+  {
+    "id": 317,
+    "english": "target",
+    "turkish": "hedef",
+    "exampleEn": "The treatment targets the cells responsible for tumour growth.",
+    "exampleTr": "Tedavi, tümör büyümesinden sorumlu hücreleri hedef alır.",
+    "sourceNumber": 317
+  },
+  {
+    "id": 318,
+    "english": "yet unborn generations",
+    "turkish": "henüz doğmamış nesiller",
+    "exampleEn": "Environmental pollution may affect the health of yet unborn generations.",
+    "exampleTr": "Çevre kirliliği henüz doğmamış nesillerin sağlığını etkileyebilir.",
+    "sourceNumber": 318
+  },
+  {
+    "id": 319,
+    "english": "however",
+    "turkish": "ancak, bununla birlikte; ne kadar ... olursa olsun",
+    "exampleEn": "The treatment is effective; however, it may cause mild side effects.",
+    "exampleTr": "Tedavi etkilidir; ancak hafif yan etkilere neden olabilir.",
+    "sourceNumber": 319
+  },
+  {
+    "id": 320,
+    "english": "hiccup",
+    "turkish": "hıçkırık, hıçkırmak",
+    "exampleEn": "Persistent hiccup may require medical evaluation.",
+    "exampleTr": "Sürekli hıçkırık tıbbi değerlendirme gerektirebilir.",
+    "sourceNumber": 320
+  },
+  {
+    "id": 321,
+    "english": "bubonic plague",
+    "turkish": "hıyarcık vebası",
+    "exampleEn": "Bubonic plague is a serious infectious disease caused by bacteria.",
+    "exampleTr": "Hıyarcık vebası bakterilerin neden olduğu ciddi bir bulaşıcı hastalıktır.",
+    "sourceNumber": 321
+  },
+  {
+    "id": 322,
+    "english": "at least",
+    "turkish": "hiç olmazsa, en azından",
+    "exampleEn": "Patients should drink at least the recommended amount of water each day.",
+    "exampleTr": "Hastalar her gün en azından önerilen miktarda su içmelidir.",
+    "sourceNumber": 322
+  },
+  {
+    "id": 323,
+    "english": "hypoxia",
+    "turkish": "hipoksi",
+    "exampleEn": "Hypoxia occurs when body tissues do not receive enough oxygen.",
+    "exampleTr": "Hipoksi, vücut dokuları yeterli oksijen alamadığında ortaya çıkar.",
+    "sourceNumber": 323
+  },
+  {
+    "id": 324,
+    "english": "snore",
+    "turkish": "horlamak",
+    "exampleEn": "People with obstructive sleep apnoea often snore loudly.",
+    "exampleTr": "Obstrüktif uyku apnesi olan kişiler sıklıkla yüksek sesle horlar.",
+    "sourceNumber": 324
+  },
+  {
+    "id": 325,
+    "english": "cell",
+    "turkish": "hücre",
+    "exampleEn": "Each cell contains genetic material that carries instructions for its function.",
+    "exampleTr": "Her hücre, işlevine ilişkin talimatları taşıyan genetik materyal içerir.",
+    "sourceNumber": 325
+  },
+  {
+    "id": 326,
+    "english": "cytological",
+    "turkish": "hücreye ilişkin",
+    "exampleEn": "Cytological examination can help identify abnormal cells.",
+    "exampleTr": "Sitolojik inceleme anormal hücrelerin belirlenmesine yardımcı olabilir.",
+    "sourceNumber": 326
+  },
+  {
+    "id": 327,
+    "english": "cognitive",
+    "turkish": "bilişsel, idrakla ilgili",
+    "exampleEn": "The assessment measured cognitive function in older adults.",
+    "exampleTr": "Değerlendirme yaşlı yetişkinlerde bilişsel işlevi ölçtü.",
+    "sourceNumber": 327
+  },
+  {
+    "id": 328,
+    "english": "urine",
+    "turkish": "idrar",
+    "exampleEn": "A urine sample was collected to test for infection.",
+    "exampleTr": "Enfeksiyon testi için idrar örneği alındı.",
+    "sourceNumber": 328
+  },
+  {
+    "id": 329,
+    "english": "bladder",
+    "turkish": "idrar torbası, mesane",
+    "exampleEn": "The bladder stores urine before it is excreted.",
+    "exampleTr": "Mesane, idrar atılmadan önce onu depolar.",
+    "sourceNumber": 329
+  },
+  {
+    "id": 330,
+    "english": "secondary condition",
+    "turkish": "ikincil sağlık sorunu",
+    "exampleEn": "The patient developed a secondary condition during recovery.",
+    "exampleTr": "Hasta iyileşme sürecinde ikincil bir sağlık sorunu geliştirdi.",
+    "sourceNumber": 330
   }
 ]
