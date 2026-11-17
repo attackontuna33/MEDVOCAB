@@ -1678,5 +1678,245 @@
     "exampleEn": "Blood circulates throughout the body through the cardiovascular system.",
     "exampleTr": "Kan, kardiyovasküler sistem aracılığıyla vücudun tamamında dolaşır.",
     "sourceNumber": 210
+  },
+  {
+    "id": 211,
+    "english": "dose",
+    "turkish": "doz",
+    "exampleEn": "The doctor adjusted the dose according to the patient's body weight.",
+    "exampleTr": "Doktor dozu hastanın vücut ağırlığına göre ayarladı.",
+    "sourceNumber": 211
+  },
+  {
+    "id": 212,
+    "english": "to shed",
+    "turkish": "dökmek, atmak (deri, tüy, hücre); (virüs) saçmak",
+    "exampleEn": "Some viruses can be shed by infected individuals before symptoms appear.",
+    "exampleTr": "Bazı virüsler, belirtiler ortaya çıkmadan önce enfekte kişiler tarafından saçılabilir.",
+    "sourceNumber": 212
+  },
+  {
+    "id": 213,
+    "english": "rash",
+    "turkish": "döküntü; (deride) kızarıklık, isilik",
+    "exampleEn": "The patient developed a rash after starting the new medication.",
+    "exampleTr": "Hasta yeni ilaca başladıktan sonra deri döküntüsü geliştirdi.",
+    "sourceNumber": 213
+  },
+  {
+    "id": 214,
+    "english": "fertilize",
+    "turkish": "döllemek",
+    "exampleEn": "The sperm must fertilize the egg for conception to occur.",
+    "exampleTr": "Gebeliğin oluşması için spermin yumurtayı döllemesi gerekir.",
+    "sourceNumber": 214
+  },
+  {
+    "id": 215,
+    "english": "womb",
+    "turkish": "döl yatağı, rahim (uterus)",
+    "exampleEn": "The fetus develops inside the womb during pregnancy.",
+    "exampleTr": "Fetüs gebelik sırasında rahim içinde gelişir.",
+    "sourceNumber": 215
+  },
+  {
+    "id": 216,
+    "english": "sensory",
+    "turkish": "duyusal, duyularla ilgili",
+    "exampleEn": "The examination assessed the patient's sensory responses.",
+    "exampleTr": "Muayenede hastanın duyusal yanıtları değerlendirildi.",
+    "sourceNumber": 216
+  },
+  {
+    "id": 217,
+    "english": "node",
+    "turkish": "düğüm, nod",
+    "exampleEn": "The scan revealed an enlarged lymph node in the neck.",
+    "exampleTr": "Görüntüleme, boyunda büyümüş bir lenf nodu ortaya çıkardı.",
+    "sourceNumber": 217
+  },
+  {
+    "id": 218,
+    "english": "hypotension",
+    "turkish": "düşük tansiyon",
+    "exampleEn": "Severe dehydration can lead to hypotension.",
+    "exampleTr": "Şiddetli sıvı kaybı düşük tansiyona yol açabilir.",
+    "sourceNumber": 218
+  },
+  {
+    "id": 219,
+    "english": "smooth",
+    "turkish": "düz, pürüzsüz",
+    "exampleEn": "The doctor observed a smooth surface on the tissue sample.",
+    "exampleTr": "Doktor doku örneğinde pürüzsüz bir yüzey gözlemledi.",
+    "sourceNumber": 219
+  },
+  {
+    "id": 220,
+    "english": "remediable",
+    "turkish": "düzeltilebilir",
+    "exampleEn": "The condition is often remediable with early treatment.",
+    "exampleTr": "Bu durum çoğu zaman erken tedaviyle düzeltilebilir.",
+    "sourceNumber": 220
+  },
+  {
+    "id": 221,
+    "english": "irregularly",
+    "turkish": "düzensiz olarak",
+    "exampleEn": "The patient's heart was beating irregularly.",
+    "exampleTr": "Hastanın kalbi düzensiz atıyordu.",
+    "sourceNumber": 221
+  },
+  {
+    "id": 222,
+    "english": "against",
+    "turkish": "-e karşı",
+    "exampleEn": "The vaccine provides protection against several strains of the virus.",
+    "exampleTr": "Aşı, virüsün çeşitli suşlarına karşı koruma sağlar.",
+    "sourceNumber": 222
+  },
+  {
+    "id": 223,
+    "english": "midwife",
+    "turkish": "ebe",
+    "exampleEn": "The midwife monitored the mother and baby during labour.",
+    "exampleTr": "Ebe doğum sırasında anne ve bebeği izledi.",
+    "sourceNumber": 223
+  },
+  {
+    "id": 224,
+    "english": "eczema",
+    "turkish": "egzama",
+    "exampleEn": "Eczema can cause dry, itchy, and inflamed skin.",
+    "exampleTr": "Egzama ciltte kuruluğa, kaşıntıya ve iltihaplanmaya neden olabilir.",
+    "sourceNumber": 224
+  },
+  {
+    "id": 225,
+    "english": "exercise",
+    "turkish": "egzersiz, idman, kullanma",
+    "exampleEn": "Regular exercise can improve cardiovascular health.",
+    "exampleTr": "Düzenli egzersiz kalp-damar sağlığını iyileştirebilir.",
+    "sourceNumber": 225
+  },
+  {
+    "id": 226,
+    "english": "tendency",
+    "turkish": "eğilim",
+    "exampleEn": "The patient showed a tendency to develop allergic reactions.",
+    "exampleTr": "Hastada alerjik reaksiyon geliştirme eğilimi görüldü.",
+    "sourceNumber": 226
+  },
+  {
+    "id": 227,
+    "english": "propensity",
+    "turkish": "eğilim",
+    "exampleEn": "Some individuals have a genetic propensity to develop certain conditions.",
+    "exampleTr": "Bazı bireylerde belirli hastalıkları geliştirmeye yönelik genetik eğilim vardır.",
+    "sourceNumber": 227
+  },
+  {
+    "id": 228,
+    "english": "to tend",
+    "turkish": "eğilimi olmak; (hastaya) bakmak",
+    "exampleEn": "Nurses tend to patients throughout the recovery period.",
+    "exampleTr": "Hemşireler iyileşme süreci boyunca hastalarla ilgilenir.",
+    "sourceNumber": 228
+  },
+  {
+    "id": 229,
+    "english": "prone (to)",
+    "turkish": "eğilimli, yatkın",
+    "exampleEn": "Older adults may be more prone to falls.",
+    "exampleTr": "Yaşlı yetişkinler düşmelere daha yatkın olabilir.",
+    "sourceNumber": 229
+  },
+  {
+    "id": 230,
+    "english": "additionally",
+    "turkish": "ek olarak",
+    "exampleEn": "Additionally, the researchers collected data on the patients' dietary habits.",
+    "exampleTr": "Ek olarak araştırmacılar hastaların beslenme alışkanlıklarına ilişkin veri topladı.",
+    "sourceNumber": 230
+  },
+  {
+    "id": 231,
+    "english": "joint",
+    "turkish": "eklem",
+    "exampleEn": "Rheumatoid arthritis causes inflammation in the joints.",
+    "exampleTr": "Romatoid artrit eklemlerde iltihaplanmaya neden olur.",
+    "sourceNumber": 231
+  },
+  {
+    "id": 232,
+    "english": "deficient",
+    "turkish": "eksik",
+    "exampleEn": "The blood test showed that the patient was deficient in iron.",
+    "exampleTr": "Kan testi hastanın demir bakımından eksik olduğunu gösterdi.",
+    "sourceNumber": 232
+  },
+  {
+    "id": 233,
+    "english": "deficiency",
+    "turkish": "eksiklik",
+    "exampleEn": "Iron deficiency is a common cause of anaemia.",
+    "exampleTr": "Demir eksikliği kansızlığın yaygın nedenlerinden biridir.",
+    "sourceNumber": 233
+  },
+  {
+    "id": 234,
+    "english": "palpate",
+    "turkish": "elle muayene etmek",
+    "exampleEn": "The physician palpated the abdomen to check for tenderness.",
+    "exampleTr": "Hekim hassasiyet olup olmadığını kontrol etmek için karın bölgesini elle muayene etti.",
+    "sourceNumber": 234
+  },
+  {
+    "id": 235,
+    "english": "to suck",
+    "turkish": "emmek",
+    "exampleEn": "Newborn babies have a natural reflex to suck.",
+    "exampleTr": "Yeni doğan bebeklerde emmeye yönelik doğal bir refleks bulunur.",
+    "sourceNumber": 235
+  },
+  {
+    "id": 236,
+    "english": "breastfeeding",
+    "turkish": "emzirerek besleme",
+    "exampleEn": "Breastfeeding provides essential nutrients to infants.",
+    "exampleTr": "Emzirme bebeklere temel besin öğelerini sağlar.",
+    "sourceNumber": 236
+  },
+  {
+    "id": 237,
+    "english": "anxiety",
+    "turkish": "endişe, kaygı",
+    "exampleEn": "Anxiety may increase before a major medical procedure.",
+    "exampleTr": "Büyük bir tıbbi işlemden önce kaygı artabilir.",
+    "sourceNumber": 237
+  },
+  {
+    "id": 238,
+    "english": "worrisome",
+    "turkish": "endişe verici, kaygı verici",
+    "exampleEn": "Persistent chest pain is a worrisome symptom that requires assessment.",
+    "exampleTr": "Sürekli göğüs ağrısı değerlendirme gerektiren endişe verici bir belirtidir.",
+    "sourceNumber": 238
+  },
+  {
+    "id": 239,
+    "english": "infarction",
+    "turkish": "enfarktüs",
+    "exampleEn": "A myocardial infarction occurs when blood flow to part of the heart is blocked.",
+    "exampleTr": "Miyokart enfarktüsü, kalbin bir bölümüne giden kan akışı engellendiğinde meydana gelir.",
+    "sourceNumber": 239
+  },
+  {
+    "id": 240,
+    "english": "infected",
+    "turkish": "enfekte olmuş",
+    "exampleEn": "The wound became infected and required further treatment.",
+    "exampleTr": "Yara enfekte oldu ve ek tedavi gerektirdi.",
+    "sourceNumber": 240
   }
 ]
