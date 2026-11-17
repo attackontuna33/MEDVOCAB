@@ -478,5 +478,245 @@
     "exampleEn": "Some patients are hypersensitive to certain medications.",
     "exampleTr": "Bazı hastalar belirli ilaçlara karşı aşırı duyarlıdır.",
     "sourceNumber": 60
+  },
+  {
+    "id": 61,
+    "english": "take in excess",
+    "turkish": "aşırı miktarda almak",
+    "exampleEn": "Taking this medication in excess may damage the liver.",
+    "exampleTr": "Bu ilacı aşırı miktarda almak karaciğere zarar verebilir.",
+    "sourceNumber": 61
+  },
+  {
+    "id": 62,
+    "english": "drowsiness",
+    "turkish": "uyku hali, uyuklama, sersemlik",
+    "exampleEn": "Drowsiness is a possible side effect of some antihistamines.",
+    "exampleTr": "Uyku hâli, bazı antihistaminiklerin olası bir yan etkisidir.",
+    "sourceNumber": 62
+  },
+  {
+    "id": 63,
+    "english": "artery",
+    "turkish": "atardamar",
+    "exampleEn": "The artery carries oxygen-rich blood from the heart to the body.",
+    "exampleTr": "Atardamar, oksijenden zengin kanı kalpten vücuda taşır.",
+    "sourceNumber": 63
+  },
+  {
+    "id": 64,
+    "english": "febrile",
+    "turkish": "ateşli, ateşe ait (febrile seizure: ateşli havale)",
+    "exampleEn": "A febrile seizure may occur in young children with a high fever.",
+    "exampleTr": "Yüksek ateşi olan küçük çocuklarda ateşli havale görülebilir.",
+    "sourceNumber": 64
+  },
+  {
+    "id": 65,
+    "english": "torrid",
+    "turkish": "kavurucu (sıcak); tutkulu",
+    "exampleEn": "The study examined the effects of torrid weather on older patients.",
+    "exampleTr": "Çalışma, kavurucu sıcakların yaşlı hastalar üzerindeki etkilerini inceledi.",
+    "sourceNumber": 65
+  },
+  {
+    "id": 66,
+    "english": "antipyretic",
+    "turkish": "ateş düşürücü (ilaç), antipiretik",
+    "exampleEn": "An antipyretic may be given to reduce a patient's fever.",
+    "exampleTr": "Hastanın ateşini düşürmek için ateş düşürücü verilebilir.",
+    "sourceNumber": 66
+  },
+  {
+    "id": 67,
+    "english": "beat",
+    "turkish": "atma, atım, vuruş; (kalp) atmak",
+    "exampleEn": "The patient's heart continued to beat at a regular rate.",
+    "exampleTr": "Hastanın kalbi düzenli bir hızda atmaya devam etti.",
+    "sourceNumber": 67
+  },
+  {
+    "id": 68,
+    "english": "ankle",
+    "turkish": "ayak bileği",
+    "exampleEn": "The patient experienced swelling around the ankle after the fall.",
+    "exampleTr": "Hasta düşmenin ardından ayak bileği çevresinde şişlik yaşadı.",
+    "sourceNumber": 68
+  },
+  {
+    "id": 69,
+    "english": "outpatient",
+    "turkish": "ayakta tedavi edilen hasta",
+    "exampleEn": "The outpatient returned to the clinic for a follow-up appointment.",
+    "exampleTr": "Ayakta tedavi edilen hasta kontrol randevusu için kliniğe geri geldi.",
+    "sourceNumber": 69
+  },
+  {
+    "id": 70,
+    "english": "distinguish",
+    "turkish": "ayırt etmek, ayrımına varmak",
+    "exampleEn": "The test helps clinicians distinguish viral infections from bacterial ones.",
+    "exampleTr": "Test, klinisyenlerin viral enfeksiyonları bakteriyel enfeksiyonlardan ayırt etmesine yardımcı olur.",
+    "sourceNumber": 70
+  },
+  {
+    "id": 71,
+    "english": "to reduce",
+    "turkish": "azaltmak, hafifletmek",
+    "exampleEn": "Regular exercise can help reduce the risk of cardiovascular disease.",
+    "exampleTr": "Düzenli egzersiz, kalp-damar hastalığı riskini azaltmaya yardımcı olabilir.",
+    "sourceNumber": 71
+  },
+  {
+    "id": 72,
+    "english": "paternal",
+    "turkish": "baba tarafından",
+    "exampleEn": "The patient's paternal family history included several cases of diabetes.",
+    "exampleTr": "Hastanın baba tarafından aile öyküsünde birkaç diyabet vakası bulunuyordu.",
+    "sourceNumber": 72
+  },
+  {
+    "id": 73,
+    "english": "leg",
+    "turkish": "bacak",
+    "exampleEn": "The patient reported pain in the left leg while walking.",
+    "exampleTr": "Hasta yürürken sol bacağında ağrı olduğunu bildirdi.",
+    "sourceNumber": 73
+  },
+  {
+    "id": 74,
+    "english": "gut",
+    "turkish": "bağırsak",
+    "exampleEn": "The gut contains microorganisms that play a role in digestion.",
+    "exampleTr": "Bağırsak, sindirimde rol oynayan mikroorganizmalar içerir.",
+    "sourceNumber": 74
+  },
+  {
+    "id": 75,
+    "english": "lumen",
+    "turkish": "bağırsak vb. tüp şeklindeki bir organın iç boşluğu",
+    "exampleEn": "The tumour narrowed the lumen of the intestine.",
+    "exampleTr": "Tümör, bağırsağın iç boşluğunu daralttı.",
+    "sourceNumber": 75
+  },
+  {
+    "id": 76,
+    "english": "donor",
+    "turkish": "verici, donör, bağışçı",
+    "exampleEn": "The donor volunteered to provide blood for the patient.",
+    "exampleTr": "Bağışçı, hastaya kan vermek için gönüllü oldu.",
+    "sourceNumber": 76
+  },
+  {
+    "id": 77,
+    "english": "immunity",
+    "turkish": "bağışıklık",
+    "exampleEn": "Vaccination helps the body develop immunity against certain diseases.",
+    "exampleTr": "Aşılama, vücudun belirli hastalıklara karşı bağışıklık geliştirmesine yardımcı olur.",
+    "sourceNumber": 77
+  },
+  {
+    "id": 78,
+    "english": "immunization",
+    "turkish": "bağışıklık kazandırma",
+    "exampleEn": "Immunization programmes have reduced the spread of many infectious diseases.",
+    "exampleTr": "Bağışıklama programları birçok bulaşıcı hastalığın yayılmasını azaltmıştır.",
+    "sourceNumber": 78
+  },
+  {
+    "id": 79,
+    "english": "exemption",
+    "turkish": "bağışıklık, muafiyet, immunity",
+    "exampleEn": "The source list gives exemption as a meaning and also notes immunity.",
+    "exampleTr": "Kaynak liste, exemption için bağışıklık ve muafiyet anlamlarını verir; ayrıca immunity karşılığını da belirtir.",
+    "sourceNumber": 79
+  },
+  {
+    "id": 80,
+    "english": "immunocompromised",
+    "turkish": "bağışıklığı baskılanmış, bağışıklığı zayıf",
+    "exampleEn": "Immunocompromised patients may be more vulnerable to severe infections.",
+    "exampleTr": "Bağışıklığı baskılanmış hastalar ağır enfeksiyonlara karşı daha savunmasız olabilir.",
+    "sourceNumber": 80
+  },
+  {
+    "id": 81,
+    "english": "committed",
+    "turkish": "bağlı olan, işlenen",
+    "exampleEn": "The patient remained committed to the prescribed rehabilitation programme.",
+    "exampleTr": "Hasta, reçete edilen rehabilitasyon programına bağlı kalmayı sürdürdü.",
+    "sourceNumber": 81
+  },
+  {
+    "id": 82,
+    "english": "expectorate",
+    "turkish": "balgam çıkarmak, tükürmek",
+    "exampleEn": "Patients with certain respiratory conditions may expectorate thick mucus.",
+    "exampleTr": "Bazı solunum yolu hastalıkları olan hastalar koyu kıvamlı balgam çıkarabilir.",
+    "sourceNumber": 82
+  },
+  {
+    "id": 83,
+    "english": "pressure",
+    "turkish": "basınç",
+    "exampleEn": "The nurse measured the patient's blood pressure during the examination.",
+    "exampleTr": "Hemşire muayene sırasında hastanın kan basıncını ölçtü.",
+    "sourceNumber": 83
+  },
+  {
+    "id": 84,
+    "english": "subdue",
+    "turkish": "bastırmak, suppress",
+    "exampleEn": "The medication helped subdue the inflammation.",
+    "exampleTr": "İlaç, iltihabı baskılamaya yardımcı oldu.",
+    "sourceNumber": 84
+  },
+  {
+    "id": 85,
+    "english": "head",
+    "turkish": "baş",
+    "exampleEn": "The patient complained of a persistent headache.",
+    "exampleTr": "Hasta sürekli devam eden baş ağrısından şikâyet etti.",
+    "sourceNumber": 85
+  },
+  {
+    "id": 86,
+    "english": "dizziness",
+    "turkish": "baş dönmesi",
+    "exampleEn": "Dizziness may occur when a person stands up too quickly.",
+    "exampleTr": "Kişi çok hızlı ayağa kalktığında baş dönmesi görülebilir.",
+    "sourceNumber": 86
+  },
+  {
+    "id": 87,
+    "english": "faint",
+    "turkish": "bayılmak",
+    "exampleEn": "Some patients faint when they see blood or experience severe pain.",
+    "exampleTr": "Bazı hastalar kan gördüklerinde veya şiddetli ağrı yaşadıklarında bayılır.",
+    "sourceNumber": 87
+  },
+  {
+    "id": 88,
+    "english": "mucous coat",
+    "turkish": "bazı uzuvların iç yüzünü kaplayan salgılı zar",
+    "exampleEn": "The mucous coat protects the inner surface of the organ.",
+    "exampleTr": "Salgılı zar, organın iç yüzeyini korur.",
+    "sourceNumber": 88
+  },
+  {
+    "id": 89,
+    "english": "infanticide",
+    "turkish": "bebeklerin öldürülmesi",
+    "exampleEn": "The report examined infanticide as a public health and social concern.",
+    "exampleTr": "Rapor, bebeklerin öldürülmesini bir halk sağlığı ve toplumsal sorun olarak inceledi.",
+    "sourceNumber": 89
+  },
+  {
+    "id": 90,
+    "english": "to fail",
+    "turkish": "becerememek, başaramamak; (organ) işlevini yitirmek",
+    "exampleEn": "The kidneys may fail when they are severely damaged.",
+    "exampleTr": "Böbrekler ciddi biçimde hasar gördüğünde işlevlerini yitirebilir.",
+    "sourceNumber": 90
   }
 ]
