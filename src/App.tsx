@@ -19,6 +19,7 @@ export default function App() {
   const [cardFlipped,setCardFlipped] = useState(false);
   const [exampleShown,setExampleShown] = useState(false);
   const [heartBurst,setHeartBurst] = useState(false);
+  const [introDone,setIntroDone] = useState(false);
   const [direction,setDirection] = useState<"en-tr"|"tr-en">("en-tr");
   const [sessionDone,setSessionDone] = useState(0);
   const [examMode,setExamMode] = useState<"vocabulary"|"context"|"reading"|"mixed">("vocabulary");
@@ -28,6 +29,7 @@ export default function App() {
   const [examAnswers,setExamAnswers] = useState<Record<number,string>>({});
   const [examDone,setExamDone] = useState(false);
 
+  useEffect(() => { const timer=window.setTimeout(()=>setIntroDone(true),5000); return ()=>window.clearTimeout(timer); },[]);
   useEffect(() => { fetch(`${import.meta.env.BASE_URL}data/words.json`).then(r=>r.json()).then((data:Word[])=>setWords(data)).catch(()=>setWords([])); },[]);
   useEffect(() => { if (!words.length) return; try { const saved=localStorage.getItem(STORAGE); const parsed=saved?JSON.parse(saved) as ProgressMap:{}; setProgress({...initialProgress(words),...(parsed&&typeof parsed==="object"?parsed:{})}); } catch { setProgress(initialProgress(words)); } },[words]);
   useEffect(() => { if (Object.keys(progress).length) localStorage.setItem(STORAGE,JSON.stringify(progress)); },[progress]);
@@ -64,6 +66,8 @@ export default function App() {
     const accepted=q.kind==="context"?[q.word.english]:q.word.turkish.split(/[;,]/).map(s=>s.trim());
     return accepted.some(item=>answer===normalise(item)||(normalise(item).includes(answer)&&answer.length>2));
   }).length;
+
+  if(!introDone) return <main className="intro-screen" aria-label="MEDVOCAB açılış ekranı"><div className="intro-logo">M</div><h1>Seni Çok Seviyorum</h1><p>MEDVOCAB</p><div className="intro-countdown"><span /></div></main>;
 
   return <div className="app-shell">
     <aside className="sidebar"><div className="brand"><span className="brand-mark">M</span><div><b>MEDVOCAB</b><small>HEALTH ENGLISH</small></div></div>
