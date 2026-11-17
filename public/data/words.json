@@ -2158,5 +2158,245 @@
     "exampleEn": "A genetic mutation may increase the risk of developing an inherited disorder.",
     "exampleTr": "Genetik bir mutasyon kalıtsal bir bozukluk geliştirme riskini artırabilir.",
     "sourceNumber": 270
+  },
+  {
+    "id": 271,
+    "english": "dilate",
+    "turkish": "genişletmek, genişlemek",
+    "exampleEn": "The doctor used medication to dilate the patient's blood vessels.",
+    "exampleTr": "Doktor hastanın kan damarlarını genişletmek için ilaç kullandı.",
+    "sourceNumber": 271
+  },
+  {
+    "id": 272,
+    "english": "real",
+    "turkish": "gerçek",
+    "exampleEn": "The study aimed to determine the real cause of the symptoms.",
+    "exampleTr": "Çalışma belirtilerin gerçek nedenini belirlemeyi amaçladı.",
+    "sourceNumber": 272
+  },
+  {
+    "id": 273,
+    "english": "to take place",
+    "turkish": "gerçekleşmek",
+    "exampleEn": "The clinical trial will take place at three hospitals.",
+    "exampleTr": "Klinik araştırma üç hastanede gerçekleşecek.",
+    "sourceNumber": 273
+  },
+  {
+    "id": 274,
+    "english": "actually",
+    "turkish": "gerçekte",
+    "exampleEn": "The results were actually different from what the researchers had expected.",
+    "exampleTr": "Sonuçlar gerçekte araştırmacıların beklediğinden farklıydı.",
+    "sourceNumber": 274
+  },
+  {
+    "id": 275,
+    "english": "superfluous",
+    "turkish": "gereksiz",
+    "exampleEn": "The additional test was considered superfluous because the diagnosis was already clear.",
+    "exampleTr": "Tanı zaten açık olduğu için ek test gereksiz kabul edildi.",
+    "sourceNumber": 275
+  },
+  {
+    "id": 276,
+    "english": "reversible",
+    "turkish": "geri dönüşlü",
+    "exampleEn": "Some causes of kidney dysfunction are reversible with timely treatment.",
+    "exampleTr": "Böbrek işlev bozukluğunun bazı nedenleri zamanında tedaviyle geri dönüşlüdür.",
+    "sourceNumber": 276
+  },
+  {
+    "id": 277,
+    "english": "irreversible",
+    "turkish": "geri dönüşsüz",
+    "exampleEn": "Prolonged oxygen deprivation can cause irreversible brain damage.",
+    "exampleTr": "Uzun süreli oksijen yoksunluğu geri dönüşsüz beyin hasarına neden olabilir.",
+    "sourceNumber": 277
+  },
+  {
+    "id": 278,
+    "english": "tensile",
+    "turkish": "gerilebilir, gerilmeyle ilgili, çekme (dayanımı)",
+    "exampleEn": "The researchers measured the tensile strength of the surgical material.",
+    "exampleTr": "Araştırmacılar cerrahi malzemenin çekme dayanımını ölçtü.",
+    "sourceNumber": 278
+  },
+  {
+    "id": 279,
+    "english": "tension",
+    "turkish": "gerilim",
+    "exampleEn": "Muscle tension may contribute to neck pain.",
+    "exampleTr": "Kas gerilimi boyun ağrısına katkıda bulunabilir.",
+    "sourceNumber": 279
+  },
+  {
+    "id": 280,
+    "english": "to stretch",
+    "turkish": "germek, gerginleştirmek",
+    "exampleEn": "The patient was advised to stretch the muscles gently before exercise.",
+    "exampleTr": "Hastaya egzersizden önce kaslarını nazikçe germesi önerildi.",
+    "sourceNumber": 280
+  },
+  {
+    "id": 281,
+    "english": "strain",
+    "turkish": "germek, gerilim, zorlanma; (mikrop) suşu",
+    "exampleEn": "The laboratory identified the bacterial strain responsible for the infection.",
+    "exampleTr": "Laboratuvar enfeksiyondan sorumlu bakteri suşunu belirledi.",
+    "sourceNumber": 281
+  },
+  {
+    "id": 282,
+    "english": "migratory",
+    "turkish": "gezici",
+    "exampleEn": "The patient described migratory pain that moved from one joint to another.",
+    "exampleTr": "Hasta bir eklemden diğerine geçen gezici ağrıyı tarif etti.",
+    "sourceNumber": 282
+  },
+  {
+    "id": 283,
+    "english": "notch",
+    "turkish": "girinti, çentik",
+    "exampleEn": "The imaging revealed a small notch in the bone.",
+    "exampleTr": "Görüntüleme kemikte küçük bir çentik ortaya çıkardı.",
+    "sourceNumber": 283
+  },
+  {
+    "id": 284,
+    "english": "breast",
+    "turkish": "göğüs, meme",
+    "exampleEn": "Breast screening can help detect cancer at an early stage.",
+    "exampleTr": "Meme taraması kanserin erken aşamada saptanmasına yardımcı olabilir.",
+    "sourceNumber": 284
+  },
+  {
+    "id": 285,
+    "english": "chest",
+    "turkish": "göğüs",
+    "exampleEn": "The patient complained of chest pain and shortness of breath.",
+    "exampleTr": "Hasta göğüs ağrısı ve nefes darlığından şikâyet etti.",
+    "sourceNumber": 285
+  },
+  {
+    "id": 286,
+    "english": "shadow",
+    "turkish": "gölge",
+    "exampleEn": "A shadow was visible on the chest X-ray.",
+    "exampleTr": "Göğüs röntgeninde bir gölge görüldü.",
+    "sourceNumber": 286
+  },
+  {
+    "id": 287,
+    "english": "appearance",
+    "turkish": "görünüm, görünüş",
+    "exampleEn": "The appearance of the skin changed after the allergic reaction.",
+    "exampleTr": "Alerjik reaksiyondan sonra cildin görünümü değişti.",
+    "sourceNumber": 287
+  },
+  {
+    "id": 288,
+    "english": "pupillary dilation",
+    "turkish": "göz bebeğinin açılması",
+    "exampleEn": "Pupillary dilation was observed during the eye examination.",
+    "exampleTr": "Göz muayenesi sırasında göz bebeğinin genişlemesi gözlemlendi.",
+    "sourceNumber": 288
+  },
+  {
+    "id": 289,
+    "english": "eyeball",
+    "turkish": "göz küresi",
+    "exampleEn": "The injury affected the tissues surrounding the eyeball.",
+    "exampleTr": "Yaralanma göz küresini çevreleyen dokuları etkiledi.",
+    "sourceNumber": 289
+  },
+  {
+    "id": 290,
+    "english": "tear",
+    "turkish": "gözyaşı; yırtık, yırtılma",
+    "exampleEn": "The scan showed a small tear in the muscle.",
+    "exampleTr": "Tarama kas dokusunda küçük bir yırtık gösterdi.",
+    "sourceNumber": 290
+  },
+  {
+    "id": 291,
+    "english": "loss of muscle",
+    "turkish": "kas kaybı",
+    "exampleEn": "Prolonged inactivity can lead to loss of muscle mass.",
+    "exampleTr": "Uzun süre hareketsiz kalmak kas kütlesi kaybına yol açabilir.",
+    "sourceNumber": 291
+  },
+  {
+    "id": 292,
+    "english": "every-other-day",
+    "turkish": "gün aşırı",
+    "exampleEn": "The patient was instructed to take the medication every-other-day.",
+    "exampleTr": "Hastaya ilacı gün aşırı alması talimatı verildi.",
+    "sourceNumber": 292
+  },
+  {
+    "id": 293,
+    "english": "unreliable",
+    "turkish": "güvenilmez, sağlıksız",
+    "exampleEn": "An unreliable measurement should be repeated under controlled conditions.",
+    "exampleTr": "Güvenilmez bir ölçüm kontrollü koşullar altında tekrarlanmalıdır.",
+    "sourceNumber": 293
+  },
+  {
+    "id": 294,
+    "english": "volume",
+    "turkish": "hacim",
+    "exampleEn": "The nurse recorded the volume of fluid administered to the patient.",
+    "exampleTr": "Hemşire hastaya verilen sıvının hacmini kaydetti.",
+    "sourceNumber": 294
+  },
+  {
+    "id": 295,
+    "english": "memory",
+    "turkish": "hafıza",
+    "exampleEn": "Memory problems can occur in people with neurological disorders.",
+    "exampleTr": "Nörolojik bozukluğu olan kişilerde hafıza sorunları görülebilir.",
+    "sourceNumber": 295
+  },
+  {
+    "id": 296,
+    "english": "hallucination",
+    "turkish": "halüsinasyon",
+    "exampleEn": "The patient reported visual hallucinations after taking the medication.",
+    "exampleTr": "Hasta ilacı aldıktan sonra görsel halüsinasyonlar bildirdi.",
+    "sourceNumber": 296
+  },
+  {
+    "id": 297,
+    "english": "pregnant",
+    "turkish": "hamile",
+    "exampleEn": "Pregnant women should consult a healthcare professional before using medication.",
+    "exampleTr": "Hamile kadınlar ilaç kullanmadan önce bir sağlık uzmanına danışmalıdır.",
+    "sourceNumber": 297
+  },
+  {
+    "id": 298,
+    "english": "particular",
+    "turkish": "has, özgü, özel",
+    "exampleEn": "The treatment is recommended for patients with a particular type of infection.",
+    "exampleTr": "Tedavi, belirli bir enfeksiyon türüne sahip hastalar için önerilir.",
+    "sourceNumber": 298
+  },
+  {
+    "id": 299,
+    "english": "sick",
+    "turkish": "hasta",
+    "exampleEn": "The sick child was examined by a paediatrician.",
+    "exampleTr": "Hasta çocuk bir çocuk doktoru tarafından muayene edildi.",
+    "sourceNumber": 299
+  },
+  {
+    "id": 300,
+    "english": "afflict",
+    "turkish": "(hastalık) etkilemek, acı çektirmek, zarar vermek",
+    "exampleEn": "Chronic respiratory diseases afflict millions of people worldwide.",
+    "exampleTr": "Kronik solunum yolu hastalıkları dünya çapında milyonlarca insanı etkiler.",
+    "sourceNumber": 300
   }
 ]
