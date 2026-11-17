@@ -14,7 +14,10 @@ export default function App() {
   const [words,setWords] = useState<Word[]>([]);
   const [progress,setProgress] = useState<ProgressMap>({});
   const [tab,setTab] = useState("today");
-  const [revealed,setRevealed] = useState(false);\n  const [cardIndex,setCardIndex] = useState(0);\n  const [cardFlipped,setCardFlipped] = useState(false);\n  const [exampleShown,setExampleShown] = useState(false);
+  const [revealed,setRevealed] = useState(false);
+  const [cardIndex,setCardIndex] = useState(0);
+  const [cardFlipped,setCardFlipped] = useState(false);
+  const [exampleShown,setExampleShown] = useState(false);
   const [direction,setDirection] = useState<"en-tr"|"tr-en">("en-tr");
   const [sessionDone,setSessionDone] = useState(0);
   const [examMode,setExamMode] = useState<"vocabulary"|"context"|"reading"|"mixed">("vocabulary");
@@ -32,7 +35,8 @@ export default function App() {
   const fresh = useMemo(()=>words.filter(w=>(progress[w.id]?.status??"new")==="new"),[words,progress]);
   const todayCount = Object.values(progress).filter(p=>p.newSeenAt && new Date(p.newSeenAt).toDateString()===new Date().toDateString()).length;
   const queue = useMemo(()=>[...due,...fresh.slice(0,Math.max(0,20-todayCount))],[due,fresh,todayCount]);
-  const current = queue[0];\n  const currentCard = words[cardIndex];
+  const current = queue[0];
+  const currentCard = words[cardIndex];
   const studied = todayCount;
   const learned = Object.values(progress).filter(p=>p.status==="known").length;
   const wrong = words.filter(w=>(progress[w.id]?.wrong??0)>0).sort((a,b)=>(progress[b.id]?.wrong??0)-(progress[a.id]?.wrong??0));
