@@ -4558,5 +4558,245 @@
     "exampleEn": "Diabetes can lead to peripheral neuropathy.",
     "exampleTr": "Diyabet periferik nöropatiye yol açabilir.",
     "sourceNumber": 570
+  },
+  {
+    "id": 571,
+    "english": "irritability",
+    "turkish": "sinirlilik, asabilik",
+    "exampleEn": "Irritability may occur in children who are experiencing sleep deprivation.",
+    "exampleTr": "Uykusuzluk yaşayan çocuklarda sinirlilik görülebilir.",
+    "sourceNumber": 571
+  },
+  {
+    "id": 572,
+    "english": "insidious",
+    "turkish": "sinsi, gizli",
+    "exampleEn": "The disease may have an insidious onset with few noticeable symptoms.",
+    "exampleTr": "Hastalık, fark edilebilir az sayıda belirtiyle sinsi bir başlangıç gösterebilir.",
+    "sourceNumber": 572
+  },
+  {
+    "id": 573,
+    "english": "sinusitis",
+    "turkish": "sinüzit",
+    "exampleEn": "Sinusitis can cause facial pain, nasal congestion, and headache.",
+    "exampleTr": "Sinüzit yüz ağrısına, burun tıkanıklığına ve baş ağrısına neden olabilir.",
+    "sourceNumber": 573
+  },
+  {
+    "id": 574,
+    "english": "inhaler",
+    "turkish": "inhaler, ilacı nefesle ciğerlere veren aygıt",
+    "exampleEn": "The patient used an inhaler to deliver medication directly to the lungs.",
+    "exampleTr": "Hasta ilacı doğrudan akciğerlere ulaştırmak için inhaler kullandı.",
+    "sourceNumber": 574
+  },
+  {
+    "id": 575,
+    "english": "breathlessness",
+    "turkish": "soluk alamama, soluksuzluk",
+    "exampleEn": "Persistent breathlessness should be assessed by a medical professional.",
+    "exampleTr": "Sürekli soluksuzluk bir sağlık uzmanı tarafından değerlendirilmelidir.",
+    "sourceNumber": 575
+  },
+  {
+    "id": 576,
+    "english": "windpipe",
+    "turkish": "soluk borusu",
+    "exampleEn": "The windpipe carries air from the throat to the lungs.",
+    "exampleTr": "Soluk borusu havayı boğazdan akciğerlere taşır.",
+    "sourceNumber": 576
+  },
+  {
+    "id": 577,
+    "english": "expiration",
+    "turkish": "soluk verme, nefes verme; (süre) dolma",
+    "exampleEn": "Expiration is the process of breathing air out of the lungs.",
+    "exampleTr": "Ekspirasyon, havanın akciğerlerden dışarı verilmesi sürecidir.",
+    "sourceNumber": 577
+  },
+  {
+    "id": 578,
+    "english": "respiration",
+    "turkish": "soluma, solunum",
+    "exampleEn": "Respiration supplies oxygen to the body and removes carbon dioxide.",
+    "exampleTr": "Solunum vücuda oksijen sağlar ve karbondioksiti uzaklaştırır.",
+    "sourceNumber": 578
+  },
+  {
+    "id": 579,
+    "english": "to respirate",
+    "turkish": "solumak, soluk alıp vermek",
+    "exampleEn": "The patient continued to respirate without mechanical assistance.",
+    "exampleTr": "Hasta mekanik destek olmadan soluk alıp vermeye devam etti.",
+    "sourceNumber": 579
+  },
+  {
+    "id": 580,
+    "english": "ventilator",
+    "turkish": "solunum cihazı, ventilatör",
+    "exampleEn": "A ventilator supports patients who cannot breathe adequately on their own.",
+    "exampleTr": "Ventilatör kendi başına yeterli solunum yapamayan hastaları destekler.",
+    "sourceNumber": 580
+  },
+  {
+    "id": 581,
+    "english": "respiratory system",
+    "turkish": "solunum sistemi",
+    "exampleEn": "The respiratory system brings oxygen into the body.",
+    "exampleTr": "Solunum sistemi vücuda oksijen alınmasını sağlar.",
+    "sourceNumber": 581
+  },
+  {
+    "id": 582,
+    "english": "to terminate",
+    "turkish": "sonlandırmak, bitirmek",
+    "exampleEn": "The researchers decided to terminate the trial because of safety concerns.",
+    "exampleTr": "Araştırmacılar güvenlik endişeleri nedeniyle denemeyi sonlandırmaya karar verdi.",
+    "sourceNumber": 582
+  },
+  {
+    "id": 583,
+    "english": "as a consequence",
+    "turkish": "sonuç olarak",
+    "exampleEn": "The patient missed several doses; as a consequence, the symptoms returned.",
+    "exampleTr": "Hasta birkaç dozu kaçırdı; sonuç olarak belirtiler geri döndü.",
+    "sourceNumber": 583
+  },
+  {
+    "id": 584,
+    "english": "as a result",
+    "turkish": "sonuç olarak",
+    "exampleEn": "The infection spread rapidly, and as a result, the ward was temporarily closed.",
+    "exampleTr": "Enfeksiyon hızla yayıldı ve sonuç olarak servis geçici olarak kapatıldı.",
+    "sourceNumber": 584
+  },
+  {
+    "id": 585,
+    "english": "conclusive",
+    "turkish": "kesin, kesin sonuç veren",
+    "exampleEn": "The initial test did not provide conclusive evidence of infection.",
+    "exampleTr": "İlk test enfeksiyona ilişkin kesin kanıt sağlamadı.",
+    "sourceNumber": 585
+  },
+  {
+    "id": 586,
+    "english": "stenosis",
+    "turkish": "stenoz, darlık",
+    "exampleEn": "The scan revealed stenosis in one of the coronary arteries.",
+    "exampleTr": "Görüntüleme koroner atardamarlardan birinde darlık ortaya çıkardı.",
+    "sourceNumber": 586
+  },
+  {
+    "id": 587,
+    "english": "reserve",
+    "turkish": "stok, rezerv",
+    "exampleEn": "The hospital maintained a reserve of essential medical supplies.",
+    "exampleTr": "Hastane temel tıbbi malzemelerden bir stok bulundurdu.",
+    "sourceNumber": 587
+  },
+  {
+    "id": 588,
+    "english": "to wash out",
+    "turkish": "su ile temizlemek",
+    "exampleEn": "The wound was washed out with sterile saline solution.",
+    "exampleTr": "Yara steril tuzlu su çözeltisiyle temizlendi.",
+    "sourceNumber": 588
+  },
+  {
+    "id": 589,
+    "english": "thirst",
+    "turkish": "susama",
+    "exampleEn": "Excessive thirst can be a symptom of high blood glucose.",
+    "exampleTr": "Aşırı susama yüksek kan glikozunun bir belirtisi olabilir.",
+    "sourceNumber": 589
+  },
+  {
+    "id": 590,
+    "english": "duration",
+    "turkish": "süre",
+    "exampleEn": "The duration of treatment depends on the type and severity of the infection.",
+    "exampleTr": "Tedavinin süresi enfeksiyonun türüne ve şiddetine bağlıdır.",
+    "sourceNumber": 590
+  },
+  {
+    "id": 591,
+    "english": "during",
+    "turkish": "süresince, boyunca",
+    "exampleEn": "Blood pressure was monitored during the operation.",
+    "exampleTr": "Ameliyat boyunca kan basıncı izlendi.",
+    "sourceNumber": 591
+  },
+  {
+    "id": 592,
+    "english": "infant",
+    "turkish": "süt çocuğu, bebek",
+    "exampleEn": "The infant was examined by a paediatric specialist.",
+    "exampleTr": "Bebek bir çocuk sağlığı uzmanı tarafından muayene edildi.",
+    "sourceNumber": 592
+  },
+  {
+    "id": 593,
+    "english": "anthrax",
+    "turkish": "şarbon",
+    "exampleEn": "Anthrax is an infectious disease caused by the bacterium Bacillus anthracis.",
+    "exampleTr": "Şarbon, Bacillus anthracis bakterisinin neden olduğu bulaşıcı bir hastalıktır.",
+    "sourceNumber": 593
+  },
+  {
+    "id": 594,
+    "english": "violent",
+    "turkish": "şiddetli",
+    "exampleEn": "The patient experienced violent coughing during the night.",
+    "exampleTr": "Hasta gece boyunca şiddetli öksürük yaşadı.",
+    "sourceNumber": 594
+  },
+  {
+    "id": 595,
+    "english": "distension",
+    "turkish": "şişkinlik",
+    "exampleEn": "Abdominal distension may occur when gas accumulates in the intestines.",
+    "exampleTr": "Bağırsaklarda gaz biriktiğinde karında şişkinlik meydana gelebilir.",
+    "sourceNumber": 595
+  },
+  {
+    "id": 596,
+    "english": "obesity",
+    "turkish": "şişmanlık, obezite",
+    "exampleEn": "Obesity is associated with an increased risk of type 2 diabetes.",
+    "exampleTr": "Obezite, tip 2 diyabet riskinde artışla ilişkilidir.",
+    "sourceNumber": 596
+  },
+  {
+    "id": 597,
+    "english": "swelling",
+    "turkish": "şişme, şiş",
+    "exampleEn": "The swelling around the injured ankle gradually decreased.",
+    "exampleTr": "Yaralı ayak bileğinin çevresindeki şişlik yavaş yavaş azaldı.",
+    "sourceNumber": 597
+  },
+  {
+    "id": 598,
+    "english": "turgid",
+    "turkish": "şişmiş",
+    "exampleEn": "The tissue appeared turgid because of fluid accumulation.",
+    "exampleTr": "Sıvı birikimi nedeniyle doku şişmiş görünüyordu.",
+    "sourceNumber": 598
+  },
+  {
+    "id": 599,
+    "english": "swollen joint",
+    "turkish": "şişmiş eklem",
+    "exampleEn": "A swollen joint may indicate inflammation or injury.",
+    "exampleTr": "Şişmiş bir eklem iltihaplanmaya veya yaralanmaya işaret edebilir.",
+    "sourceNumber": 599
+  },
+  {
+    "id": 600,
+    "english": "schizophrenia",
+    "turkish": "şizofreni",
+    "exampleEn": "Schizophrenia is a mental health disorder that requires ongoing care.",
+    "exampleTr": "Şizofreni sürekli bakım gerektiren bir ruh sağlığı bozukluğudur.",
+    "sourceNumber": 600
   }
 ]
