@@ -5038,5 +5038,245 @@
     "exampleEn": "The urine sample was examined for sediment under a microscope.",
     "exampleTr": "İdrar örneği mikroskop altında tortu açısından incelendi.",
     "sourceNumber": 630
+  },
+  {
+    "id": 631,
+    "english": "therapeutically",
+    "turkish": "terapötik olarak, tedavi amacıyla",
+    "exampleEn": "The drug is used therapeutically to reduce inflammation.",
+    "exampleTr": "İlaç iltihaplanmayı azaltmak amacıyla terapötik olarak kullanılır.",
+    "sourceNumber": 631
+  },
+  {
+    "id": 632,
+    "english": "post-traumatic",
+    "turkish": "travma sonrası",
+    "exampleEn": "Post-traumatic stress symptoms may develop after a severe accident.",
+    "exampleTr": "Şiddetli bir kazadan sonra travma sonrası stres belirtileri gelişebilir.",
+    "sourceNumber": 632
+  },
+  {
+    "id": 633,
+    "english": "spark",
+    "turkish": "trigger, provoke, tetiklemek",
+    "exampleEn": "The infection may spark an inflammatory response in the body.",
+    "exampleTr": "Enfeksiyon vücutta iltihabi bir yanıtı tetikleyebilir.",
+    "sourceNumber": 633
+  },
+  {
+    "id": 634,
+    "english": "platelet",
+    "turkish": "trombosit",
+    "exampleEn": "Platelets help the blood to clot and prevent excessive bleeding.",
+    "exampleTr": "Trombositler kanın pıhtılaşmasına yardımcı olur ve aşırı kanamayı önler.",
+    "sourceNumber": 634
+  },
+  {
+    "id": 635,
+    "english": "consumption",
+    "turkish": "tüketim; (eskimiş) verem",
+    "exampleEn": "The study assessed daily salt consumption among adults.",
+    "exampleTr": "Çalışma yetişkinler arasında günlük tuz tüketimini değerlendirdi.",
+    "sourceNumber": 635
+  },
+  {
+    "id": 636,
+    "english": "metastasize",
+    "turkish": "metastaz yapmak, (kanser) başka organlara yayılmak",
+    "exampleEn": "Some cancer cells can metastasize to distant organs.",
+    "exampleTr": "Bazı kanser hücreleri uzak organlara metastaz yapabilir.",
+    "sourceNumber": 636
+  },
+  {
+    "id": 637,
+    "english": "tumor",
+    "turkish": "tümör",
+    "exampleEn": "The scan revealed a small tumor in the patient's lung.",
+    "exampleTr": "Görüntüleme hastanın akciğerinde küçük bir tümör ortaya çıkardı.",
+    "sourceNumber": 637
+  },
+  {
+    "id": 638,
+    "english": "tobacco",
+    "turkish": "tütün",
+    "exampleEn": "Tobacco use increases the risk of several serious diseases.",
+    "exampleTr": "Tütün kullanımı birçok ciddi hastalığın riskini artırır.",
+    "sourceNumber": 638
+  },
+  {
+    "id": 639,
+    "english": "national health scheme",
+    "turkish": "ulusal sağlık planı",
+    "exampleEn": "The national health scheme aims to improve access to medical services.",
+    "exampleTr": "Ulusal sağlık planı tıbbi hizmetlere erişimi iyileştirmeyi amaçlar.",
+    "sourceNumber": 639
+  },
+  {
+    "id": 640,
+    "english": "wakefulness",
+    "turkish": "uyanıklık hali",
+    "exampleEn": "The medication may increase wakefulness during the day.",
+    "exampleTr": "İlaç gün içinde uyanıklık hâlini artırabilir.",
+    "sourceNumber": 640
+  },
+  {
+    "id": 641,
+    "english": "stimulant",
+    "turkish": "uyarıcı madde",
+    "exampleEn": "Caffeine is a stimulant that can temporarily increase alertness.",
+    "exampleTr": "Kafein uyanıklığı geçici olarak artırabilen bir uyarıcı maddedir.",
+    "sourceNumber": 641
+  },
+  {
+    "id": 642,
+    "english": "dormancy",
+    "turkish": "uyku dönemi, etkinsiz kalma dönemi (virüs, hücre vb.)",
+    "exampleEn": "Some viruses can remain in a state of dormancy inside the body.",
+    "exampleTr": "Bazı virüsler vücutta uyku hâlinde kalabilir.",
+    "sourceNumber": 642
+  },
+  {
+    "id": 643,
+    "english": "insomnia",
+    "turkish": "uykusuzluk",
+    "exampleEn": "Insomnia can negatively affect concentration and memory.",
+    "exampleTr": "Uykusuzluk konsantrasyonu ve hafızayı olumsuz etkileyebilir.",
+    "sourceNumber": 643
+  },
+  {
+    "id": 644,
+    "english": "numbness",
+    "turkish": "uyuşma, his kaybı",
+    "exampleEn": "The patient reported numbness in the fingers of the right hand.",
+    "exampleTr": "Hasta sağ elinin parmaklarında uyuşma olduğunu bildirdi.",
+    "sourceNumber": 644
+  },
+  {
+    "id": 645,
+    "english": "drug addiction",
+    "turkish": "uyuşturucu bağımlılığı",
+    "exampleEn": "Drug addiction is a complex condition that often requires long-term treatment.",
+    "exampleTr": "Uyuşturucu bağımlılığı çoğu zaman uzun süreli tedavi gerektiren karmaşık bir durumdur.",
+    "sourceNumber": 645
+  },
+  {
+    "id": 646,
+    "english": "lethargy",
+    "turkish": "uyuşukluk",
+    "exampleEn": "Lethargy may be a symptom of infection or metabolic disturbance.",
+    "exampleTr": "Uyuşukluk enfeksiyonun veya metabolik bozukluğun bir belirtisi olabilir.",
+    "sourceNumber": 646
+  },
+  {
+    "id": 647,
+    "english": "specialisation",
+    "turkish": "uzmanlaşma",
+    "exampleEn": "Medical specialisation requires years of additional training.",
+    "exampleTr": "Tıpta uzmanlaşma yıllarca süren ek eğitim gerektirir.",
+    "sourceNumber": 647
+  },
+  {
+    "id": 648,
+    "english": "component",
+    "turkish": "bileşen, parça, öğe",
+    "exampleEn": "Each component of the treatment plan was reviewed by the medical team.",
+    "exampleTr": "Tedavi planının her bileşeni sağlık ekibi tarafından gözden geçirildi.",
+    "sourceNumber": 648
+  },
+  {
+    "id": 649,
+    "english": "amputation",
+    "turkish": "uzvun kesilmesi, ampütasyon",
+    "exampleEn": "Severe tissue damage may make amputation necessary.",
+    "exampleTr": "Şiddetli doku hasarı uzvun kesilmesini gerekli kılabilir.",
+    "sourceNumber": 649
+  },
+  {
+    "id": 650,
+    "english": "triad",
+    "turkish": "üçlü, üçlü (belirti) grubu",
+    "exampleEn": "The physician looked for the triad of symptoms associated with the condition.",
+    "exampleTr": "Hekim durumla ilişkili üçlü belirti grubunu aradı.",
+    "sourceNumber": 650
+  },
+  {
+    "id": 651,
+    "english": "ulcer",
+    "turkish": "ülser",
+    "exampleEn": "A stomach ulcer can cause pain and discomfort after eating.",
+    "exampleTr": "Mide ülseri yemek yedikten sonra ağrıya ve rahatsızlığa neden olabilir.",
+    "sourceNumber": 651
+  },
+  {
+    "id": 652,
+    "english": "manufacture",
+    "turkish": "üretmek",
+    "exampleEn": "Pharmaceutical companies manufacture medicines under strict quality standards.",
+    "exampleTr": "İlaç şirketleri katı kalite standartları altında ilaç üretir.",
+    "sourceNumber": 652
+  },
+  {
+    "id": 653,
+    "english": "propagate",
+    "turkish": "üretmek, çoğaltmak",
+    "exampleEn": "Certain bacteria can propagate rapidly under favourable conditions.",
+    "exampleTr": "Bazı bakteriler uygun koşullar altında hızla çoğalabilir.",
+    "sourceNumber": 653
+  },
+  {
+    "id": 654,
+    "english": "reproductive",
+    "turkish": "üremeyle ilgili",
+    "exampleEn": "The study examined reproductive health in young adults.",
+    "exampleTr": "Çalışma genç yetişkinlerde üreme sağlığını inceledi.",
+    "sourceNumber": 654
+  },
+  {
+    "id": 655,
+    "english": "urticaria",
+    "turkish": "ürtiker, kurdeşen",
+    "exampleEn": "Urticaria causes itchy raised welts on the skin.",
+    "exampleTr": "Ürtiker ciltte kaşıntılı kabarık plaklara neden olur.",
+    "sourceNumber": 655
+  },
+  {
+    "id": 656,
+    "english": "moreover",
+    "turkish": "üstelik",
+    "exampleEn": "The treatment is effective; moreover, it has a relatively low risk of side effects.",
+    "exampleTr": "Tedavi etkilidir; üstelik yan etki riski nispeten düşüktür.",
+    "sourceNumber": 656
+  },
+  {
+    "id": 657,
+    "english": "overlying",
+    "turkish": "üzerinde uzanan",
+    "exampleEn": "The doctor examined the skin overlying the affected joint.",
+    "exampleTr": "Doktor etkilenen eklemin üzerinde uzanan cildi muayene etti.",
+    "sourceNumber": 657
+  },
+  {
+    "id": 658,
+    "english": "inoculation",
+    "turkish": "vaccination, injection, aşı, aşılama",
+    "exampleEn": "Inoculation can stimulate the immune system to recognise a pathogen.",
+    "exampleTr": "Aşılama, bağışıklık sistemini bir patojeni tanıması için uyarabilir.",
+    "sourceNumber": 658
+  },
+  {
+    "id": 659,
+    "english": "varix",
+    "turkish": "varis",
+    "exampleEn": "A varix is an abnormally enlarged vein.",
+    "exampleTr": "Varis, anormal biçimde genişlemiş bir toplardamardır.",
+    "sourceNumber": 659
+  },
+  {
+    "id": 660,
+    "english": "via",
+    "turkish": "vasıtasıyla, yoluyla",
+    "exampleEn": "The infection was transmitted via contaminated water.",
+    "exampleTr": "Enfeksiyon kontamine su yoluyla bulaştı.",
+    "sourceNumber": 660
   }
 ]
