@@ -2878,5 +2878,245 @@
     "exampleEn": "The programme provides medical care as well as nutritional support.",
     "exampleTr": "Program, beslenme desteğinin yanı sıra tıbbi bakım da sağlar.",
     "sourceNumber": 360
+  },
+  {
+    "id": 361,
+    "english": "skull",
+    "turkish": "kafatası",
+    "exampleEn": "The skull protects the brain from external injury.",
+    "exampleTr": "Kafatası beyni dış yaralanmalardan korur.",
+    "sourceNumber": 361
+  },
+  {
+    "id": 362,
+    "english": "intracranial",
+    "turkish": "kafatası içinde bulunan",
+    "exampleEn": "Intracranial pressure was monitored after the head injury.",
+    "exampleTr": "Kafa travmasından sonra kafa içi basınç izlendi.",
+    "sourceNumber": 362
+  },
+  {
+    "id": 363,
+    "english": "hip",
+    "turkish": "kalça (hip fracture: kalça kırığı)",
+    "exampleEn": "The patient was unable to bear weight after the hip fracture.",
+    "exampleTr": "Hasta kalça kırığından sonra ağırlığını taşıyamadı.",
+    "sourceNumber": 363
+  },
+  {
+    "id": 364,
+    "english": "bowel",
+    "turkish": "bağırsak (özellikle kalın bağırsak)",
+    "exampleEn": "The disease can affect the bowel and cause abdominal pain.",
+    "exampleTr": "Hastalık bağırsağı etkileyerek karın ağrısına neden olabilir.",
+    "sourceNumber": 364
+  },
+  {
+    "id": 365,
+    "english": "heredity",
+    "turkish": "kalıtım, soyaçekim",
+    "exampleEn": "Heredity can influence a person's risk of developing certain diseases.",
+    "exampleTr": "Kalıtım, kişinin belirli hastalıkları geliştirme riskini etkileyebilir.",
+    "sourceNumber": 365
+  },
+  {
+    "id": 366,
+    "english": "hereditary",
+    "turkish": "kalıtsal, irsi",
+    "exampleEn": "The patient was diagnosed with a hereditary blood disorder.",
+    "exampleTr": "Hastaya kalıtsal bir kan bozukluğu tanısı kondu.",
+    "sourceNumber": 366
+  },
+  {
+    "id": 367,
+    "english": "heart",
+    "turkish": "kalp",
+    "exampleEn": "The heart pumps blood to all parts of the body.",
+    "exampleTr": "Kalp, kanı vücudun bütün bölümlerine pompalar.",
+    "sourceNumber": 367
+  },
+  {
+    "id": 368,
+    "english": "tachycardia",
+    "turkish": "taşikardi, hızlı kalp atışı",
+    "exampleEn": "Tachycardia is a condition in which the heart beats faster than normal.",
+    "exampleTr": "Taşikardi, kalbin normalden daha hızlı attığı bir durumdur.",
+    "sourceNumber": 368
+  },
+  {
+    "id": 369,
+    "english": "heart attack",
+    "turkish": "kalp krizi",
+    "exampleEn": "Immediate medical treatment is essential during a heart attack.",
+    "exampleTr": "Kalp krizi sırasında derhâl tıbbi tedavi uygulanması önemlidir.",
+    "sourceNumber": 369
+  },
+  {
+    "id": 370,
+    "english": "blood",
+    "turkish": "kan",
+    "exampleEn": "Blood transports oxygen and nutrients throughout the body.",
+    "exampleTr": "Kan, oksijeni ve besin maddelerini vücudun her yerine taşır.",
+    "sourceNumber": 370
+  },
+  {
+    "id": 371,
+    "english": "blood vessel",
+    "turkish": "kan damarı",
+    "exampleEn": "A blocked blood vessel can reduce the supply of oxygen to tissue.",
+    "exampleTr": "Tıkanmış bir kan damarı dokuya oksijen ulaşmasını azaltabilir.",
+    "sourceNumber": 371
+  },
+  {
+    "id": 372,
+    "english": "vasoconstriction",
+    "turkish": "kan damarlarındaki daralma",
+    "exampleEn": "Vasoconstriction reduces the diameter of blood vessels.",
+    "exampleTr": "Vazokonstriksiyon kan damarlarının çapını azaltır.",
+    "sourceNumber": 372
+  },
+  {
+    "id": 373,
+    "english": "blood group",
+    "turkish": "kan grubu",
+    "exampleEn": "The patient's blood group was checked before the transfusion.",
+    "exampleTr": "Nakilden önce hastanın kan grubu kontrol edildi.",
+    "sourceNumber": 373
+  },
+  {
+    "id": 374,
+    "english": "leukemogenic",
+    "turkish": "lösemiye (kan kanserine) yol açan",
+    "exampleEn": "The researchers investigated whether the chemical had leukemogenic effects.",
+    "exampleTr": "Araştırmacılar kimyasalın lösemiye yol açıcı etkileri olup olmadığını inceledi.",
+    "sourceNumber": 374
+  },
+  {
+    "id": 375,
+    "english": "blood transfusion",
+    "turkish": "kan nakli",
+    "exampleEn": "The patient required a blood transfusion after severe blood loss.",
+    "exampleTr": "Hasta ciddi kan kaybından sonra kan nakline ihtiyaç duydu.",
+    "sourceNumber": 375
+  },
+  {
+    "id": 376,
+    "english": "blood count",
+    "turkish": "kan sayımı",
+    "exampleEn": "A complete blood count can help detect infection and anaemia.",
+    "exampleTr": "Tam kan sayımı enfeksiyon ve kansızlığın saptanmasına yardımcı olabilir.",
+    "sourceNumber": 376
+  },
+  {
+    "id": 377,
+    "english": "blood test",
+    "turkish": "kan testi",
+    "exampleEn": "The doctor ordered a blood test to assess kidney function.",
+    "exampleTr": "Doktor böbrek işlevini değerlendirmek için kan testi istedi.",
+    "sourceNumber": 377
+  },
+  {
+    "id": 378,
+    "english": "congestive",
+    "turkish": "kan veya su toplamasıyla ilgili",
+    "exampleEn": "Congestive heart failure can cause fluid accumulation in the lungs.",
+    "exampleTr": "Konjestif kalp yetmezliği akciğerlerde sıvı birikmesine neden olabilir.",
+    "sourceNumber": 378
+  },
+  {
+    "id": 379,
+    "english": "hematogenous",
+    "turkish": "kan yoluyla",
+    "exampleEn": "Some infections can spread through the body by hematogenous transmission.",
+    "exampleTr": "Bazı enfeksiyonlar vücuda kan yoluyla yayılabilir.",
+    "sourceNumber": 379
+  },
+  {
+    "id": 380,
+    "english": "groove",
+    "turkish": "kanal, oluk",
+    "exampleEn": "The anatomical groove was examined during the procedure.",
+    "exampleTr": "Anatomik oluk işlem sırasında incelendi.",
+    "sourceNumber": 380
+  },
+  {
+    "id": 381,
+    "english": "haemorrhage",
+    "turkish": "kanama, hemoraj",
+    "exampleEn": "Severe haemorrhage requires immediate medical attention.",
+    "exampleTr": "Şiddetli kanama derhâl tıbbi müdahale gerektirir.",
+    "sourceNumber": 381
+  },
+  {
+    "id": 382,
+    "english": "bleed to death",
+    "turkish": "kanamadan ölmek",
+    "exampleEn": "Without urgent treatment, a person with severe internal bleeding may bleed to death.",
+    "exampleTr": "Acil tedavi uygulanmazsa şiddetli iç kanaması olan bir kişi kan kaybından ölebilir.",
+    "sourceNumber": 382
+  },
+  {
+    "id": 383,
+    "english": "cancer",
+    "turkish": "kanser",
+    "exampleEn": "Early detection can improve survival rates for many types of cancer.",
+    "exampleTr": "Erken teşhis birçok kanser türünde hayatta kalma oranlarını artırabilir.",
+    "sourceNumber": 383
+  },
+  {
+    "id": 384,
+    "english": "carcinogenicity",
+    "turkish": "kanser yapma eğilimi",
+    "exampleEn": "The study evaluated the carcinogenicity of long-term chemical exposure.",
+    "exampleTr": "Çalışma uzun süreli kimyasal maruziyetin kanser yapma potansiyelini değerlendirdi.",
+    "sourceNumber": 384
+  },
+  {
+    "id": 385,
+    "english": "anemia",
+    "turkish": "kansızlık",
+    "exampleEn": "Anemia may cause fatigue, weakness, and shortness of breath.",
+    "exampleTr": "Kansızlık yorgunluğa, güçsüzlüğe ve nefes darlığına neden olabilir.",
+    "sourceNumber": 385
+  },
+  {
+    "id": 386,
+    "english": "valve",
+    "turkish": "kapakçık",
+    "exampleEn": "A damaged heart valve may affect the flow of blood through the heart.",
+    "exampleTr": "Hasarlı bir kalp kapakçığı kanın kalpten geçişini etkileyebilir.",
+    "sourceNumber": 386
+  },
+  {
+    "id": 387,
+    "english": "liver",
+    "turkish": "karaciğer",
+    "exampleEn": "The liver processes nutrients and helps remove toxins from the blood.",
+    "exampleTr": "Karaciğer besin maddelerini işler ve kandaki toksinlerin uzaklaştırılmasına yardımcı olur.",
+    "sourceNumber": 387
+  },
+  {
+    "id": 388,
+    "english": "belly",
+    "turkish": "karın, abdomen",
+    "exampleEn": "The patient complained of pain in the lower belly.",
+    "exampleTr": "Hasta karnının alt kısmında ağrı olduğundan şikâyet etti.",
+    "sourceNumber": 388
+  },
+  {
+    "id": 389,
+    "english": "muscle",
+    "turkish": "kas",
+    "exampleEn": "Regular exercise helps maintain muscle strength.",
+    "exampleTr": "Düzenli egzersiz kas gücünün korunmasına yardımcı olur.",
+    "sourceNumber": 389
+  },
+  {
+    "id": 390,
+    "english": "myalgia",
+    "turkish": "kas ağrısı, miyalji",
+    "exampleEn": "Myalgia can occur as a side effect of some medications.",
+    "exampleTr": "Miyalji bazı ilaçların yan etkisi olarak ortaya çıkabilir.",
+    "sourceNumber": 390
   }
 ]
