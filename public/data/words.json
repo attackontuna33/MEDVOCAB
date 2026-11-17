@@ -3358,5 +3358,245 @@
     "exampleEn": "Facial flushing may occur as a side effect of some medications.",
     "exampleTr": "Yüzde kızarma bazı ilaçların yan etkisi olarak ortaya çıkabilir.",
     "sourceNumber": 420
+  },
+  {
+    "id": 421,
+    "english": "scarlet fever",
+    "turkish": "kızıl (hastalığı)",
+    "exampleEn": "Scarlet fever is caused by certain strains of group A streptococcus.",
+    "exampleTr": "Kızıl, A grubu streptokokların belirli suşlarından kaynaklanır.",
+    "sourceNumber": 421
+  },
+  {
+    "id": 422,
+    "english": "calcification",
+    "turkish": "kireçlenme",
+    "exampleEn": "Calcification was detected in the patient's coronary arteries.",
+    "exampleTr": "Hastanın koroner atardamarlarında kireçlenme tespit edildi.",
+    "sourceNumber": 422
+  },
+  {
+    "id": 423,
+    "english": "personalized medicine",
+    "turkish": "kişiselleştirilmiş tıp",
+    "exampleEn": "Personalized medicine uses individual patient characteristics to guide treatment.",
+    "exampleTr": "Kişiselleştirilmiş tıp, tedaviye yön vermek için bireysel hasta özelliklerini kullanır.",
+    "sourceNumber": 423
+  },
+  {
+    "id": 424,
+    "english": "mass vaccination",
+    "turkish": "kitlesel aşılama, aşılama kampanyası",
+    "exampleEn": "Mass vaccination campaigns can help control the spread of infectious diseases.",
+    "exampleTr": "Kitlesel aşılama kampanyaları bulaşıcı hastalıkların yayılmasını kontrol etmeye yardımcı olabilir.",
+    "sourceNumber": 424
+  },
+  {
+    "id": 425,
+    "english": "arm",
+    "turkish": "kol",
+    "exampleEn": "The patient experienced weakness in the right arm.",
+    "exampleTr": "Hasta sağ kolunda güçsüzlük yaşadı.",
+    "sourceNumber": 425
+  },
+  {
+    "id": 426,
+    "english": "limb",
+    "turkish": "kol veya bacaklardan her biri",
+    "exampleEn": "The injury affected the lower limb.",
+    "exampleTr": "Yaralanma alt uzvu etkiledi.",
+    "sourceNumber": 426
+  },
+  {
+    "id": 427,
+    "english": "armpit",
+    "turkish": "koltuk altı",
+    "exampleEn": "The doctor examined the lymph nodes in the patient's armpit.",
+    "exampleTr": "Doktor hastanın koltuk altındaki lenf düğümlerini muayene etti.",
+    "sourceNumber": 427
+  },
+  {
+    "id": 428,
+    "english": "topic",
+    "turkish": "konu, mesele",
+    "exampleEn": "The lecture covered the topic of infection prevention in hospitals.",
+    "exampleTr": "Ders, hastanelerde enfeksiyon önleme konusunu ele aldı.",
+    "sourceNumber": 428
+  },
+  {
+    "id": 429,
+    "english": "speech defect",
+    "turkish": "konuşma bozukluğu",
+    "exampleEn": "The child was referred for assessment of a speech defect.",
+    "exampleTr": "Çocuk konuşma bozukluğunun değerlendirilmesi için yönlendirildi.",
+    "sourceNumber": 429
+  },
+  {
+    "id": 430,
+    "english": "preservative",
+    "turkish": "koruyucu",
+    "exampleEn": "The food product contains a preservative to extend its shelf life.",
+    "exampleTr": "Gıda ürünü raf ömrünü uzatmak için koruyucu madde içerir.",
+    "sourceNumber": 430
+  },
+  {
+    "id": 431,
+    "english": "stem cell",
+    "turkish": "kök hücre",
+    "exampleEn": "Stem cell research may contribute to the development of new treatments.",
+    "exampleTr": "Kök hücre araştırmaları yeni tedavilerin geliştirilmesine katkıda bulunabilir.",
+    "sourceNumber": 431
+  },
+  {
+    "id": 432,
+    "english": "malnutrition",
+    "turkish": "kötü beslenme, beslenme bozukluğu",
+    "exampleEn": "Malnutrition can weaken the immune system and delay recovery.",
+    "exampleTr": "Kötü beslenme bağışıklık sistemini zayıflatabilir ve iyileşmeyi geciktirebilir.",
+    "sourceNumber": 432
+  },
+  {
+    "id": 433,
+    "english": "deterioration",
+    "turkish": "kötüye gidiş",
+    "exampleEn": "The patient's condition showed rapid deterioration overnight.",
+    "exampleTr": "Hastanın durumu gece boyunca hızla kötüye gitti.",
+    "sourceNumber": 433
+  },
+  {
+    "id": 434,
+    "english": "deteriorate",
+    "turkish": "kötüye gitmek",
+    "exampleEn": "Lung function may deteriorate if the disease is left untreated.",
+    "exampleTr": "Hastalık tedavi edilmezse akciğer işlevi kötüye gidebilir.",
+    "sourceNumber": 434
+  },
+  {
+    "id": 435,
+    "english": "rabies",
+    "turkish": "kuduz",
+    "exampleEn": "Rabies is a viral disease that can be prevented with prompt post-exposure care.",
+    "exampleTr": "Kuduz, maruziyet sonrası zamanında bakım ile önlenebilen viral bir hastalıktır.",
+    "sourceNumber": 435
+  },
+  {
+    "id": 436,
+    "english": "earplug",
+    "turkish": "kulak tıkacı",
+    "exampleEn": "The patient wore an earplug to reduce noise during the examination.",
+    "exampleTr": "Hasta muayene sırasında gürültüyü azaltmak için kulak tıkacı taktı.",
+    "sourceNumber": 436
+  },
+  {
+    "id": 437,
+    "english": "relief",
+    "turkish": "kurtulma (ağrıdan), rahatlama, hafifleme",
+    "exampleEn": "The medication provided relief from the patient's severe pain.",
+    "exampleTr": "İlaç hastanın şiddetli ağrısını hafifletti.",
+    "sourceNumber": 437
+  },
+  {
+    "id": 438,
+    "english": "vomit",
+    "turkish": "kusmak",
+    "exampleEn": "Some patients vomit after receiving general anaesthesia.",
+    "exampleTr": "Bazı hastalar genel anestezi aldıktan sonra kusar.",
+    "sourceNumber": 438
+  },
+  {
+    "id": 439,
+    "english": "defect",
+    "turkish": "kusur / hata",
+    "exampleEn": "The scan revealed a structural defect in the heart.",
+    "exampleTr": "Görüntüleme kalpte yapısal bir kusur ortaya çıkardı.",
+    "sourceNumber": 439
+  },
+  {
+    "id": 440,
+    "english": "incubator",
+    "turkish": "kuvöz",
+    "exampleEn": "Premature infants may need to stay in an incubator after birth.",
+    "exampleTr": "Prematüre bebeklerin doğumdan sonra kuvözde kalması gerekebilir.",
+    "sourceNumber": 440
+  },
+  {
+    "id": 441,
+    "english": "strong",
+    "turkish": "kuvvetli",
+    "exampleEn": "The patient developed a strong immune response after vaccination.",
+    "exampleTr": "Hasta aşılamadan sonra kuvvetli bir bağışıklık yanıtı geliştirdi.",
+    "sourceNumber": 441
+  },
+  {
+    "id": 442,
+    "english": "caudal",
+    "turkish": "kuyrukla ilgili, kuyruk tarafına ait",
+    "exampleEn": "The lesion was located in the caudal region of the spinal cord.",
+    "exampleTr": "Lezyon omuriliğin kuyruk tarafına ait bölgesinde yer alıyordu.",
+    "sourceNumber": 442
+  },
+  {
+    "id": 443,
+    "english": "abortion",
+    "turkish": "kürtaj, gebeliğin sonlandırılması; düşük (spontaneous abortion)",
+    "exampleEn": "The study reviewed medical outcomes associated with spontaneous abortion.",
+    "exampleTr": "Çalışma spontan düşükle ilişkili tıbbi sonuçları inceledi.",
+    "sourceNumber": 443
+  },
+  {
+    "id": 444,
+    "english": "medication",
+    "turkish": "ilaç, ilaç tedavisi",
+    "exampleEn": "The patient was advised to take the medication with food.",
+    "exampleTr": "Hastaya ilacı yemekle birlikte alması önerildi.",
+    "sourceNumber": 444
+  },
+  {
+    "id": 445,
+    "english": "fibre",
+    "turkish": "lif",
+    "exampleEn": "Dietary fibre supports healthy bowel function.",
+    "exampleTr": "Besin lifi sağlıklı bağırsak işlevini destekler.",
+    "sourceNumber": 445
+  },
+  {
+    "id": 446,
+    "english": "lipid",
+    "turkish": "lipit (yağ ve yağ benzeri maddeler)",
+    "exampleEn": "The blood test measured the levels of several lipids.",
+    "exampleTr": "Kan testi çeşitli lipitlerin düzeylerini ölçtü.",
+    "sourceNumber": 446
+  },
+  {
+    "id": 447,
+    "english": "vitality",
+    "turkish": "liveliness, vigour, canlılık, hareketlilik",
+    "exampleEn": "Regular physical activity can improve vitality in older adults.",
+    "exampleTr": "Düzenli fiziksel aktivite yaşlı yetişkinlerde canlılığı artırabilir.",
+    "sourceNumber": 447
+  },
+  {
+    "id": 448,
+    "english": "preserve",
+    "turkish": "maintain, conserve, secure, korumak",
+    "exampleEn": "Proper storage helps preserve the quality of the vaccine.",
+    "exampleTr": "Uygun saklama aşının kalitesini korumaya yardımcı olur.",
+    "sourceNumber": 448
+  },
+  {
+    "id": 449,
+    "english": "exposure",
+    "turkish": "maruz kalma",
+    "exampleEn": "Long-term exposure to air pollution can harm respiratory health.",
+    "exampleTr": "Hava kirliliğine uzun süre maruz kalmak solunum sağlığına zarar verebilir.",
+    "sourceNumber": 449
+  },
+  {
+    "id": 450,
+    "english": "to obligate",
+    "turkish": "mecbur bırakmak",
+    "exampleEn": "The study protocol may obligate participants to attend regular follow-up visits.",
+    "exampleTr": "Çalışma protokolü katılımcıları düzenli takip ziyaretlerine katılmaya mecbur bırakabilir.",
+    "sourceNumber": 450
   }
 ]
