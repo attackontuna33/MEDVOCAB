@@ -5278,5 +5278,245 @@
     "exampleEn": "The infection was transmitted via contaminated water.",
     "exampleTr": "Enfeksiyon kontamine su yoluyla bulaştı.",
     "sourceNumber": 660
+  },
+  {
+    "id": 661,
+    "english": "tuberculosis",
+    "turkish": "verem",
+    "exampleEn": "Tuberculosis most commonly affects the lungs but can involve other organs.",
+    "exampleTr": "Verem en sık akciğerleri etkiler ancak diğer organları da tutabilir.",
+    "sourceNumber": 661
+  },
+  {
+    "id": 662,
+    "english": "rich in vitamins",
+    "turkish": "vitamin yönünden zengin",
+    "exampleEn": "A diet rich in vitamins supports normal immune function.",
+    "exampleTr": "Vitamin yönünden zengin bir diyet normal bağışıklık işlevini destekler.",
+    "sourceNumber": 662
+  },
+  {
+    "id": 663,
+    "english": "to stress",
+    "turkish": "vurgulamak",
+    "exampleEn": "The researchers stressed the importance of early diagnosis.",
+    "exampleTr": "Araştırmacılar erken tanının önemini vurguladı.",
+    "sourceNumber": 663
+  },
+  {
+    "id": 664,
+    "english": "body",
+    "turkish": "vücut",
+    "exampleEn": "The human body requires oxygen to maintain normal cellular function.",
+    "exampleTr": "İnsan vücudu normal hücresel işlevi sürdürmek için oksijene ihtiyaç duyar.",
+    "sourceNumber": 664
+  },
+  {
+    "id": 665,
+    "english": "hypothermia",
+    "turkish": "vücut ısısında düşme",
+    "exampleEn": "Hypothermia occurs when the body's core temperature falls below normal.",
+    "exampleTr": "Hipotermi, vücudun merkezî sıcaklığı normalin altına düştüğünde meydana gelir.",
+    "sourceNumber": 665
+  },
+  {
+    "id": 666,
+    "english": "disfigurement",
+    "turkish": "vücutta şekil kaybı (kozmetik bozukluk)",
+    "exampleEn": "Severe burns may cause permanent disfigurement.",
+    "exampleTr": "Şiddetli yanıklar kalıcı şekil bozukluğuna neden olabilir.",
+    "sourceNumber": 666
+  },
+  {
+    "id": 667,
+    "english": "excrete",
+    "turkish": "vücuttan atmak, boşaltmak",
+    "exampleEn": "The kidneys excrete waste products through urine.",
+    "exampleTr": "Böbrekler atık maddeleri idrar yoluyla vücuttan atar.",
+    "sourceNumber": 667
+  },
+  {
+    "id": 668,
+    "english": "resist",
+    "turkish": "withstand, confront, direnmek",
+    "exampleEn": "Some bacteria can resist the effects of commonly used antibiotics.",
+    "exampleTr": "Bazı bakteriler yaygın olarak kullanılan antibiyotiklerin etkilerine direnebilir.",
+    "sourceNumber": 668
+  },
+  {
+    "id": 669,
+    "english": "fat",
+    "turkish": "yağ; şişman, yağlı",
+    "exampleEn": "The body stores excess energy in the form of fat.",
+    "exampleTr": "Vücut fazla enerjiyi yağ biçiminde depolar.",
+    "sourceNumber": 669
+  },
+  {
+    "id": 670,
+    "english": "fat gain",
+    "turkish": "yağ birikimi",
+    "exampleEn": "Excessive calorie intake may contribute to fat gain.",
+    "exampleTr": "Aşırı kalori alımı yağ birikimine katkıda bulunabilir.",
+    "sourceNumber": 670
+  },
+  {
+    "id": 671,
+    "english": "adipose tissue",
+    "turkish": "yağ dokusu",
+    "exampleEn": "Adipose tissue stores energy and releases hormones.",
+    "exampleTr": "Yağ dokusu enerji depolar ve hormon salgılar.",
+    "sourceNumber": 671
+  },
+  {
+    "id": 672,
+    "english": "to relate",
+    "turkish": "ilişkilendirmek, ilgili olmak",
+    "exampleEn": "The researchers attempted to relate dietary habits to disease risk.",
+    "exampleTr": "Araştırmacılar beslenme alışkanlıklarını hastalık riskiyle ilişkilendirmeye çalıştı.",
+    "sourceNumber": 672
+  },
+  {
+    "id": 673,
+    "english": "relation",
+    "turkish": "yakınlık, ilgi",
+    "exampleEn": "The study found a relation between physical activity and cardiovascular health.",
+    "exampleTr": "Çalışma fiziksel aktivite ile kalp-damar sağlığı arasında ilişki buldu.",
+    "sourceNumber": 673
+  },
+  {
+    "id": 674,
+    "english": "side effect",
+    "turkish": "yan etki",
+    "exampleEn": "Nausea is a possible side effect of the medication.",
+    "exampleTr": "Bulantı ilacın olası bir yan etkisidir.",
+    "sourceNumber": 674
+  },
+  {
+    "id": 675,
+    "english": "wound",
+    "turkish": "yara",
+    "exampleEn": "The wound was cleaned and covered with a sterile dressing.",
+    "exampleTr": "Yara temizlendi ve steril bir pansumanla kapatıldı.",
+    "sourceNumber": 675
+  },
+  {
+    "id": 676,
+    "english": "scar",
+    "turkish": "yara izi",
+    "exampleEn": "The injury left a small scar on the patient's arm.",
+    "exampleTr": "Yaralanma hastanın kolunda küçük bir yara izi bıraktı.",
+    "sourceNumber": 676
+  },
+  {
+    "id": 677,
+    "english": "chafe",
+    "turkish": "sürterek tahriş etmek, sıyırmak, kızartmak",
+    "exampleEn": "Tight clothing can chafe the skin around the wound.",
+    "exampleTr": "Dar giysiler yaranın çevresindeki cildi sürterek tahriş edebilir.",
+    "sourceNumber": 677
+  },
+  {
+    "id": 678,
+    "english": "injury",
+    "turkish": "yaralanma, incinme",
+    "exampleEn": "The patient was admitted with a head injury.",
+    "exampleTr": "Hasta kafa yaralanması nedeniyle hastaneye kabul edildi.",
+    "sourceNumber": 678
+  },
+  {
+    "id": 679,
+    "english": "heal wounds",
+    "turkish": "yaraları iyileştirmek",
+    "exampleEn": "Adequate protein intake helps the body heal wounds.",
+    "exampleTr": "Yeterli protein alımı vücudun yaraları iyileştirmesine yardımcı olur.",
+    "sourceNumber": 679
+  },
+  {
+    "id": 680,
+    "english": "wounded",
+    "turkish": "yaralı",
+    "exampleEn": "The wounded patient received emergency treatment at the scene.",
+    "exampleTr": "Yaralı hastaya olay yerinde acil tedavi uygulandı.",
+    "sourceNumber": 680
+  },
+  {
+    "id": 681,
+    "english": "half-life",
+    "turkish": "yarı ömür",
+    "exampleEn": "The drug's half-life determines how long it remains in the body.",
+    "exampleTr": "İlacın yarı ömrü vücutta ne kadar süre kaldığını belirler.",
+    "sourceNumber": 681
+  },
+  {
+    "id": 682,
+    "english": "age-linked",
+    "turkish": "yaşa bağlı",
+    "exampleEn": "Age-linked changes can affect kidney function.",
+    "exampleTr": "Yaşa bağlı değişiklikler böbrek işlevini etkileyebilir.",
+    "sourceNumber": 682
+  },
+  {
+    "id": 683,
+    "english": "way of life",
+    "turkish": "yaşam biçimi",
+    "exampleEn": "A healthy way of life can reduce the risk of chronic disease.",
+    "exampleTr": "Sağlıklı bir yaşam biçimi kronik hastalık riskini azaltabilir.",
+    "sourceNumber": 683
+  },
+  {
+    "id": 684,
+    "english": "will to live",
+    "turkish": "yaşama isteği",
+    "exampleEn": "Psychological support may help strengthen a patient's will to live.",
+    "exampleTr": "Psikolojik destek hastanın yaşama isteğini güçlendirmeye yardımcı olabilir.",
+    "sourceNumber": 684
+  },
+  {
+    "id": 685,
+    "english": "aging",
+    "turkish": "yaşlanma",
+    "exampleEn": "Aging is associated with changes in muscle mass and bone density.",
+    "exampleTr": "Yaşlanma kas kütlesinde ve kemik yoğunluğunda değişikliklerle ilişkilidir.",
+    "sourceNumber": 685
+  },
+  {
+    "id": 686,
+    "english": "confined to bed",
+    "turkish": "yatağa bağlı, yatağa mahkûm",
+    "exampleEn": "The patient was confined to bed for several days after the operation.",
+    "exampleTr": "Hasta ameliyattan sonra birkaç gün yatağa bağlı kaldı.",
+    "sourceNumber": 686
+  },
+  {
+    "id": 687,
+    "english": "to predispose",
+    "turkish": "yatkın kılmak",
+    "exampleEn": "Genetic factors may predispose individuals to certain diseases.",
+    "exampleTr": "Genetik faktörler bireyleri belirli hastalıklara yatkın kılabilir.",
+    "sourceNumber": 687
+  },
+  {
+    "id": 688,
+    "english": "disseminate",
+    "turkish": "yaymak",
+    "exampleEn": "Public health campaigns disseminate information about disease prevention.",
+    "exampleTr": "Halk sağlığı kampanyaları hastalıkların önlenmesi hakkında bilgi yayar.",
+    "sourceNumber": 688
+  },
+  {
+    "id": 689,
+    "english": "spread",
+    "turkish": "yayılmak",
+    "exampleEn": "The infection can spread rapidly in crowded settings.",
+    "exampleTr": "Enfeksiyon kalabalık ortamlarda hızla yayılabilir.",
+    "sourceNumber": 689
+  },
+  {
+    "id": 690,
+    "english": "emit",
+    "turkish": "yaymak",
+    "exampleEn": "Some medical devices emit low levels of radiation during imaging.",
+    "exampleTr": "Bazı tıbbi cihazlar görüntüleme sırasında düşük düzeyde radyasyon yayar.",
+    "sourceNumber": 690
   }
 ]
