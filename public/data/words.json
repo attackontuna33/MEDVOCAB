@@ -1438,5 +1438,245 @@
     "exampleEn": "Each subject gave informed consent before taking part in the clinical study.",
     "exampleTr": "Klinik çalışmaya katılmadan önce her denek bilgilendirilmiş onam verdi.",
     "sourceNumber": 180
+  },
+  {
+    "id": 181,
+    "english": "depression",
+    "turkish": "depresyon",
+    "exampleEn": "Depression can affect sleep, appetite, and the ability to concentrate.",
+    "exampleTr": "Depresyon uykuyu, iştahı ve konsantre olma yeteneğini etkileyebilir.",
+    "sourceNumber": 181
+  },
+  {
+    "id": 182,
+    "english": "invasive",
+    "turkish": "girişimsel (invaziv); çevre dokuya yayılan",
+    "exampleEn": "The doctor recommended a less invasive diagnostic procedure.",
+    "exampleTr": "Doktor daha az girişimsel bir tanı işlemi önerdi.",
+    "sourceNumber": 182
+  },
+  {
+    "id": 183,
+    "english": "supportive",
+    "turkish": "destekleyici",
+    "exampleEn": "Supportive care can help patients manage the symptoms of chronic illness.",
+    "exampleTr": "Destekleyici bakım, hastaların kronik hastalık belirtilerini yönetmesine yardımcı olabilir.",
+    "sourceNumber": 183
+  },
+  {
+    "id": 184,
+    "english": "reinforcing",
+    "turkish": "destekleyici, takviye edici",
+    "exampleEn": "The intervention included reinforcing healthy eating habits.",
+    "exampleTr": "Müdahale, sağlıklı beslenme alışkanlıklarını pekiştirmeyi içeriyordu.",
+    "sourceNumber": 184
+  },
+  {
+    "id": 185,
+    "english": "detoxification",
+    "turkish": "detoksifikasyon, (vücudu) zehirli maddelerden arındırma",
+    "exampleEn": "The liver plays a central role in the detoxification of many substances.",
+    "exampleTr": "Karaciğer birçok maddenin detoksifikasyonunda merkezi bir rol oynar.",
+    "sourceNumber": 185
+  },
+  {
+    "id": 186,
+    "english": "giant",
+    "turkish": "dev",
+    "exampleEn": "The scan revealed a giant cyst in the abdominal cavity.",
+    "exampleTr": "Görüntüleme, karın boşluğunda dev bir kist ortaya çıkardı.",
+    "sourceNumber": 186
+  },
+  {
+    "id": 187,
+    "english": "disinfectant",
+    "turkish": "dezenfektan",
+    "exampleEn": "A disinfectant was used to clean the examination table.",
+    "exampleTr": "Muayene masasını temizlemek için dezenfektan kullanıldı.",
+    "sourceNumber": 187
+  },
+  {
+    "id": 188,
+    "english": "excreta",
+    "turkish": "dışkı ve idrar, vücuttan atılan atıklar",
+    "exampleEn": "Proper disposal of human excreta is essential for preventing disease.",
+    "exampleTr": "İnsan dışkı ve idrarının uygun şekilde bertaraf edilmesi hastalıkların önlenmesi için gereklidir.",
+    "sourceNumber": 188
+  },
+  {
+    "id": 189,
+    "english": "diphtheria",
+    "turkish": "difteri",
+    "exampleEn": "Diphtheria can be prevented through routine vaccination.",
+    "exampleTr": "Difteri, rutin aşılama yoluyla önlenebilir.",
+    "sourceNumber": 189
+  },
+  {
+    "id": 190,
+    "english": "remarkable",
+    "turkish": "dikkate değer",
+    "exampleEn": "The patient showed remarkable improvement after treatment.",
+    "exampleTr": "Hasta tedaviden sonra dikkate değer bir iyileşme gösterdi.",
+    "sourceNumber": 190
+  },
+  {
+    "id": 191,
+    "english": "suture",
+    "turkish": "dikiş; (yarayı) dikmek",
+    "exampleEn": "The surgeon used a fine suture to close the wound.",
+    "exampleTr": "Cerrah yarayı kapatmak için ince bir dikiş kullandı.",
+    "sourceNumber": 191
+  },
+  {
+    "id": 192,
+    "english": "tongue",
+    "turkish": "dil",
+    "exampleEn": "The doctor examined the patient's tongue for signs of dehydration.",
+    "exampleTr": "Doktor, susuzluk belirtileri açısından hastanın dilini muayene etti.",
+    "sourceNumber": 192
+  },
+  {
+    "id": 193,
+    "english": "dilated",
+    "turkish": "dilate, genişlemiş",
+    "exampleEn": "The examination showed dilated blood vessels in the retina.",
+    "exampleTr": "Muayene, retinada genişlemiş kan damarları olduğunu gösterdi.",
+    "sourceNumber": 193
+  },
+  {
+    "id": 194,
+    "english": "resistance",
+    "turkish": "direnç",
+    "exampleEn": "Antibiotic resistance makes some bacterial infections harder to treat.",
+    "exampleTr": "Antibiyotik direnci, bazı bakteriyel enfeksiyonların tedavisini zorlaştırır.",
+    "sourceNumber": 194
+  },
+  {
+    "id": 195,
+    "english": "susceptibility to",
+    "turkish": "-e yatkınlık, duyarlılık",
+    "exampleEn": "Genetic factors may increase susceptibility to certain diseases.",
+    "exampleTr": "Genetik faktörler belirli hastalıklara yatkınlığı artırabilir.",
+    "sourceNumber": 195
+  },
+  {
+    "id": 196,
+    "english": "swollen",
+    "turkish": "distended, şiş, şişmiş",
+    "exampleEn": "The patient's swollen ankle was examined for signs of injury.",
+    "exampleTr": "Hastanın şişmiş ayak bileği yaralanma belirtileri açısından incelendi.",
+    "sourceNumber": 196
+  },
+  {
+    "id": 197,
+    "english": "tooth",
+    "turkish": "diş",
+    "exampleEn": "Regular brushing helps prevent tooth decay.",
+    "exampleTr": "Düzenli diş fırçalama diş çürüğünü önlemeye yardımcı olur.",
+    "sourceNumber": 197
+  },
+  {
+    "id": 198,
+    "english": "toothpaste",
+    "turkish": "diş macunu",
+    "exampleEn": "Fluoride toothpaste helps protect teeth against decay.",
+    "exampleTr": "Florürlü diş macunu dişleri çürümeye karşı korumaya yardımcı olur.",
+    "sourceNumber": 198
+  },
+  {
+    "id": 199,
+    "english": "cavity",
+    "turkish": "boşluk, oyuk; (diş) çürüğü",
+    "exampleEn": "The dentist found a cavity in one of the patient's molars.",
+    "exampleTr": "Diş hekimi hastanın azı dişlerinden birinde çürük buldu.",
+    "sourceNumber": 199
+  },
+  {
+    "id": 200,
+    "english": "knee",
+    "turkish": "diz",
+    "exampleEn": "The patient reported swelling and stiffness in the knee.",
+    "exampleTr": "Hasta dizinde şişlik ve sertlik olduğunu bildirdi.",
+    "sourceNumber": 200
+  },
+  {
+    "id": 201,
+    "english": "dysentery",
+    "turkish": "dizanteri",
+    "exampleEn": "Dysentery can cause severe diarrhoea, sometimes with blood.",
+    "exampleTr": "Dizanteri, bazen kanlı olmak üzere şiddetli ishale neden olabilir.",
+    "sourceNumber": 201
+  },
+  {
+    "id": 202,
+    "english": "knee to pelvis",
+    "turkish": "dizden leğen kemiğine kadar",
+    "exampleEn": "The imaging covered the area from the knee to the pelvis.",
+    "exampleTr": "Görüntüleme dizden leğen kemiğine kadar olan bölgeyi kapsadı.",
+    "sourceNumber": 202
+  },
+  {
+    "id": 203,
+    "english": "delivery",
+    "turkish": "doğum",
+    "exampleEn": "The mother and baby were monitored closely during delivery.",
+    "exampleTr": "Doğum sırasında anne ve bebek yakından izlendi.",
+    "sourceNumber": 203
+  },
+  {
+    "id": 204,
+    "english": "parturient",
+    "turkish": "doğum yapan",
+    "exampleEn": "The parturient woman was admitted to the maternity unit.",
+    "exampleTr": "Doğum yapan kadın doğum servisine kabul edildi.",
+    "sourceNumber": 204
+  },
+  {
+    "id": 205,
+    "english": "neonatal",
+    "turkish": "doğumdan sonraki 4 haftayla ilgili",
+    "exampleEn": "Neonatal care is essential for premature and low-birth-weight infants.",
+    "exampleTr": "Yenidoğan bakımı, prematüre ve düşük doğum ağırlıklı bebekler için önemlidir.",
+    "sourceNumber": 205
+  },
+  {
+    "id": 206,
+    "english": "congenital",
+    "turkish": "doğuştan",
+    "exampleEn": "The infant was diagnosed with a congenital heart defect.",
+    "exampleTr": "Bebeğe doğuştan kalp kusuru tanısı kondu.",
+    "sourceNumber": 206
+  },
+  {
+    "id": 207,
+    "english": "acquired",
+    "turkish": "doğuştan olmayan, sonradan elde edilmiş",
+    "exampleEn": "The patient developed an acquired infection during the hospital stay.",
+    "exampleTr": "Hasta hastanede kaldığı sırada sonradan edinilmiş bir enfeksiyon geliştirdi.",
+    "sourceNumber": 207
+  },
+  {
+    "id": 208,
+    "english": "tissue",
+    "turkish": "doku",
+    "exampleEn": "The biopsy sample contained abnormal tissue.",
+    "exampleTr": "Biyopsi örneği anormal doku içeriyordu.",
+    "sourceNumber": 208
+  },
+  {
+    "id": 209,
+    "english": "circulation",
+    "turkish": "dolaşım, devinim",
+    "exampleEn": "Regular physical activity can improve blood circulation.",
+    "exampleTr": "Düzenli fiziksel aktivite kan dolaşımını iyileştirebilir.",
+    "sourceNumber": 209
+  },
+  {
+    "id": 210,
+    "english": "circulate",
+    "turkish": "dolaşmak",
+    "exampleEn": "Blood circulates throughout the body through the cardiovascular system.",
+    "exampleTr": "Kan, kardiyovasküler sistem aracılığıyla vücudun tamamında dolaşır.",
+    "sourceNumber": 210
   }
 ]
