@@ -718,5 +718,245 @@
     "exampleEn": "The kidneys may fail when they are severely damaged.",
     "exampleTr": "Böbrekler ciddi biçimde hasar gördüğünde işlevlerini yitirebilir.",
     "sourceNumber": 90
+  },
+  {
+    "id": 91,
+    "english": "posture",
+    "turkish": "bedenin duruş şekli, postür",
+    "exampleEn": "Poor posture can contribute to neck and back pain.",
+    "exampleTr": "Kötü duruş, boyun ve sırt ağrısına katkıda bulunabilir.",
+    "sourceNumber": 91
+  },
+  {
+    "id": 92,
+    "english": "latent",
+    "turkish": "belirti göstermeyen, gizli",
+    "exampleEn": "A latent infection may remain inactive for years.",
+    "exampleTr": "Gizli bir enfeksiyon yıllarca etkinleşmeden kalabilir.",
+    "sourceNumber": 92
+  },
+  {
+    "id": 93,
+    "english": "manifestation",
+    "turkish": "belirti, ortaya çıkış",
+    "exampleEn": "Skin rash can be a manifestation of an allergic reaction.",
+    "exampleTr": "Deri döküntüsü alerjik reaksiyonun bir belirtisi olabilir.",
+    "sourceNumber": 93
+  },
+  {
+    "id": 94,
+    "english": "spot",
+    "turkish": "benek, nokta, leke",
+    "exampleEn": "The doctor noticed a small spot on the patient's skin.",
+    "exampleTr": "Doktor, hastanın cildinde küçük bir leke fark etti.",
+    "sourceNumber": 94
+  },
+  {
+    "id": 95,
+    "english": "nutrient composition",
+    "turkish": "besin bileşimi",
+    "exampleEn": "The nutrient composition of the diet was assessed by a dietitian.",
+    "exampleTr": "Beslenme düzeninin besin bileşimi bir diyetisyen tarafından değerlendirildi.",
+    "sourceNumber": 95
+  },
+  {
+    "id": 96,
+    "english": "nutrition",
+    "turkish": "beslenme",
+    "exampleEn": "Adequate nutrition is essential for recovery after surgery.",
+    "exampleTr": "Ameliyat sonrası iyileşme için yeterli beslenme şarttır.",
+    "sourceNumber": 96
+  },
+  {
+    "id": 97,
+    "english": "nutritional",
+    "turkish": "beslenmeyle ilgili",
+    "exampleEn": "The patient received nutritional support during treatment.",
+    "exampleTr": "Hasta tedavi sırasında beslenme desteği aldı.",
+    "sourceNumber": 97
+  },
+  {
+    "id": 98,
+    "english": "brain",
+    "turkish": "beyin",
+    "exampleEn": "The brain controls many essential functions of the human body.",
+    "exampleTr": "Beyin, insan vücudunun birçok temel işlevini kontrol eder.",
+    "sourceNumber": 98
+  },
+  {
+    "id": 99,
+    "english": "brain imaging",
+    "turkish": "beyin görüntüleme",
+    "exampleEn": "Brain imaging revealed no signs of internal bleeding.",
+    "exampleTr": "Beyin görüntülemesinde iç kanama belirtisi görülmedi.",
+    "sourceNumber": 99
+  },
+  {
+    "id": 100,
+    "english": "cerebellum",
+    "turkish": "beyincik",
+    "exampleEn": "The cerebellum plays an important role in balance and coordination.",
+    "exampleTr": "Beyincik, denge ve koordinasyonda önemli bir rol oynar.",
+    "sourceNumber": 100
+  },
+  {
+    "id": 101,
+    "english": "meninges",
+    "turkish": "beyin zarları (beyni ve omuriliği örten üç katlı zar)",
+    "exampleEn": "Inflammation of the meninges can cause severe headache and fever.",
+    "exampleTr": "Beyin zarlarının iltihaplanması şiddetli baş ağrısına ve ateşe neden olabilir.",
+    "sourceNumber": 101
+  },
+  {
+    "id": 102,
+    "english": "hindbrain",
+    "turkish": "beynin arka kısımları",
+    "exampleEn": "The hindbrain contains structures involved in vital functions such as breathing.",
+    "exampleTr": "Arka beyin, solunum gibi yaşamsal işlevlerde görev alan yapıları içerir.",
+    "sourceNumber": 102
+  },
+  {
+    "id": 103,
+    "english": "gland",
+    "turkish": "bez",
+    "exampleEn": "The thyroid gland produces hormones that regulate metabolism.",
+    "exampleTr": "Tiroid bezi, metabolizmayı düzenleyen hormonlar üretir.",
+    "sourceNumber": 103
+  },
+  {
+    "id": 104,
+    "english": "unconscious",
+    "turkish": "baygın, bilinçsiz; bilinçdışı",
+    "exampleEn": "The patient was unconscious when the ambulance arrived.",
+    "exampleTr": "Ambulans geldiğinde hasta bilinçsiz durumdaydı.",
+    "sourceNumber": 104
+  },
+  {
+    "id": 105,
+    "english": "unconsciousness",
+    "turkish": "bilinçsizlik, baygınlık",
+    "exampleEn": "A sudden loss of consciousness requires urgent medical assessment.",
+    "exampleTr": "Ani bilinç kaybı acil tıbbi değerlendirme gerektirir.",
+    "sourceNumber": 105
+  },
+  {
+    "id": 106,
+    "english": "individual",
+    "turkish": "birey, kişi",
+    "exampleEn": "Treatment should be adapted to the needs of each individual.",
+    "exampleTr": "Tedavi her bireyin ihtiyaçlarına göre uyarlanmalıdır.",
+    "sourceNumber": 106
+  },
+  {
+    "id": 107,
+    "english": "whooping cough",
+    "turkish": "boğmaca",
+    "exampleEn": "Whooping cough is a highly contagious respiratory disease.",
+    "exampleTr": "Boğmaca, oldukça bulaşıcı bir solunum yolu hastalığıdır.",
+    "sourceNumber": 107
+  },
+  {
+    "id": 108,
+    "english": "choke",
+    "turkish": "boğulmak (lokma vb. kaçınca); boğmak, nefesini kesmek",
+    "exampleEn": "A person may choke if food blocks the airway.",
+    "exampleTr": "Yiyecek solunum yolunu tıkarsa kişi boğulabilir.",
+    "sourceNumber": 108
+  },
+  {
+    "id": 109,
+    "english": "excretion",
+    "turkish": "boşaltım",
+    "exampleEn": "The kidneys play a major role in the excretion of waste products.",
+    "exampleTr": "Böbrekler atık maddelerin boşaltımında önemli rol oynar.",
+    "sourceNumber": 109
+  },
+  {
+    "id": 110,
+    "english": "empty",
+    "turkish": "boş; boşaltmak",
+    "exampleEn": "The nurse asked the patient to empty the bladder before the scan.",
+    "exampleTr": "Hemşire, taramadan önce hastadan mesanesini boşaltmasını istedi.",
+    "sourceNumber": 110
+  },
+  {
+    "id": 111,
+    "english": "horn",
+    "turkish": "boynuz",
+    "exampleEn": "The study described a rare congenital condition affecting the structure of the horn.",
+    "exampleTr": "Çalışma, boynuzun yapısını etkileyen nadir bir doğuştan durumu tanımladı.",
+    "sourceNumber": 111
+  },
+  {
+    "id": 112,
+    "english": "neck",
+    "turkish": "boyun",
+    "exampleEn": "The patient reported stiffness and pain in the neck.",
+    "exampleTr": "Hasta boynunda sertlik ve ağrı olduğunu bildirdi.",
+    "sourceNumber": 112
+  },
+  {
+    "id": 113,
+    "english": "cervical",
+    "turkish": "boyunla ya da rahim ağzıyla ilgili, servikal",
+    "exampleEn": "Cervical screening can help detect abnormal changes in the cervix.",
+    "exampleTr": "Servikal tarama, rahim ağzındaki anormal değişikliklerin saptanmasına yardımcı olabilir.",
+    "sourceNumber": 113
+  },
+  {
+    "id": 114,
+    "english": "to impair",
+    "turkish": "bozmak, zarar vermek",
+    "exampleEn": "Long-term alcohol use can impair liver function.",
+    "exampleTr": "Uzun süreli alkol kullanımı karaciğer işlevini bozabilir.",
+    "sourceNumber": 114
+  },
+  {
+    "id": 115,
+    "english": "malfunction",
+    "turkish": "işlev bozukluğu, arıza",
+    "exampleEn": "A malfunction in the monitoring device delayed the examination.",
+    "exampleTr": "İzleme cihazındaki bir arıza muayeneyi geciktirdi.",
+    "sourceNumber": 115
+  },
+  {
+    "id": 116,
+    "english": "disorder",
+    "turkish": "bozukluk, düzensizlik",
+    "exampleEn": "The patient was diagnosed with a sleep disorder.",
+    "exampleTr": "Hastaya uyku bozukluğu tanısı kondu.",
+    "sourceNumber": 116
+  },
+  {
+    "id": 117,
+    "english": "kidney",
+    "turkish": "böbrek",
+    "exampleEn": "Each kidney filters waste products from the blood.",
+    "exampleTr": "Her böbrek kandaki atık maddeleri süzer.",
+    "sourceNumber": 117
+  },
+  {
+    "id": 118,
+    "english": "zone",
+    "turkish": "bölge",
+    "exampleEn": "The affected zone was examined using magnetic resonance imaging.",
+    "exampleTr": "Etkilenen bölge manyetik rezonans görüntüleme kullanılarak incelendi.",
+    "sourceNumber": 118
+  },
+  {
+    "id": 119,
+    "english": "thus",
+    "turkish": "böylece",
+    "exampleEn": "The treatment reduced inflammation and thus improved the patient's mobility.",
+    "exampleTr": "Tedavi iltihabı azalttı ve böylece hastanın hareket kabiliyetini iyileştirdi.",
+    "sourceNumber": 119
+  },
+  {
+    "id": 120,
+    "english": "thereby",
+    "turkish": "böylelikle",
+    "exampleEn": "The drug lowers blood pressure, thereby reducing the risk of stroke.",
+    "exampleTr": "İlaç kan basıncını düşürerek böylelikle inme riskini azaltır.",
+    "sourceNumber": 120
   }
 ]
