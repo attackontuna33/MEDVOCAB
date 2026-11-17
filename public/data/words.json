@@ -958,5 +958,245 @@
     "exampleEn": "The drug lowers blood pressure, thereby reducing the risk of stroke.",
     "exampleTr": "İlaç kan basıncını düşürerek böylelikle inme riskini azaltır.",
     "sourceNumber": 120
+  },
+  {
+    "id": 121,
+    "english": "bronchus",
+    "turkish": "bronş",
+    "exampleEn": "The bronchus carries air from the trachea into the lung.",
+    "exampleTr": "Bronş, havayı soluk borusundan akciğere taşır.",
+    "sourceNumber": 121
+  },
+  {
+    "id": 122,
+    "english": "bronchitis",
+    "turkish": "bronşit",
+    "exampleEn": "Acute bronchitis often causes coughing and chest discomfort.",
+    "exampleTr": "Akut bronşit sıklıkla öksürüğe ve göğüste rahatsızlığa neden olur.",
+    "sourceNumber": 122
+  },
+  {
+    "id": 123,
+    "english": "undulant fever",
+    "turkish": "bruselloz, Akdeniz/Malta humması",
+    "exampleEn": "Undulant fever is another name associated with brucellosis.",
+    "exampleTr": "Dalgalı ateş, brusellozla ilişkilendirilen diğer bir addır.",
+    "sourceNumber": 123
+  },
+  {
+    "id": 124,
+    "english": "therefore",
+    "turkish": "bu yüzden",
+    "exampleEn": "The patient had difficulty breathing; therefore, oxygen was administered.",
+    "exampleTr": "Hasta nefes almakta güçlük çekiyordu; bu yüzden oksijen verildi.",
+    "sourceNumber": 124
+  },
+  {
+    "id": 125,
+    "english": "vapour",
+    "turkish": "buhar, buğu",
+    "exampleEn": "The patient inhaled the vapour during the prescribed treatment.",
+    "exampleTr": "Hasta reçete edilen tedavi sırasında buharı soludu.",
+    "sourceNumber": 125
+  },
+  {
+    "id": 126,
+    "english": "nausea",
+    "turkish": "bulantı",
+    "exampleEn": "Nausea is a common side effect of chemotherapy.",
+    "exampleTr": "Bulantı, kemoterapinin yaygın bir yan etkisidir.",
+    "sourceNumber": 126
+  },
+  {
+    "id": 127,
+    "english": "contagious",
+    "turkish": "bulaşıcı",
+    "exampleEn": "Patients with contagious diseases may need to be isolated.",
+    "exampleTr": "Bulaşıcı hastalığı olan hastaların izole edilmesi gerekebilir.",
+    "sourceNumber": 127
+  },
+  {
+    "id": 128,
+    "english": "infectious",
+    "turkish": "bulaşıcı",
+    "exampleEn": "The hospital introduced measures to prevent the spread of infectious diseases.",
+    "exampleTr": "Hastane, bulaşıcı hastalıkların yayılmasını önlemek için önlemler aldı.",
+    "sourceNumber": 128
+  },
+  {
+    "id": 129,
+    "english": "infect",
+    "turkish": "bulaştırmak, enfekte etmek (contaminate, spread to)",
+    "exampleEn": "Certain bacteria can infect the urinary tract.",
+    "exampleTr": "Bazı bakteriler idrar yollarını enfekte edebilir.",
+    "sourceNumber": 129
+  },
+  {
+    "id": 130,
+    "english": "finding",
+    "turkish": "bulgu (clinical findings: klinik bulgular)",
+    "exampleEn": "The clinical findings supported the initial diagnosis.",
+    "exampleTr": "Klinik bulgular ilk tanıyı destekledi.",
+    "sourceNumber": 130
+  },
+  {
+    "id": 131,
+    "english": "dementia",
+    "turkish": "bunama",
+    "exampleEn": "Dementia can affect memory, thinking, and daily activities.",
+    "exampleTr": "Bunama; belleği, düşünmeyi ve günlük etkinlikleri etkileyebilir.",
+    "sourceNumber": 131
+  },
+  {
+    "id": 132,
+    "english": "demented",
+    "turkish": "bunamış",
+    "exampleEn": "The historical report used the term demented to describe a patient with cognitive impairment.",
+    "exampleTr": "Tarihsel rapor, bilişsel bozukluğu olan bir hastayı tanımlamak için bunamış terimini kullandı.",
+    "sourceNumber": 132
+  },
+  {
+    "id": 133,
+    "english": "growth",
+    "turkish": "büyüme, gelişme",
+    "exampleEn": "Adequate nutrition is important for normal growth in childhood.",
+    "exampleTr": "Çocukluk döneminde normal büyüme için yeterli beslenme önemlidir.",
+    "sourceNumber": 133
+  },
+  {
+    "id": 134,
+    "english": "enlarge",
+    "turkish": "büyütmek",
+    "exampleEn": "The infection caused the lymph nodes to enlarge.",
+    "exampleTr": "Enfeksiyon, lenf düğümlerinin büyümesine neden oldu.",
+    "sourceNumber": 134
+  },
+  {
+    "id": 135,
+    "english": "to shrink",
+    "turkish": "büzülmek, küçülmek",
+    "exampleEn": "The swelling began to shrink after treatment.",
+    "exampleTr": "Şişlik tedaviden sonra küçülmeye başladı.",
+    "sourceNumber": 135
+  },
+  {
+    "id": 136,
+    "english": "to survive",
+    "turkish": "canlılığını sürdürmek, yaşamak",
+    "exampleEn": "Some bacteria can survive in harsh environmental conditions.",
+    "exampleTr": "Bazı bakteriler zorlu çevre koşullarında canlılığını sürdürebilir.",
+    "sourceNumber": 136
+  },
+  {
+    "id": 137,
+    "english": "inanimate",
+    "turkish": "cansız",
+    "exampleEn": "The study compared microbial survival on animate and inanimate surfaces.",
+    "exampleTr": "Çalışma, mikroorganizmaların canlı ve cansız yüzeylerde hayatta kalmasını karşılaştırdı.",
+    "sourceNumber": 137
+  },
+  {
+    "id": 138,
+    "english": "gender",
+    "turkish": "cinsiyet",
+    "exampleEn": "The researchers analysed the data by age and gender.",
+    "exampleTr": "Araştırmacılar verileri yaş ve cinsiyete göre analiz etti.",
+    "sourceNumber": 138
+  },
+  {
+    "id": 139,
+    "english": "inborn",
+    "turkish": "congenital, innate, doğuştan",
+    "exampleEn": "The screening programme aims to identify inborn metabolic disorders.",
+    "exampleTr": "Tarama programı doğuştan gelen metabolik bozuklukları belirlemeyi amaçlar.",
+    "sourceNumber": 139
+  },
+  {
+    "id": 140,
+    "english": "surgery",
+    "turkish": "cerrahi, ameliyat",
+    "exampleEn": "Surgery may be necessary when conservative treatment fails.",
+    "exampleTr": "Konservatif tedavi başarısız olduğunda ameliyat gerekli olabilir.",
+    "sourceNumber": 140
+  },
+  {
+    "id": 141,
+    "english": "paralyze",
+    "turkish": "cripple, disable, felç etmek",
+    "exampleEn": "A spinal cord injury can paralyze parts of the body.",
+    "exampleTr": "Omurilik yaralanması vücudun bazı bölümlerini felç edebilir.",
+    "sourceNumber": 141
+  },
+  {
+    "id": 142,
+    "english": "across",
+    "turkish": "çapraz, diğer tarafa",
+    "exampleEn": "The infection spread across the tissue surrounding the wound.",
+    "exampleTr": "Enfeksiyon yaranın çevresindeki doku boyunca yayıldı.",
+    "sourceNumber": 142
+  },
+  {
+    "id": 143,
+    "english": "remedy",
+    "turkish": "çare, cure",
+    "exampleEn": "There is no simple remedy for every chronic condition.",
+    "exampleTr": "Her kronik durum için basit bir çare yoktur.",
+    "sourceNumber": 143
+  },
+  {
+    "id": 144,
+    "english": "helpless",
+    "turkish": "çaresiz",
+    "exampleEn": "The patient felt helpless while waiting for the test results.",
+    "exampleTr": "Hasta test sonuçlarını beklerken kendini çaresiz hissetti.",
+    "sourceNumber": 144
+  },
+  {
+    "id": 145,
+    "english": "deformity",
+    "turkish": "çarpıklık, sakatlık",
+    "exampleEn": "The congenital deformity was detected during the prenatal examination.",
+    "exampleTr": "Doğuştan gelen şekil bozukluğu doğum öncesi muayenede tespit edildi.",
+    "sourceNumber": 145
+  },
+  {
+    "id": 146,
+    "english": "palpitation",
+    "turkish": "çarpıntı",
+    "exampleEn": "The patient reported palpitation after climbing the stairs.",
+    "exampleTr": "Hasta merdivenleri çıktıktan sonra çarpıntı yaşadığını bildirdi.",
+    "sourceNumber": 146
+  },
+  {
+    "id": 147,
+    "english": "withdrawn",
+    "turkish": "çekingen, içine kapanık",
+    "exampleEn": "The child became withdrawn after the prolonged hospital stay.",
+    "exampleTr": "Çocuk, uzun süre hastanede kaldıktan sonra içine kapanık hâle geldi.",
+    "sourceNumber": 147
+  },
+  {
+    "id": 148,
+    "english": "jaw",
+    "turkish": "çene",
+    "exampleEn": "The patient experienced pain in the jaw while chewing.",
+    "exampleTr": "Hasta çiğneme sırasında çenesinde ağrı yaşadı.",
+    "sourceNumber": 148
+  },
+  {
+    "id": 149,
+    "english": "varied",
+    "turkish": "çeşitlilik gösteren, çeşitli",
+    "exampleEn": "The study included patients with varied clinical backgrounds.",
+    "exampleTr": "Çalışma, çeşitli klinik geçmişlere sahip hastaları içeriyordu.",
+    "sourceNumber": 149
+  },
+  {
+    "id": 150,
+    "english": "extraction",
+    "turkish": "çıkarma, (diş) çekme, sökme; soy, köken",
+    "exampleEn": "Tooth extraction may be required when a tooth is severely damaged.",
+    "exampleTr": "Bir diş ciddi biçimde hasar gördüğünde diş çekimi gerekebilir.",
+    "sourceNumber": 150
   }
 ]
