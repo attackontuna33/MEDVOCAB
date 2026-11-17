@@ -24,7 +24,7 @@ export default function App() {
   const [examAnswers,setExamAnswers] = useState<Record<number,string>>({});
   const [examDone,setExamDone] = useState(false);
 
-  useEffect(() => { fetch("/data/words.json").then(r=>r.json()).then((data:Word[])=>setWords(data)).catch(()=>setWords([])); },[]);
+  useEffect(() => { fetch(`${import.meta.env.BASE_URL}data/words.json`).then(r=>r.json()).then((data:Word[])=>setWords(data)).catch(()=>setWords([])); },[]);
   useEffect(() => { if (!words.length) return; try { const saved=localStorage.getItem(STORAGE); const parsed=saved?JSON.parse(saved) as ProgressMap:{}; setProgress({...initialProgress(words),...(parsed&&typeof parsed==="object"?parsed:{})}); } catch { setProgress(initialProgress(words)); } },[words]);
   useEffect(() => { if (Object.keys(progress).length) localStorage.setItem(STORAGE,JSON.stringify(progress)); },[progress]);
 
