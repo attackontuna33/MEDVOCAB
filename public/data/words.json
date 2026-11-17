@@ -3838,5 +3838,245 @@
     "exampleEn": "Oxygen is essential for cellular respiration.",
     "exampleTr": "Oksijen hücresel solunum için gereklidir.",
     "sourceNumber": 480
+  },
+  {
+    "id": 481,
+    "english": "dyslexic",
+    "turkish": "okuma zorluğu çeken",
+    "exampleEn": "The dyslexic student received support to help with reading tasks.",
+    "exampleTr": "Okuma güçlüğü çeken öğrenci, okuma görevlerinde yardımcı olması için destek aldı.",
+    "sourceNumber": 481
+  },
+  {
+    "id": 482,
+    "english": "case",
+    "turkish": "olgu, vaka (case report: olgu sunumu)",
+    "exampleEn": "The journal published a case report describing a rare infection.",
+    "exampleTr": "Dergi nadir bir enfeksiyonu tanımlayan olgu sunumu yayımladı.",
+    "sourceNumber": 482
+  },
+  {
+    "id": 483,
+    "english": "vertebrate",
+    "turkish": "omurgalı",
+    "exampleEn": "The study compared immune responses in several vertebrate species.",
+    "exampleTr": "Çalışma çeşitli omurgalı türlerinde bağışıklık yanıtlarını karşılaştırdı.",
+    "sourceNumber": 483
+  },
+  {
+    "id": 484,
+    "english": "spinal cord",
+    "turkish": "omurilik",
+    "exampleEn": "An injury to the spinal cord can affect movement and sensation.",
+    "exampleTr": "Omurilik yaralanması hareketi ve duyuyu etkileyebilir.",
+    "sourceNumber": 484
+  },
+  {
+    "id": 485,
+    "english": "rate",
+    "turkish": "oran, hız, gidiş",
+    "exampleEn": "The rate of infection increased during the winter months.",
+    "exampleTr": "Enfeksiyon oranı kış aylarında arttı.",
+    "sourceNumber": 485
+  },
+  {
+    "id": 486,
+    "english": "spring from",
+    "turkish": "originate, emerge, -den kaynaklanmak",
+    "exampleEn": "The symptoms may spring from an underlying metabolic disorder.",
+    "exampleTr": "Belirtiler altta yatan metabolik bir bozukluktan kaynaklanabilir.",
+    "sourceNumber": 486
+  },
+  {
+    "id": 487,
+    "english": "to rule out",
+    "turkish": "(olasılığı) dışlamak, hariç tutmak",
+    "exampleEn": "Further tests were required to rule out a bacterial infection.",
+    "exampleTr": "Bakteriyel enfeksiyon olasılığını dışlamak için ek testler gerekti.",
+    "sourceNumber": 487
+  },
+  {
+    "id": 488,
+    "english": "edema",
+    "turkish": "ödem",
+    "exampleEn": "The patient developed edema in both lower legs.",
+    "exampleTr": "Hastanın her iki alt bacağında ödem gelişti.",
+    "sourceNumber": 488
+  },
+  {
+    "id": 489,
+    "english": "cough",
+    "turkish": "öksürük; öksürmek",
+    "exampleEn": "A persistent cough may indicate an underlying respiratory condition.",
+    "exampleTr": "Sürekli öksürük, altta yatan bir solunum yolu durumuna işaret edebilir.",
+    "sourceNumber": 489
+  },
+  {
+    "id": 490,
+    "english": "nonlethal",
+    "turkish": "öldürücü olmayan",
+    "exampleEn": "The researchers tested a nonlethal dose of the substance.",
+    "exampleTr": "Araştırmacılar maddenin öldürücü olmayan bir dozunu test etti.",
+    "sourceNumber": 490
+  },
+  {
+    "id": 491,
+    "english": "stillborn",
+    "turkish": "ölü doğmuş",
+    "exampleEn": "The report examined risk factors associated with stillborn infants.",
+    "exampleTr": "Rapor ölü doğan bebeklerle ilişkili risk faktörlerini inceledi.",
+    "sourceNumber": 491
+  },
+  {
+    "id": 492,
+    "english": "fatal",
+    "turkish": "ölümcül",
+    "exampleEn": "A delay in treatment can be fatal in severe cases of infection.",
+    "exampleTr": "Enfeksiyonun ağır vakalarında tedavinin gecikmesi ölümcül olabilir.",
+    "sourceNumber": 492
+  },
+  {
+    "id": 493,
+    "english": "mortal",
+    "turkish": "ölümlü; ölümcül (mortal wound)",
+    "exampleEn": "The injury was not mortal, but it required urgent treatment.",
+    "exampleTr": "Yaralanma ölümcül değildi ancak acil tedavi gerektirdi.",
+    "sourceNumber": 493
+  },
+  {
+    "id": 494,
+    "english": "fateful",
+    "turkish": "kader belirleyici, önemli sonuçlar doğuran",
+    "exampleEn": "The researchers described the fateful consequences of the outbreak for the community.",
+    "exampleTr": "Araştırmacılar salgının toplum üzerindeki önemli sonuçlarını tanımladı.",
+    "sourceNumber": 494
+  },
+  {
+    "id": 495,
+    "english": "mortality",
+    "turkish": "ölümlülük, ölüm oranı",
+    "exampleEn": "The study compared mortality rates between the two patient groups.",
+    "exampleTr": "Çalışma iki hasta grubu arasındaki ölüm oranlarını karşılaştırdı.",
+    "sourceNumber": 495
+  },
+  {
+    "id": 496,
+    "english": "lifelong",
+    "turkish": "ömür boyu süren",
+    "exampleEn": "Some patients require lifelong treatment for chronic conditions.",
+    "exampleTr": "Bazı hastalar kronik durumlar için ömür boyu tedavi gerektirir.",
+    "sourceNumber": 496
+  },
+  {
+    "id": 497,
+    "english": "life span",
+    "turkish": "ömür, lifetime",
+    "exampleEn": "Healthy lifestyle choices may contribute to a longer life span.",
+    "exampleTr": "Sağlıklı yaşam tarzı seçimleri daha uzun bir ömre katkıda bulunabilir.",
+    "sourceNumber": 497
+  },
+  {
+    "id": 498,
+    "english": "beforehand",
+    "turkish": "önceden, daha evvel",
+    "exampleEn": "Patients should inform the clinic beforehand if they need to change their appointment.",
+    "exampleTr": "Hastalar randevularını değiştirmeleri gerekiyorsa kliniğe önceden haber vermelidir.",
+    "sourceNumber": 498
+  },
+  {
+    "id": 499,
+    "english": "take steps",
+    "turkish": "önlem almak",
+    "exampleEn": "Hospitals must take steps to prevent healthcare-associated infections.",
+    "exampleTr": "Hastaneler sağlık hizmetiyle ilişkili enfeksiyonları önlemek için önlem almalıdır.",
+    "sourceNumber": 499
+  },
+  {
+    "id": 500,
+    "english": "to prevent",
+    "turkish": "önlemek",
+    "exampleEn": "Vaccination can prevent many serious infectious diseases.",
+    "exampleTr": "Aşılama birçok ciddi bulaşıcı hastalığı önleyebilir.",
+    "sourceNumber": 500
+  },
+  {
+    "id": 501,
+    "english": "dressing",
+    "turkish": "pansuman",
+    "exampleEn": "The nurse changed the dressing to keep the wound clean.",
+    "exampleTr": "Hemşire yarayı temiz tutmak için pansumanı değiştirdi.",
+    "sourceNumber": 501
+  },
+  {
+    "id": 502,
+    "english": "dress",
+    "turkish": "pansuman yapmak",
+    "exampleEn": "The nurse will dress the wound after cleaning it.",
+    "exampleTr": "Hemşire yarayı temizledikten sonra pansuman yapacak.",
+    "sourceNumber": 502
+  },
+  {
+    "id": 503,
+    "english": "dissection",
+    "turkish": "diseksiyon, kesip inceleme",
+    "exampleEn": "The anatomy course included the dissection of preserved specimens.",
+    "exampleTr": "Anatomi dersi korunmuş örneklerin diseksiyonunu içeriyordu.",
+    "sourceNumber": 503
+  },
+  {
+    "id": 504,
+    "english": "passive smoking",
+    "turkish": "pasif içicilik (başkasının sigara dumanını solumak)",
+    "exampleEn": "Passive smoking increases the risk of respiratory illness in children.",
+    "exampleTr": "Pasif içicilik çocuklarda solunum yolu hastalığı riskini artırır.",
+    "sourceNumber": 504
+  },
+  {
+    "id": 505,
+    "english": "pathogen",
+    "turkish": "patojen",
+    "exampleEn": "The laboratory identified the pathogen responsible for the infection.",
+    "exampleTr": "Laboratuvar enfeksiyondan sorumlu patojeni belirledi.",
+    "sourceNumber": 505
+  },
+  {
+    "id": 506,
+    "english": "pathology",
+    "turkish": "patoloji, hastalıklara neden olan yapısal ve fonksiyonel sapmaları inceleyen bilim dalı",
+    "exampleEn": "Pathology examines the structural and functional changes associated with disease.",
+    "exampleTr": "Patoloji, hastalıkla ilişkili yapısal ve işlevsel değişiklikleri inceler.",
+    "sourceNumber": 506
+  },
+  {
+    "id": 507,
+    "english": "pathological",
+    "turkish": "patolojik",
+    "exampleEn": "The biopsy revealed pathological changes in the tissue.",
+    "exampleTr": "Biyopsi dokuda patolojik değişiklikler ortaya çıkardı.",
+    "sourceNumber": 507
+  },
+  {
+    "id": 508,
+    "english": "a variety of",
+    "turkish": "pek çok çeşit",
+    "exampleEn": "A variety of treatment options are available for this condition.",
+    "exampleTr": "Bu durum için pek çok tedavi seçeneği mevcuttur.",
+    "sourceNumber": 508
+  },
+  {
+    "id": 509,
+    "english": "dietary",
+    "turkish": "beslenmeyle ilgili, diyetle ilgili",
+    "exampleEn": "Dietary changes may help control blood glucose levels.",
+    "exampleTr": "Beslenme değişiklikleri kan glikoz düzeylerini kontrol etmeye yardımcı olabilir.",
+    "sourceNumber": 509
+  },
+  {
+    "id": 510,
+    "english": "cyclic",
+    "turkish": "periyodik, dönemsel",
+    "exampleEn": "The patient experienced cyclic episodes of abdominal pain.",
+    "exampleTr": "Hasta dönemsel karın ağrısı atakları yaşadı.",
+    "sourceNumber": 510
   }
 ]
