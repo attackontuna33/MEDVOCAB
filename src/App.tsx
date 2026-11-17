@@ -46,10 +46,7 @@ export default function App() {
     const questions=pool.map((word,i)=>{
       const kind=examMode==="mixed"?(["vocabulary","context","reading"] as const)[i%3]:examMode;
       const passage=kind==="reading"?pool.slice(0,Math.min(4,pool.length)).map(item=>item.exampleEn).join(" "):undefined;
-      const escaped=word.english.replace(/[.*+?^${}()|[\]\\]/g,"\\  const startExam=()=>{setExamStarted(true);setExamIndex(0);setExamAnswers({});setExamDone(false);};
-  const examWords=words.slice(0,Math.min(10,words.length));
-  const score=examWords.filter(w=>examAnswers[w.id]?.trim().toLocaleLowerCase("tr-TR")===w.turkish.trim().toLocaleLowerCase("tr-TR")).length;");
-      const cloze=word.exampleEn.replace(new RegExp(escaped,"i"),"_____");
+      const cloze=word.exampleEn.toLocaleLowerCase("en").replace(word.english.toLocaleLowerCase("en"),"_____");
       const prompt=kind==="vocabulary"?`Türkçe karşılığını yaz: ${word.english}`:kind==="context"?cloze:`Metinde geçen “${word.english}” ifadesinin Türkçe karşılığını yaz.`;
       return {word,kind,prompt,answer:kind==="context"?word.english:word.turkish,passage};
     });
@@ -59,7 +56,7 @@ export default function App() {
   const score=examQuestions.filter(q=>{
     const answer=normalise(examAnswers[q.word.id]??"");
     const accepted=q.kind==="context"?[q.word.english]:q.word.turkish.split(/[;,]/).map(s=>s.trim());
-    return accepted.some(item=>answer===normalise(item)||normalise(item).includes(answer)&&answer.length>2);
+    return accepted.some(item=>answer===normalise(item)||(normalise(item).includes(answer)&&answer.length>2));
   }).length;
 
   return <div className="app-shell">
