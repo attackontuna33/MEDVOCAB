@@ -3598,5 +3598,245 @@
     "exampleEn": "The study protocol may obligate participants to attend regular follow-up visits.",
     "exampleTr": "Çalışma protokolü katılımcıları düzenli takip ziyaretlerine katılmaya mecbur bırakabilir.",
     "sourceNumber": 450
+  },
+  {
+    "id": 451,
+    "english": "meningitis",
+    "turkish": "menenjit",
+    "exampleEn": "Meningitis is an inflammation of the membranes surrounding the brain and spinal cord.",
+    "exampleTr": "Menenjit, beyni ve omuriliği çevreleyen zarların iltihaplanmasıdır.",
+    "sourceNumber": 451
+  },
+  {
+    "id": 452,
+    "english": "central",
+    "turkish": "merkezi",
+    "exampleEn": "The central nervous system consists of the brain and spinal cord.",
+    "exampleTr": "Merkezi sinir sistemi beyin ve omurilikten oluşur.",
+    "sourceNumber": 452
+  },
+  {
+    "id": 453,
+    "english": "stomach upset",
+    "turkish": "mide bozukluğu",
+    "exampleEn": "The patient reported stomach upset after taking the medicine.",
+    "exampleTr": "Hasta ilacı aldıktan sonra mide rahatsızlığı yaşadığını bildirdi.",
+    "sourceNumber": 453
+  },
+  {
+    "id": 454,
+    "english": "germicide",
+    "turkish": "mikrop öldürücü",
+    "exampleEn": "The laboratory used a germicide to disinfect the equipment.",
+    "exampleTr": "Laboratuvar ekipmanı dezenfekte etmek için mikrop öldürücü kullandı.",
+    "sourceNumber": 454
+  },
+  {
+    "id": 455,
+    "english": "one in a million",
+    "turkish": "milyonda bir",
+    "exampleEn": "The genetic condition is extremely rare, occurring in approximately one in a million people.",
+    "exampleTr": "Genetik durum son derece nadirdir ve yaklaşık milyonda bir kişide görülür.",
+    "sourceNumber": 455
+  },
+  {
+    "id": 456,
+    "english": "myocardial",
+    "turkish": "miyokardiyal, kalp kasıyla ilgili",
+    "exampleEn": "Myocardial damage can occur when the heart muscle receives insufficient oxygen.",
+    "exampleTr": "Kalp kası yeterli oksijen alamadığında miyokardiyal hasar meydana gelebilir.",
+    "sourceNumber": 456
+  },
+  {
+    "id": 457,
+    "english": "temperament",
+    "turkish": "mizaç, huy",
+    "exampleEn": "A patient's temperament may influence how they respond to stress.",
+    "exampleTr": "Hastanın mizacı strese nasıl tepki verdiğini etkileyebilir.",
+    "sourceNumber": 457
+  },
+  {
+    "id": 458,
+    "english": "pattern",
+    "turkish": "model, örnek, biçim",
+    "exampleEn": "The researchers identified a pattern in the patients' symptoms.",
+    "exampleTr": "Araştırmacılar hastaların belirtilerinde bir örüntü belirledi.",
+    "sourceNumber": 458
+  },
+  {
+    "id": 459,
+    "english": "judgement",
+    "turkish": "muhakeme",
+    "exampleEn": "Cognitive impairment can affect a person's judgement.",
+    "exampleTr": "Bilişsel bozukluk kişinin muhakeme yeteneğini etkileyebilir.",
+    "sourceNumber": 459
+  },
+  {
+    "id": 460,
+    "english": "mutant",
+    "turkish": "mutasyona uğramış organizma",
+    "exampleEn": "The researchers isolated a mutant strain of the virus.",
+    "exampleTr": "Araştırmacılar virüsün mutasyona uğramış bir suşunu izole etti.",
+    "sourceNumber": 460
+  },
+  {
+    "id": 461,
+    "english": "absolute",
+    "turkish": "mutlak, kesin",
+    "exampleEn": "The test does not provide absolute certainty about the diagnosis.",
+    "exampleTr": "Test tanı konusunda mutlak kesinlik sağlamaz.",
+    "sourceNumber": 461
+  },
+  {
+    "id": 462,
+    "english": "fractious",
+    "turkish": "huysuz, geçimsiz, kavgacı",
+    "exampleEn": "The child became fractious during the prolonged hospital stay.",
+    "exampleTr": "Çocuk uzun süren hastane yatışı sırasında huysuzlaştı.",
+    "sourceNumber": 462
+  },
+  {
+    "id": 463,
+    "english": "transplantation",
+    "turkish": "nakil, organ nakli",
+    "exampleEn": "Kidney transplantation may be considered for patients with end-stage renal disease.",
+    "exampleTr": "Son dönem böbrek hastalığı olan hastalarda böbrek nakli düşünülebilir.",
+    "sourceNumber": 463
+  },
+  {
+    "id": 464,
+    "english": "transmission",
+    "turkish": "bulaşma, aktarım, iletim",
+    "exampleEn": "Hand hygiene reduces the transmission of infectious agents in hospitals.",
+    "exampleTr": "El hijyeni hastanelerde bulaşıcı etkenlerin aktarımını azaltır.",
+    "sourceNumber": 464
+  },
+  {
+    "id": 465,
+    "english": "somewhat",
+    "turkish": "biraz, bir ölçüde",
+    "exampleEn": "The patient's symptoms improved somewhat after treatment.",
+    "exampleTr": "Hastanın belirtileri tedaviden sonra bir ölçüde iyileşti.",
+    "sourceNumber": 465
+  },
+  {
+    "id": 466,
+    "english": "myope",
+    "turkish": "near-sighted, miyop",
+    "exampleEn": "A myope may have difficulty seeing distant objects clearly.",
+    "exampleTr": "Miyop bir kişi uzaktaki nesneleri net görmekte güçlük çekebilir.",
+    "sourceNumber": 466
+  },
+  {
+    "id": 467,
+    "english": "breath",
+    "turkish": "nefes, soluk",
+    "exampleEn": "The patient took a deep breath before the examination.",
+    "exampleTr": "Hasta muayeneden önce derin bir nefes aldı.",
+    "sourceNumber": 467
+  },
+  {
+    "id": 468,
+    "english": "inhale",
+    "turkish": "nefes almak",
+    "exampleEn": "Patients were asked to inhale slowly during the lung function test.",
+    "exampleTr": "Akciğer fonksiyon testi sırasında hastalardan yavaşça nefes almaları istendi.",
+    "sourceNumber": 468
+  },
+  {
+    "id": 469,
+    "english": "glottis",
+    "turkish": "nefes borusunun ağzı",
+    "exampleEn": "The glottis helps regulate the passage of air into the lower respiratory tract.",
+    "exampleTr": "Glottis, havanın alt solunum yollarına geçişini düzenlemeye yardımcı olur.",
+    "sourceNumber": 469
+  },
+  {
+    "id": 470,
+    "english": "spirometer",
+    "turkish": "nefes ölçer",
+    "exampleEn": "The patient used a spirometer to measure lung capacity.",
+    "exampleTr": "Hasta akciğer kapasitesini ölçmek için spirometre kullandı.",
+    "sourceNumber": 470
+  },
+  {
+    "id": 471,
+    "english": "exhale",
+    "turkish": "nefes vermek",
+    "exampleEn": "The nurse asked the patient to exhale slowly through the mouth.",
+    "exampleTr": "Hemşire hastadan ağzından yavaşça nefes vermesini istedi.",
+    "sourceNumber": 471
+  },
+  {
+    "id": 472,
+    "english": "at the onset of",
+    "turkish": "-ın başlangıcında",
+    "exampleEn": "At the onset of the disease, the patient experienced mild fatigue.",
+    "exampleTr": "Hastalığın başlangıcında hasta hafif yorgunluk yaşadı.",
+    "sourceNumber": 472
+  },
+  {
+    "id": 473,
+    "english": "feature",
+    "turkish": "nitelik, özellik",
+    "exampleEn": "Fever is a common feature of many infectious diseases.",
+    "exampleTr": "Ateş birçok bulaşıcı hastalığın yaygın bir özelliğidir.",
+    "sourceNumber": 473
+  },
+  {
+    "id": 474,
+    "english": "nutritious",
+    "turkish": "nourishing, wholesome, besleyici",
+    "exampleEn": "A nutritious diet supports growth and recovery.",
+    "exampleTr": "Besleyici bir diyet büyümeyi ve iyileşmeyi destekler.",
+    "sourceNumber": 474
+  },
+  {
+    "id": 475,
+    "english": "neurological",
+    "turkish": "nörolojik, sinir sistemiyle ilgili",
+    "exampleEn": "The patient underwent a neurological examination after the head injury.",
+    "exampleTr": "Hasta kafa travmasından sonra nörolojik muayeneden geçti.",
+    "sourceNumber": 475
+  },
+  {
+    "id": 476,
+    "english": "neuron",
+    "turkish": "nöron, sinir hücresi",
+    "exampleEn": "A neuron transmits information through electrical and chemical signals.",
+    "exampleTr": "Bir nöron elektriksel ve kimyasal sinyaller aracılığıyla bilgi iletir.",
+    "sourceNumber": 476
+  },
+  {
+    "id": 477,
+    "english": "sample",
+    "turkish": "numune, örnek",
+    "exampleEn": "The blood sample was sent to the laboratory for analysis.",
+    "exampleTr": "Kan örneği analiz için laboratuvara gönderildi.",
+    "sourceNumber": 477
+  },
+  {
+    "id": 478,
+    "english": "penetrate",
+    "turkish": "nüfuz etmek",
+    "exampleEn": "The medication must penetrate the tissue to reach the affected area.",
+    "exampleTr": "İlacın etkilenen bölgeye ulaşmak için dokuya nüfuz etmesi gerekir.",
+    "sourceNumber": 478
+  },
+  {
+    "id": 479,
+    "english": "chamber",
+    "turkish": "odacık, boşluk",
+    "exampleEn": "The heart has four chambers that help circulate blood.",
+    "exampleTr": "Kalbin kan dolaşımına yardımcı olan dört odacığı vardır.",
+    "sourceNumber": 479
+  },
+  {
+    "id": 480,
+    "english": "oxygen",
+    "turkish": "oksijen",
+    "exampleEn": "Oxygen is essential for cellular respiration.",
+    "exampleTr": "Oksijen hücresel solunum için gereklidir.",
+    "sourceNumber": 480
   }
 ]
