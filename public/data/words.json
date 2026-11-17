@@ -2638,5 +2638,245 @@
     "exampleEn": "The patient developed a secondary condition during recovery.",
     "exampleTr": "Hasta iyileşme sürecinde ikincil bir sağlık sorunu geliştirdi.",
     "sourceNumber": 330
+  },
+  {
+    "id": 331,
+    "english": "drug",
+    "turkish": "ilaç, uyuşturucu",
+    "exampleEn": "The drug reduced the patient's blood pressure within an hour.",
+    "exampleTr": "İlaç, hastanın kan basıncını bir saat içinde düşürdü.",
+    "sourceNumber": 331
+  },
+  {
+    "id": 332,
+    "english": "related to",
+    "turkish": "ile ilgili",
+    "exampleEn": "The researchers studied factors related to cardiovascular disease.",
+    "exampleTr": "Araştırmacılar kalp-damar hastalığıyla ilgili faktörleri inceledi.",
+    "sourceNumber": 332
+  },
+  {
+    "id": 333,
+    "english": "result in",
+    "turkish": "ile sonuçlanmak",
+    "exampleEn": "Untreated hypertension can result in serious complications.",
+    "exampleTr": "Tedavi edilmeyen hipertansiyon ciddi komplikasyonlarla sonuçlanabilir.",
+    "sourceNumber": 333
+  },
+  {
+    "id": 334,
+    "english": "progressive",
+    "turkish": "ilerleyici",
+    "exampleEn": "The patient was diagnosed with a progressive neurological disorder.",
+    "exampleTr": "Hastaya ilerleyici bir nörolojik bozukluk tanısı kondu.",
+    "sourceNumber": 334
+  },
+  {
+    "id": 335,
+    "english": "relationship",
+    "turkish": "ilişki, bağlantı",
+    "exampleEn": "The study examined the relationship between diet and heart health.",
+    "exampleTr": "Çalışma beslenme ile kalp sağlığı arasındaki ilişkiyi inceledi.",
+    "sourceNumber": 335
+  },
+  {
+    "id": 336,
+    "english": "primitive",
+    "turkish": "ilkel",
+    "exampleEn": "The report described primitive methods of treating the disease.",
+    "exampleTr": "Rapor hastalığın tedavisinde kullanılan ilkel yöntemleri tanımladı.",
+    "sourceNumber": 336
+  },
+  {
+    "id": 337,
+    "english": "undernourished",
+    "turkish": "ill-fed, underfed, yetersiz beslenmiş",
+    "exampleEn": "Undernourished children may have delayed growth and development.",
+    "exampleTr": "Yetersiz beslenen çocuklarda büyüme ve gelişme gecikebilir.",
+    "sourceNumber": 337
+  },
+  {
+    "id": 338,
+    "english": "inflammation",
+    "turkish": "iltihap",
+    "exampleEn": "Inflammation is part of the body's response to tissue injury.",
+    "exampleTr": "İltihaplanma, vücudun doku hasarına verdiği yanıtın bir parçasıdır.",
+    "sourceNumber": 338
+  },
+  {
+    "id": 339,
+    "english": "persistent",
+    "turkish": "inatçı, devamlı",
+    "exampleEn": "Persistent coughing should be evaluated by a healthcare professional.",
+    "exampleTr": "Devamlı öksürük bir sağlık uzmanı tarafından değerlendirilmelidir.",
+    "sourceNumber": 339
+  },
+  {
+    "id": 340,
+    "english": "examine",
+    "turkish": "incelemek, muayene etmek",
+    "exampleEn": "The physician will examine the patient before making a diagnosis.",
+    "exampleTr": "Hekim tanı koymadan önce hastayı muayene edecek.",
+    "sourceNumber": 340
+  },
+  {
+    "id": 341,
+    "english": "unavoidable",
+    "turkish": "inevitable, inescapable, kaçınılmaz",
+    "exampleEn": "Some side effects may be unavoidable during intensive treatment.",
+    "exampleTr": "Yoğun tedavi sırasında bazı yan etkiler kaçınılmaz olabilir.",
+    "sourceNumber": 341
+  },
+  {
+    "id": 342,
+    "english": "pass along",
+    "turkish": "insandan insana aktarmak",
+    "exampleEn": "Respiratory viruses can pass along from person to person through droplets.",
+    "exampleTr": "Solunum yolu virüsleri damlacıklar yoluyla insandan insana aktarılabilir.",
+    "sourceNumber": 342
+  },
+  {
+    "id": 343,
+    "english": "diarrhoea",
+    "turkish": "ishal",
+    "exampleEn": "Severe diarrhoea can lead to dehydration.",
+    "exampleTr": "Şiddetli ishal sıvı kaybına yol açabilir.",
+    "sourceNumber": 343
+  },
+  {
+    "id": 344,
+    "english": "skeleton",
+    "turkish": "iskelet",
+    "exampleEn": "The skeleton provides support and protection for the body.",
+    "exampleTr": "İskelet vücuda destek ve koruma sağlar.",
+    "sourceNumber": 344
+  },
+  {
+    "id": 345,
+    "english": "ischemic stroke",
+    "turkish": "iskemiye (yetersiz kan akımına) bağlı inme",
+    "exampleEn": "An ischemic stroke occurs when a blood vessel supplying the brain becomes blocked.",
+    "exampleTr": "İskemik inme, beyni besleyen bir kan damarı tıkandığında meydana gelir.",
+    "sourceNumber": 345
+  },
+  {
+    "id": 346,
+    "english": "scurvy",
+    "turkish": "iskorbüt, yetersiz C vitamini alımına bağlı hastalık",
+    "exampleEn": "Scurvy can develop when a person has a severe vitamin C deficiency.",
+    "exampleTr": "Bir kişide ciddi C vitamini eksikliği olduğunda iskorbüt gelişebilir.",
+    "sourceNumber": 346
+  },
+  {
+    "id": 347,
+    "english": "voluntarily",
+    "turkish": "istemli olarak, gönüllü olarak",
+    "exampleEn": "The participants voluntarily agreed to take part in the study.",
+    "exampleTr": "Katılımcılar çalışmaya gönüllü olarak katılmayı kabul etti.",
+    "sourceNumber": 347
+  },
+  {
+    "id": 348,
+    "english": "function",
+    "turkish": "işlev",
+    "exampleEn": "The kidneys perform an essential function by filtering the blood.",
+    "exampleTr": "Böbrekler kanı süzerek temel bir işlevi yerine getirir.",
+    "sourceNumber": 348
+  },
+  {
+    "id": 349,
+    "english": "appetite",
+    "turkish": "iştah",
+    "exampleEn": "Loss of appetite is a common symptom during some infections.",
+    "exampleTr": "İştah kaybı bazı enfeksiyonlar sırasında görülen yaygın bir belirtidir.",
+    "sourceNumber": 349
+  },
+  {
+    "id": 350,
+    "english": "benign",
+    "turkish": "iyi huylu (tümör), selim",
+    "exampleEn": "The biopsy confirmed that the tumour was benign.",
+    "exampleTr": "Biyopsi tümörün iyi huylu olduğunu doğruladı.",
+    "sourceNumber": 350
+  },
+  {
+    "id": 351,
+    "english": "well-nourished",
+    "turkish": "iyi beslenmiş",
+    "exampleEn": "Well-nourished patients may recover more effectively after surgery.",
+    "exampleTr": "İyi beslenmiş hastalar ameliyattan sonra daha etkili biçimde iyileşebilir.",
+    "sourceNumber": 351
+  },
+  {
+    "id": 352,
+    "english": "well-rested",
+    "turkish": "iyi dinlenmiş",
+    "exampleEn": "Well-rested patients may find it easier to participate in rehabilitation.",
+    "exampleTr": "İyi dinlenmiş hastalar rehabilitasyona katılmayı daha kolay bulabilir.",
+    "sourceNumber": 352
+  },
+  {
+    "id": 353,
+    "english": "heal",
+    "turkish": "iyileşmek, iyileştirmek",
+    "exampleEn": "The wound may take several weeks to heal completely.",
+    "exampleTr": "Yaranın tamamen iyileşmesi birkaç hafta sürebilir.",
+    "sourceNumber": 353
+  },
+  {
+    "id": 354,
+    "english": "isolated",
+    "turkish": "izole, yalnız",
+    "exampleEn": "The infected patient was isolated to prevent transmission.",
+    "exampleTr": "Enfekte hasta bulaşmayı önlemek için izole edildi.",
+    "sourceNumber": 354
+  },
+  {
+    "id": 355,
+    "english": "mumps",
+    "turkish": "kabakulak",
+    "exampleEn": "Mumps is a viral infection that can cause swelling of the salivary glands.",
+    "exampleTr": "Kabakulak, tükürük bezlerinde şişmeye neden olabilen viral bir enfeksiyondur.",
+    "sourceNumber": 355
+  },
+  {
+    "id": 356,
+    "english": "bubble",
+    "turkish": "kabarcık",
+    "exampleEn": "A small bubble formed at the site of the injection.",
+    "exampleTr": "Enjeksiyon bölgesinde küçük bir kabarcık oluştu.",
+    "sourceNumber": 356
+  },
+  {
+    "id": 357,
+    "english": "blister",
+    "turkish": "kabarcık, su toplama",
+    "exampleEn": "The burn caused a blister to form on the patient's hand.",
+    "exampleTr": "Yanık, hastanın elinde su toplamasına neden oldu.",
+    "sourceNumber": 357
+  },
+  {
+    "id": 358,
+    "english": "avert",
+    "turkish": "önlemek, engellemek; (bakışını) kaçırmak",
+    "exampleEn": "Early intervention may avert serious complications.",
+    "exampleTr": "Erken müdahale ciddi komplikasyonları önleyebilir.",
+    "sourceNumber": 358
+  },
+  {
+    "id": 359,
+    "english": "abstain from",
+    "turkish": "kaçınmak",
+    "exampleEn": "Patients are advised to abstain from eating before certain procedures.",
+    "exampleTr": "Hastalara bazı işlemlerden önce yemek yemekten kaçınmaları önerilir.",
+    "sourceNumber": 359
+  },
+  {
+    "id": 360,
+    "english": "as well as",
+    "turkish": "-in yanı sıra, ... olduğu kadar",
+    "exampleEn": "The programme provides medical care as well as nutritional support.",
+    "exampleTr": "Program, beslenme desteğinin yanı sıra tıbbi bakım da sağlar.",
+    "sourceNumber": 360
   }
 ]
