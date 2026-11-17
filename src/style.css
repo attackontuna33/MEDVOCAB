@@ -22,3 +22,14 @@
 .library-example{margin:22px auto 0;text-align:center}
 .library-example p{font-size:16px}
 @media(prefers-reduced-motion:reduce){.library-card-inner{transition:none}}
+
+:root{--pudra:#d9a8b3;--pudra-light:#f8edf0;--pudra-dark:#744c58}
+.brand-mark{object-fit:contain;background:transparent!important;border-radius:0!important}
+.nav.active{background:#513943}
+.nav i{background:var(--pudra);color:#34232a}
+.primary,.answer-right{background:#744c58;color:#fff}
+.answer-wrong{background:#f8edf0;color:#744c58}
+.library-card-front,.library-card-back{background:linear-gradient(145deg,#fff,#fbf0f2);border-color:#ead5da}
+.library-card-back{background:linear-gradient(145deg,#f7e7eb,#fff)}
+.heart-burst{position:fixed;left:50%;top:60%;z-index:10;color:#d66b83;font-size:38px;pointer-events:none;animation:heart-fly .8s ease-out forwards}
+@keyframes heart-fly{0%{opacity:0;transform:translate(-50%,10px) scale(.5)}25%{opacity:1}100%{opacity:0;transform:translate(-50%,-100px) scale(1.15)}}
