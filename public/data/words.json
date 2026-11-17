@@ -1918,5 +1918,245 @@
     "exampleEn": "The wound became infected and required further treatment.",
     "exampleTr": "Yara enfekte oldu ve ek tedavi gerektirdi.",
     "sourceNumber": 240
+  },
+  {
+    "id": 241,
+    "english": "inhibition",
+    "turkish": "engelleme, baskılama, inhibisyon",
+    "exampleEn": "The drug works through the inhibition of a specific enzyme.",
+    "exampleTr": "İlaç, belirli bir enzimin baskılanması yoluyla etki gösterir.",
+    "sourceNumber": 241
+  },
+  {
+    "id": 242,
+    "english": "to intubate",
+    "turkish": "entübe etmek",
+    "exampleEn": "The medical team decided to intubate the patient because of respiratory failure.",
+    "exampleTr": "Sağlık ekibi solunum yetmezliği nedeniyle hastayı entübe etmeye karar verdi.",
+    "sourceNumber": 242
+  },
+  {
+    "id": 243,
+    "english": "outbreak",
+    "turkish": "epidemic, ortaya çıkma, salgın",
+    "exampleEn": "The health authorities investigated the outbreak of a foodborne illness.",
+    "exampleTr": "Sağlık yetkilileri gıda kaynaklı bir hastalık salgınını araştırdı.",
+    "sourceNumber": 243
+  },
+  {
+    "id": 244,
+    "english": "puberty",
+    "turkish": "ergenlik",
+    "exampleEn": "Hormonal changes occur rapidly during puberty.",
+    "exampleTr": "Ergenlik döneminde hormonal değişiklikler hızla gerçekleşir.",
+    "sourceNumber": 244
+  },
+  {
+    "id": 245,
+    "english": "identical",
+    "turkish": "eş, benzer, tıpatıp, aynı",
+    "exampleEn": "The twins had identical results in the genetic screening test.",
+    "exampleTr": "İkizlerin genetik tarama testindeki sonuçları aynıydı.",
+    "sourceNumber": 245
+  },
+  {
+    "id": 246,
+    "english": "effect",
+    "turkish": "etki",
+    "exampleEn": "The study examined the effect of sleep deprivation on memory.",
+    "exampleTr": "Çalışma, uykusuzluğun bellek üzerindeki etkisini inceledi.",
+    "sourceNumber": 246
+  },
+  {
+    "id": 247,
+    "english": "to inactivate",
+    "turkish": "etkisiz hale getirmek, etkisiz kılmak",
+    "exampleEn": "Heat can inactivate some microorganisms in contaminated food.",
+    "exampleTr": "Isı, kontamine olmuş gıdalardaki bazı mikroorganizmaları etkisiz hâle getirebilir.",
+    "sourceNumber": 247
+  },
+  {
+    "id": 248,
+    "english": "to revolve",
+    "turkish": "etrafında dönmek",
+    "exampleEn": "The discussion revolved around the causes of the disease.",
+    "exampleTr": "Tartışma hastalığın nedenleri etrafında döndü.",
+    "sourceNumber": 248
+  },
+  {
+    "id": 249,
+    "english": "worldwide",
+    "turkish": "evrensel, dünya çapında",
+    "exampleEn": "Antibiotic resistance is a growing concern worldwide.",
+    "exampleTr": "Antibiyotik direnci dünya çapında giderek büyüyen bir endişe kaynağıdır.",
+    "sourceNumber": 249
+  },
+  {
+    "id": 250,
+    "english": "hypermetropic",
+    "turkish": "far-sighted, hipermetrop",
+    "exampleEn": "A hypermetropic patient may have difficulty focusing on nearby objects.",
+    "exampleTr": "Hipermetrop bir hasta yakındaki nesnelere odaklanmakta güçlük çekebilir.",
+    "sourceNumber": 250
+  },
+  {
+    "id": 251,
+    "english": "lethal",
+    "turkish": "fatal, mortal, öldürücü",
+    "exampleEn": "The toxin can be lethal even in small amounts.",
+    "exampleTr": "Toksin küçük miktarlarda bile öldürücü olabilir.",
+    "sourceNumber": 251
+  },
+  {
+    "id": 252,
+    "english": "scene of disaster",
+    "turkish": "felaket bölgesi",
+    "exampleEn": "Medical teams were sent to the scene of disaster to provide emergency care.",
+    "exampleTr": "Acil bakım sağlamak üzere felaket bölgesine sağlık ekipleri gönderildi.",
+    "sourceNumber": 252
+  },
+  {
+    "id": 253,
+    "english": "paralysed",
+    "turkish": "felç olmuş",
+    "exampleEn": "The patient's left arm was temporarily paralysed after the stroke.",
+    "exampleTr": "Hastanın sol kolu inmeden sonra geçici olarak felç oldu.",
+    "sourceNumber": 253
+  },
+  {
+    "id": 254,
+    "english": "paralysis",
+    "turkish": "felç, inme",
+    "exampleEn": "Early rehabilitation can improve function in people with paralysis.",
+    "exampleTr": "Erken rehabilitasyon felçli kişilerde işlevselliği artırabilir.",
+    "sourceNumber": 254
+  },
+  {
+    "id": 255,
+    "english": "fetal",
+    "turkish": "fetüse ilişkin",
+    "exampleEn": "Fetal development is monitored throughout pregnancy.",
+    "exampleTr": "Gebelik boyunca fetal gelişim izlenir.",
+    "sourceNumber": 255
+  },
+  {
+    "id": 256,
+    "english": "projectile",
+    "turkish": "fışkırır tarzda (projectile vomiting: fışkırır tarzda kusma)",
+    "exampleEn": "Projectile vomiting in an infant should be assessed by a healthcare professional.",
+    "exampleTr": "Bir bebekte fışkırır tarzda kusma bir sağlık uzmanı tarafından değerlendirilmelidir.",
+    "sourceNumber": 256
+  },
+  {
+    "id": 257,
+    "english": "to herniate",
+    "turkish": "fıtıklaşmak",
+    "exampleEn": "A portion of the disc may herniate and press on a spinal nerve.",
+    "exampleTr": "Diskin bir bölümü fıtıklaşarak omurilik sinirine baskı yapabilir.",
+    "sourceNumber": 257
+  },
+  {
+    "id": 258,
+    "english": "dysfunction",
+    "turkish": "fonksiyon bozukluğu",
+    "exampleEn": "Kidney dysfunction can affect the balance of fluids and electrolytes.",
+    "exampleTr": "Böbrek fonksiyon bozukluğu sıvı ve elektrolit dengesini etkileyebilir.",
+    "sourceNumber": 258
+  },
+  {
+    "id": 259,
+    "english": "prolific",
+    "turkish": "fruitful, productive, doğurgan",
+    "exampleEn": "The study examined factors associated with prolific reproduction in the animal population.",
+    "exampleTr": "Çalışma, hayvan popülasyonunda yüksek üreme kapasitesiyle ilişkili faktörleri inceledi.",
+    "sourceNumber": 259
+  },
+  {
+    "id": 260,
+    "english": "conceiving",
+    "turkish": "gebe kalma",
+    "exampleEn": "Some couples seek medical advice when they have difficulty conceiving.",
+    "exampleTr": "Bazı çiftler gebe kalmakta güçlük yaşadıklarında tıbbi danışmanlık alır.",
+    "sourceNumber": 260
+  },
+  {
+    "id": 261,
+    "english": "gestation",
+    "turkish": "gebelik",
+    "exampleEn": "The duration of gestation varies among different mammalian species.",
+    "exampleTr": "Gebelik süresi farklı memeli türleri arasında değişiklik gösterir.",
+    "sourceNumber": 261
+  },
+  {
+    "id": 262,
+    "english": "late starter",
+    "turkish": "geç başlayan (konuşmaya vb.)",
+    "exampleEn": "A child who is a late starter in speech may benefit from an early assessment.",
+    "exampleTr": "Konuşmaya geç başlayan bir çocuk erken değerlendirmeden yarar görebilir.",
+    "sourceNumber": 262
+  },
+  {
+    "id": 263,
+    "english": "transient",
+    "turkish": "geçici",
+    "exampleEn": "The patient experienced transient dizziness after standing up.",
+    "exampleTr": "Hasta ayağa kalktıktan sonra geçici baş dönmesi yaşadı.",
+    "sourceNumber": 263
+  },
+  {
+    "id": 264,
+    "english": "temporarily",
+    "turkish": "geçici olarak",
+    "exampleEn": "The medication temporarily relieved the patient's symptoms.",
+    "exampleTr": "İlaç hastanın belirtilerini geçici olarak hafifletti.",
+    "sourceNumber": 264
+  },
+  {
+    "id": 265,
+    "english": "permeability",
+    "turkish": "geçirgenlik",
+    "exampleEn": "Inflammation can increase the permeability of blood vessels.",
+    "exampleTr": "İltihaplanma kan damarlarının geçirgenliğini artırabilir.",
+    "sourceNumber": 265
+  },
+  {
+    "id": 266,
+    "english": "passage",
+    "turkish": "geçiş, geçme",
+    "exampleEn": "The passage of food through the digestive tract involves several organs.",
+    "exampleTr": "Yiyeceklerin sindirim kanalından geçişi birkaç organı kapsar.",
+    "sourceNumber": 266
+  },
+  {
+    "id": 267,
+    "english": "posterity",
+    "turkish": "gelecek kuşaklar, next generation",
+    "exampleEn": "The researchers noted that environmental exposures may affect the health of posterity.",
+    "exampleTr": "Araştırmacılar çevresel maruziyetlerin gelecek kuşakların sağlığını etkileyebileceğini belirtti.",
+    "sourceNumber": 267
+  },
+  {
+    "id": 268,
+    "english": "juvenile diabetes",
+    "turkish": "genellikle çocuk ve ergenlerde görülen şeker hastalığı (tip 1 diyabet)",
+    "exampleEn": "Juvenile diabetes requires lifelong management of blood glucose levels.",
+    "exampleTr": "Juvenil diyabet, kan glikoz düzeylerinin yaşam boyu yönetilmesini gerektirir.",
+    "sourceNumber": 268
+  },
+  {
+    "id": 269,
+    "english": "genetically modified",
+    "turkish": "genetiği değiştirilmiş",
+    "exampleEn": "The researchers studied the safety of genetically modified organisms used in food production.",
+    "exampleTr": "Araştırmacılar gıda üretiminde kullanılan genetiği değiştirilmiş organizmaların güvenliğini inceledi.",
+    "sourceNumber": 269
+  },
+  {
+    "id": 270,
+    "english": "genetic mutation",
+    "turkish": "genetik mutasyon, genetik değişim",
+    "exampleEn": "A genetic mutation may increase the risk of developing an inherited disorder.",
+    "exampleTr": "Genetik bir mutasyon kalıtsal bir bozukluk geliştirme riskini artırabilir.",
+    "sourceNumber": 270
   }
 ]
