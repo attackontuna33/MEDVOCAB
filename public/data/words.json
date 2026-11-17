@@ -3118,5 +3118,245 @@
     "exampleEn": "Myalgia can occur as a side effect of some medications.",
     "exampleTr": "Miyalji bazı ilaçların yan etkisi olarak ortaya çıkabilir.",
     "sourceNumber": 390
+  },
+  {
+    "id": 391,
+    "english": "muscle power",
+    "turkish": "kas gücü",
+    "exampleEn": "The rehabilitation programme was designed to improve muscle power.",
+    "exampleTr": "Rehabilitasyon programı kas gücünü artırmak amacıyla tasarlandı.",
+    "sourceNumber": 391
+  },
+  {
+    "id": 392,
+    "english": "lean tissue",
+    "turkish": "yağsız doku",
+    "exampleEn": "The assessment measured lean tissue mass in the participants.",
+    "exampleTr": "Değerlendirme katılımcıların yağsız doku kütlesini ölçtü.",
+    "sourceNumber": 392
+  },
+  {
+    "id": 393,
+    "english": "groin",
+    "turkish": "kasık",
+    "exampleEn": "The patient reported pain in the groin after running.",
+    "exampleTr": "Hasta koştuktan sonra kasık bölgesinde ağrı olduğunu bildirdi.",
+    "sourceNumber": 393
+  },
+  {
+    "id": 394,
+    "english": "contraction",
+    "turkish": "kasılma",
+    "exampleEn": "Muscle contraction is necessary for body movement.",
+    "exampleTr": "Kas kasılması vücut hareketi için gereklidir.",
+    "sourceNumber": 394
+  },
+  {
+    "id": 395,
+    "english": "contract",
+    "turkish": "kasılmak; (hastalık) kapmak",
+    "exampleEn": "People can contract the infection through close contact with an infected person.",
+    "exampleTr": "İnsanlar enfekte bir kişiyle yakın temas yoluyla enfeksiyonu kapabilir.",
+    "sourceNumber": 395
+  },
+  {
+    "id": 396,
+    "english": "itch",
+    "turkish": "kaşıntı; kaşınmak, kaşındırmak",
+    "exampleEn": "The patient experienced severe itch around the affected area.",
+    "exampleTr": "Hasta etkilenen bölgede şiddetli kaşıntı yaşadı.",
+    "sourceNumber": 396
+  },
+  {
+    "id": 397,
+    "english": "scratch",
+    "turkish": "kaşımak",
+    "exampleEn": "Patients should avoid scratching irritated skin.",
+    "exampleTr": "Hastalar tahriş olmuş cildi kaşımaktan kaçınmalıdır.",
+    "sourceNumber": 397
+  },
+  {
+    "id": 398,
+    "english": "cataract",
+    "turkish": "katarakt, (gözde) perde",
+    "exampleEn": "Cataract can cause blurred vision, especially in older adults.",
+    "exampleTr": "Katarakt özellikle yaşlı yetişkinlerde bulanık görmeye neden olabilir.",
+    "sourceNumber": 398
+  },
+  {
+    "id": 399,
+    "english": "grief",
+    "turkish": "keder, hüzün, gam",
+    "exampleEn": "Psychological support may help patients cope with grief after a diagnosis.",
+    "exampleTr": "Psikolojik destek, hastaların tanı sonrasında kederle başa çıkmasına yardımcı olabilir.",
+    "sourceNumber": 399
+  },
+  {
+    "id": 400,
+    "english": "bone",
+    "turkish": "kemik (bony: kemiksi)",
+    "exampleEn": "Calcium and vitamin D are important for bone health.",
+    "exampleTr": "Kalsiyum ve D vitamini kemik sağlığı için önemlidir.",
+    "sourceNumber": 400
+  },
+  {
+    "id": 401,
+    "english": "osteoclast",
+    "turkish": "kemik dokusunu yıkan (rezorbe eden) hücre, osteoklast",
+    "exampleEn": "An osteoclast is a cell involved in the breakdown of bone tissue.",
+    "exampleTr": "Osteoklast, kemik dokusunun yıkımında görev alan bir hücredir.",
+    "sourceNumber": 401
+  },
+  {
+    "id": 402,
+    "english": "bone marrow",
+    "turkish": "kemik iliği",
+    "exampleEn": "Bone marrow produces blood cells.",
+    "exampleTr": "Kemik iliği kan hücrelerini üretir.",
+    "sourceNumber": 402
+  },
+  {
+    "id": 403,
+    "english": "marrow",
+    "turkish": "kemik iliği, ilik; öz",
+    "exampleEn": "The sample was taken from the bone marrow for laboratory analysis.",
+    "exampleTr": "Laboratuvar analizi için kemik iliğinden örnek alındı.",
+    "sourceNumber": 403
+  },
+  {
+    "id": 404,
+    "english": "spontaneity",
+    "turkish": "kendiliğinden oluş",
+    "exampleEn": "The study examined the spontaneity of certain physiological responses.",
+    "exampleTr": "Çalışma bazı fizyolojik yanıtların kendiliğinden oluşunu inceledi.",
+    "sourceNumber": 404
+  },
+  {
+    "id": 405,
+    "english": "stealthy",
+    "turkish": "kendini fark ettirmeyen, sinsi, sessiz",
+    "exampleEn": "Some diseases have a stealthy onset and may remain unnoticed for years.",
+    "exampleTr": "Bazı hastalıkların başlangıcı sinsi olabilir ve yıllarca fark edilmeyebilir.",
+    "sourceNumber": 405
+  },
+  {
+    "id": 406,
+    "english": "tick",
+    "turkish": "kene",
+    "exampleEn": "A tick bite can transmit pathogens that cause disease.",
+    "exampleTr": "Kene ısırığı hastalığa neden olan patojenleri bulaştırabilir.",
+    "sourceNumber": 406
+  },
+  {
+    "id": 407,
+    "english": "Lyme disease",
+    "turkish": "kenenin taşıdığı bir bakteri yoluyla bulaşan bir enfeksiyon",
+    "exampleEn": "Lyme disease can develop after the bite of an infected tick.",
+    "exampleTr": "Lyme hastalığı enfekte bir kenenin ısırmasından sonra gelişebilir.",
+    "sourceNumber": 407
+  },
+  {
+    "id": 408,
+    "english": "uncut",
+    "turkish": "kesintisiz",
+    "exampleEn": "The researchers analysed an uncut recording of the patient's sleep.",
+    "exampleTr": "Araştırmacılar hastanın uykusuna ait kesintisiz bir kaydı analiz etti.",
+    "sourceNumber": 408
+  },
+  {
+    "id": 409,
+    "english": "unexplored",
+    "turkish": "keşfedilmemiş",
+    "exampleEn": "Several unexplored factors may influence the progression of the disease.",
+    "exampleTr": "Keşfedilmemiş çeşitli faktörler hastalığın ilerlemesini etkileyebilir.",
+    "sourceNumber": 409
+  },
+  {
+    "id": 410,
+    "english": "dejection",
+    "turkish": "keyifsizlik",
+    "exampleEn": "The patient reported feelings of dejection during the recovery period.",
+    "exampleTr": "Hasta iyileşme sürecinde keyifsizlik hissettiğini bildirdi.",
+    "sourceNumber": 410
+  },
+  {
+    "id": 411,
+    "english": "cartilage",
+    "turkish": "kıkırdak",
+    "exampleEn": "Cartilage cushions the ends of bones within a joint.",
+    "exampleTr": "Kıkırdak, eklem içindeki kemik uçlarını yastıklar.",
+    "sourceNumber": 411
+  },
+  {
+    "id": 412,
+    "english": "threadworm",
+    "turkish": "kıl kurdu",
+    "exampleEn": "Threadworm infection is common among school-aged children.",
+    "exampleTr": "Kıl kurdu enfeksiyonu okul çağındaki çocuklarda yaygındır.",
+    "sourceNumber": 412
+  },
+  {
+    "id": 413,
+    "english": "capillary",
+    "turkish": "kılcal damar, kapiller",
+    "exampleEn": "Oxygen and nutrients pass from capillaries into surrounding tissues.",
+    "exampleTr": "Oksijen ve besin maddeleri kılcal damarlardan çevre dokulara geçer.",
+    "sourceNumber": 413
+  },
+  {
+    "id": 414,
+    "english": "malaise",
+    "turkish": "kırgınlık",
+    "exampleEn": "The patient complained of general malaise and fatigue.",
+    "exampleTr": "Hasta genel kırgınlık ve yorgunluktan şikâyet etti.",
+    "sourceNumber": 414
+  },
+  {
+    "id": 415,
+    "english": "fracture",
+    "turkish": "kırık",
+    "exampleEn": "The X-ray confirmed a fracture in the patient's wrist.",
+    "exampleTr": "Röntgen hastanın bileğinde kırık olduğunu doğruladı.",
+    "sourceNumber": 415
+  },
+  {
+    "id": 416,
+    "english": "evanescent",
+    "turkish": "kısa ömürlü",
+    "exampleEn": "The patient experienced evanescent visual disturbances that disappeared within minutes.",
+    "exampleTr": "Hasta birkaç dakika içinde kaybolan kısa süreli görme bozuklukları yaşadı.",
+    "sourceNumber": 416
+  },
+  {
+    "id": 417,
+    "english": "partial",
+    "turkish": "kısmi, parsiyel",
+    "exampleEn": "The patient experienced partial loss of hearing in one ear.",
+    "exampleTr": "Hasta bir kulağında kısmi işitme kaybı yaşadı.",
+    "sourceNumber": 417
+  },
+  {
+    "id": 418,
+    "english": "measles",
+    "turkish": "kızamık",
+    "exampleEn": "Measles can cause fever and a widespread skin rash.",
+    "exampleTr": "Kızamık ateşe ve yaygın deri döküntüsüne neden olabilir.",
+    "sourceNumber": 418
+  },
+  {
+    "id": 419,
+    "english": "German measles",
+    "turkish": "kızamıkçık",
+    "exampleEn": "German measles during pregnancy can pose risks to the developing fetus.",
+    "exampleTr": "Gebelik sırasında kızamıkçık geçirmek gelişmekte olan fetüs için risk oluşturabilir.",
+    "sourceNumber": 419
+  },
+  {
+    "id": 420,
+    "english": "flushing",
+    "turkish": "kızarma",
+    "exampleEn": "Facial flushing may occur as a side effect of some medications.",
+    "exampleTr": "Yüzde kızarma bazı ilaçların yan etkisi olarak ortaya çıkabilir.",
+    "sourceNumber": 420
   }
 ]
