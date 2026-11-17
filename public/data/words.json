@@ -4318,5 +4318,245 @@
     "exampleEn": "A gallstone can block the bile duct and cause pain.",
     "exampleTr": "Bir safra taşı safra kanalını tıkayarak ağrıya neden olabilir.",
     "sourceNumber": 540
+  },
+  {
+    "id": 541,
+    "english": "gallstone",
+    "turkish": "safra taşı",
+    "exampleEn": "A gallstone may cause severe pain in the upper abdomen.",
+    "exampleTr": "Safra taşı üst karın bölgesinde şiddetli ağrıya neden olabilir.",
+    "sourceNumber": 541
+  },
+  {
+    "id": 542,
+    "english": "survivor",
+    "turkish": "hayatta kalan, sağ kalan kişi",
+    "exampleEn": "The cancer survivor attended regular follow-up appointments.",
+    "exampleTr": "Kanseri atlatan kişi düzenli takip randevularına katıldı.",
+    "sourceNumber": 542
+  },
+  {
+    "id": 543,
+    "english": "deafness",
+    "turkish": "sağırlık",
+    "exampleEn": "Some forms of deafness can be managed with hearing aids or implants.",
+    "exampleTr": "Bazı sağırlık türleri işitme cihazları veya implantlarla yönetilebilir.",
+    "sourceNumber": 543
+  },
+  {
+    "id": 544,
+    "english": "relapse",
+    "turkish": "nüksetmek, depreşmek; nüks",
+    "exampleEn": "The patient experienced a relapse several months after treatment.",
+    "exampleTr": "Hasta tedaviden birkaç ay sonra nüks yaşadı.",
+    "sourceNumber": 544
+  },
+  {
+    "id": 545,
+    "english": "health promotion",
+    "turkish": "sağlık geliştirme",
+    "exampleEn": "Health promotion programmes encourage people to adopt healthier lifestyles.",
+    "exampleTr": "Sağlığı geliştirme programları insanları daha sağlıklı yaşam tarzları benimsemeye teşvik eder.",
+    "sourceNumber": 545
+  },
+  {
+    "id": 546,
+    "english": "healthcare schemes",
+    "turkish": "sağlık programları",
+    "exampleEn": "The report compared healthcare schemes in several regions.",
+    "exampleTr": "Rapor çeşitli bölgelerdeki sağlık programlarını karşılaştırdı.",
+    "sourceNumber": 546
+  },
+  {
+    "id": 547,
+    "english": "morbid",
+    "turkish": "hastalıklı, marazi",
+    "exampleEn": "The study focused on morbid conditions associated with obesity.",
+    "exampleTr": "Çalışma obeziteyle ilişkili hastalıklı durumlara odaklandı.",
+    "sourceNumber": 547
+  },
+  {
+    "id": 548,
+    "english": "debilitate",
+    "turkish": "zayıflatmak, güçten düşürmek",
+    "exampleEn": "A prolonged infection can debilitate the patient.",
+    "exampleTr": "Uzun süren bir enfeksiyon hastayı güçten düşürebilir.",
+    "sourceNumber": 548
+  },
+  {
+    "id": 549,
+    "english": "disability",
+    "turkish": "sakatlık, engellilik, yeti yitimi",
+    "exampleEn": "Rehabilitation services can improve independence in people with disability.",
+    "exampleTr": "Rehabilitasyon hizmetleri engelli bireylerin bağımsızlığını artırabilir.",
+    "sourceNumber": 549
+  },
+  {
+    "id": 550,
+    "english": "sedative",
+    "turkish": "sakinleştirici",
+    "exampleEn": "The patient was given a sedative before the procedure.",
+    "exampleTr": "Hastaya işlemden önce sakinleştirici verildi.",
+    "sourceNumber": 550
+  },
+  {
+    "id": 551,
+    "english": "glandular",
+    "turkish": "salgı bezlerine ait",
+    "exampleEn": "The examination revealed glandular tissue changes.",
+    "exampleTr": "Muayenede salgı bezi dokusunda değişiklikler ortaya çıktı.",
+    "sourceNumber": 551
+  },
+  {
+    "id": 552,
+    "english": "secretion",
+    "turkish": "salgılama, salgı",
+    "exampleEn": "The secretion of insulin is regulated by blood glucose levels.",
+    "exampleTr": "İnsülin salgılanması kan glikoz düzeyleri tarafından düzenlenir.",
+    "sourceNumber": 552
+  },
+  {
+    "id": 553,
+    "english": "secrete",
+    "turkish": "salgılamak",
+    "exampleEn": "Certain cells secrete hormones into the bloodstream.",
+    "exampleTr": "Bazı hücreler hormonları kan dolaşımına salgılar.",
+    "sourceNumber": 553
+  },
+  {
+    "id": 554,
+    "english": "epidemic",
+    "turkish": "salgın",
+    "exampleEn": "The epidemic placed considerable pressure on local healthcare services.",
+    "exampleTr": "Salgın yerel sağlık hizmetleri üzerinde önemli bir baskı oluşturdu.",
+    "sourceNumber": 554
+  },
+  {
+    "id": 555,
+    "english": "endemic",
+    "turkish": "endemik, bir bölgeye özgü (orada sürekli görülen)",
+    "exampleEn": "Malaria is endemic in some tropical regions.",
+    "exampleTr": "Sıtma bazı tropikal bölgelerde endemiktir.",
+    "sourceNumber": 555
+  },
+  {
+    "id": 556,
+    "english": "hay fever",
+    "turkish": "saman nezlesi",
+    "exampleEn": "Hay fever can cause sneezing, itchy eyes, and a runny nose.",
+    "exampleTr": "Saman nezlesi hapşırmaya, göz kaşıntısına ve burun akıntısına neden olabilir.",
+    "sourceNumber": 556
+  },
+  {
+    "id": 557,
+    "english": "obsessive",
+    "turkish": "saplantılı",
+    "exampleEn": "Obsessive thoughts can interfere with a person's daily activities.",
+    "exampleTr": "Saplantılı düşünceler kişinin günlük etkinliklerini engelleyebilir.",
+    "sourceNumber": 557
+  },
+  {
+    "id": 558,
+    "english": "jaundice",
+    "turkish": "sarılık",
+    "exampleEn": "Jaundice causes yellowing of the skin and the whites of the eyes.",
+    "exampleTr": "Sarılık cildin ve göz aklarının sararmasına neden olur.",
+    "sourceNumber": 558
+  },
+  {
+    "id": 559,
+    "english": "yellowish",
+    "turkish": "sarımsı",
+    "exampleEn": "A yellowish colour of the skin may be a sign of jaundice.",
+    "exampleTr": "Cildin sarımsı bir renk alması sarılık belirtisi olabilir.",
+    "sourceNumber": 559
+  },
+  {
+    "id": 560,
+    "english": "vulnerable",
+    "turkish": "savunmasız",
+    "exampleEn": "Older adults may be more vulnerable to severe respiratory infections.",
+    "exampleTr": "Yaşlı yetişkinler şiddetli solunum yolu enfeksiyonlarına karşı daha savunmasız olabilir.",
+    "sourceNumber": 560
+  },
+  {
+    "id": 561,
+    "english": "to cause",
+    "turkish": "sebep olmak, neden olmak",
+    "exampleEn": "Smoking can cause serious damage to the lungs.",
+    "exampleTr": "Sigara içmek akciğerlerde ciddi hasara neden olabilir.",
+    "sourceNumber": 561
+  },
+  {
+    "id": 562,
+    "english": "septic sore throat",
+    "turkish": "septik farenjit",
+    "exampleEn": "The patient was examined for signs of septic sore throat.",
+    "exampleTr": "Hasta septik farenjit belirtileri açısından muayene edildi.",
+    "sourceNumber": 562
+  },
+  {
+    "id": 563,
+    "english": "temperature",
+    "turkish": "sıcaklık, hararet; (vücut) ısısı, ateş",
+    "exampleEn": "The nurse measured the patient's temperature on arrival.",
+    "exampleTr": "Hemşire hasta geldiğinde vücut sıcaklığını ölçtü.",
+    "sourceNumber": 563
+  },
+  {
+    "id": 564,
+    "english": "sanitary",
+    "turkish": "sıhhi, sağlıkla ilgili",
+    "exampleEn": "Sanitary conditions are essential for preventing the spread of infection.",
+    "exampleTr": "Enfeksiyonun yayılmasını önlemek için sıhhi koşullar gereklidir.",
+    "sourceNumber": 564
+  },
+  {
+    "id": 565,
+    "english": "distress",
+    "turkish": "sıkıntı",
+    "exampleEn": "Severe breathing difficulties can cause considerable distress.",
+    "exampleTr": "Şiddetli solunum güçlükleri önemli ölçüde sıkıntıya neden olabilir.",
+    "sourceNumber": 565
+  },
+  {
+    "id": 566,
+    "english": "fluid, liquid",
+    "turkish": "sıvı",
+    "exampleEn": "The patient was advised to increase fluid intake during recovery.",
+    "exampleTr": "Hastaya iyileşme sırasında sıvı alımını artırması önerildi.",
+    "sourceNumber": 566
+  },
+  {
+    "id": 567,
+    "english": "digest",
+    "turkish": "sindirmek",
+    "exampleEn": "The stomach helps digest food by mixing it with digestive juices.",
+    "exampleTr": "Mide, yiyecekleri sindirim sıvılarıyla karıştırarak sindirmeye yardımcı olur.",
+    "sourceNumber": 567
+  },
+  {
+    "id": 568,
+    "english": "breakdown",
+    "turkish": "sinir bozukluğu, ruhsal çöküntü; (protein vb.) parçalanma, yıkım",
+    "exampleEn": "The laboratory measured the breakdown of proteins during digestion.",
+    "exampleTr": "Laboratuvar sindirim sırasında proteinlerin parçalanmasını ölçtü.",
+    "sourceNumber": 568
+  },
+  {
+    "id": 569,
+    "english": "neurodegenerative",
+    "turkish": "sinir dokusunun zamanla yok olmasıyla ilgili",
+    "exampleEn": "Alzheimer's disease is a neurodegenerative condition.",
+    "exampleTr": "Alzheimer hastalığı nörodejeneratif bir durumdur.",
+    "sourceNumber": 569
+  },
+  {
+    "id": 570,
+    "english": "neuropathy",
+    "turkish": "sinir hastalığı",
+    "exampleEn": "Diabetes can lead to peripheral neuropathy.",
+    "exampleTr": "Diyabet periferik nöropatiye yol açabilir.",
+    "sourceNumber": 570
   }
 ]
