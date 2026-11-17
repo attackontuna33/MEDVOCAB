@@ -45,8 +45,8 @@ export default function App() {
     const pool=[...words].sort(()=>Math.random()-.5).slice(0,10);
     const questions=pool.map((word,i)=>{
       const kind=examMode==="mixed"?(["vocabulary","context","reading"] as const)[i%3]:examMode;
-      const passage=kind==="reading"?pool.slice(0,Math.min(4,pool.length)).map(item=>item.exampleEn).join(" "):undefined;
-      const cloze=word.exampleEn.toLocaleLowerCase("en").replace(word.english.toLocaleLowerCase("en"),"_____");
+      const passage=kind==="reading"?[word.exampleEn,...pool.filter(item=>item.id!==word.id).slice(0,3).map(item=>item.exampleEn)].join(" "):undefined;
+      const sentence=word.exampleEn; const position=sentence.toLocaleLowerCase("en").indexOf(word.english.toLocaleLowerCase("en")); const cloze=position>=0?sentence.slice(0,position)+"_____"+sentence.slice(position+word.english.length):sentence;
       const prompt=kind==="vocabulary"?`Türkçe karşılığını yaz: ${word.english}`:kind==="context"?cloze:`Metinde geçen “${word.english}” ifadesinin Türkçe karşılığını yaz.`;
       return {word,kind,prompt,answer:kind==="context"?word.english:word.turkish,passage};
     });
