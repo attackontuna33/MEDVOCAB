@@ -1,0 +1,24 @@
+name: MEDVOCAB build
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install dependencies
+        run: npm install
+      - name: Validate vocabulary dataset
+        run: node -e "const w=require('./public/data/words.json'); if(w.length!==725) throw new Error('Expected 725 words'); if(w.some((x,i)=>x.id!==i+1||!x.english||!x.turkish||!x.exampleEn||!x.exampleTr)) throw new Error('Invalid vocabulary record'); console.log('Validated',w.length,'records')"
+      - name: Build app
+        run: npm run build
