@@ -5518,5 +5518,285 @@
     "exampleEn": "Some medical devices emit low levels of radiation during imaging.",
     "exampleTr": "Bazı tıbbi cihazlar görüntüleme sırasında düşük düzeyde radyasyon yayar.",
     "sourceNumber": 690
+  },
+  {
+    "id": 691,
+    "english": "replacement pancreas",
+    "turkish": "yerine konan pankreas (nakledilen ya da yapay pankreas)",
+    "exampleEn": "A replacement pancreas may be considered as a potential treatment approach for selected patients.",
+    "exampleTr": "Yerine konan bir pankreas, seçilmiş hastalar için olası bir tedavi yaklaşımı olarak değerlendirilebilir.",
+    "sourceNumber": 691
+  },
+  {
+    "id": 692,
+    "english": "newborn",
+    "turkish": "yenidoğan",
+    "exampleEn": "The newborn was examined shortly after delivery.",
+    "exampleTr": "Yenidoğan doğumdan kısa süre sonra muayene edildi.",
+    "sourceNumber": 692
+  },
+  {
+    "id": 693,
+    "english": "neoplasia",
+    "turkish": "yeni ve anormal hücre çoğalması",
+    "exampleEn": "Neoplasia involves abnormal and uncontrolled cell growth.",
+    "exampleTr": "Neoplazi, anormal ve kontrolsüz hücre çoğalmasını içerir.",
+    "sourceNumber": 693
+  },
+  {
+    "id": 694,
+    "english": "resorption",
+    "turkish": "yeniden emilme",
+    "exampleEn": "Bone resorption is part of the normal process of bone remodelling.",
+    "exampleTr": "Kemik rezorpsiyonu, kemik yeniden şekillenmesinin normal sürecinin bir parçasıdır.",
+    "sourceNumber": 694
+  },
+  {
+    "id": 695,
+    "english": "remodeling",
+    "turkish": "yeniden şekillendirme",
+    "exampleEn": "Bone remodeling involves the continuous replacement of old bone tissue.",
+    "exampleTr": "Kemik yeniden şekillenmesi eski kemik dokusunun sürekli olarak yenilenmesini içerir.",
+    "sourceNumber": 695
+  },
+  {
+    "id": 696,
+    "english": "adequate",
+    "turkish": "yeterli",
+    "exampleEn": "Adequate hydration is important during recovery from illness.",
+    "exampleTr": "Hastalıktan iyileşme sırasında yeterli sıvı alımı önemlidir.",
+    "sourceNumber": 696
+  },
+  {
+    "id": 697,
+    "english": "undernutrition",
+    "turkish": "yetersiz beslenme",
+    "exampleEn": "Undernutrition can impair growth and weaken the immune system.",
+    "exampleTr": "Yetersiz beslenme büyümeyi bozabilir ve bağışıklık sistemini zayıflatabilir.",
+    "sourceNumber": 697
+  },
+  {
+    "id": 698,
+    "english": "laceration",
+    "turkish": "yırtılmaya bağlı oluşan yara",
+    "exampleEn": "The patient required stitches to close the deep laceration.",
+    "exampleTr": "Hastanın derin yırtılma yarasını kapatmak için dikiş atılması gerekti.",
+    "sourceNumber": 698
+  },
+  {
+    "id": 699,
+    "english": "intensive care unit",
+    "turkish": "yoğun bakım ünitesi",
+    "exampleEn": "The patient was transferred to the intensive care unit for close monitoring.",
+    "exampleTr": "Hasta yakından izlenmek üzere yoğun bakım ünitesine nakledildi.",
+    "sourceNumber": 699
+  },
+  {
+    "id": 700,
+    "english": "intensely",
+    "turkish": "yoğun bir şekilde",
+    "exampleEn": "The patient was monitored intensely during the first hours after surgery.",
+    "exampleTr": "Hasta ameliyattan sonraki ilk saatlerde yoğun bir şekilde izlendi.",
+    "sourceNumber": 700
+  },
+  {
+    "id": 701,
+    "english": "tract",
+    "turkish": "yol, kanal (sindirim/solunum yolu)",
+    "exampleEn": "The digestive tract breaks down food and absorbs nutrients.",
+    "exampleTr": "Sindirim kanalı yiyecekleri parçalar ve besin maddelerini emer.",
+    "sourceNumber": 701
+  },
+  {
+    "id": 702,
+    "english": "fatigue",
+    "turkish": "yorgunluk",
+    "exampleEn": "Persistent fatigue may be associated with anaemia or thyroid disease.",
+    "exampleTr": "Sürekli yorgunluk kansızlık veya tiroid hastalığıyla ilişkili olabilir.",
+    "sourceNumber": 702
+  },
+  {
+    "id": 703,
+    "english": "nodule",
+    "turkish": "yumru, düğüm, nodül",
+    "exampleEn": "The ultrasound revealed a small nodule in the thyroid gland.",
+    "exampleTr": "Ultrason tiroid bezinde küçük bir nodül ortaya çıkardı.",
+    "sourceNumber": 703
+  },
+  {
+    "id": 704,
+    "english": "ovary",
+    "turkish": "yumurtalık",
+    "exampleEn": "The ovary releases an egg during the menstrual cycle.",
+    "exampleTr": "Yumurtalık adet döngüsü sırasında bir yumurta hücresi salar.",
+    "sourceNumber": 704
+  },
+  {
+    "id": 705,
+    "english": "ovulation",
+    "turkish": "yumurtlama",
+    "exampleEn": "Ovulation usually occurs once during each menstrual cycle.",
+    "exampleTr": "Yumurtlama genellikle her adet döngüsünde bir kez gerçekleşir.",
+    "sourceNumber": 705
+  },
+  {
+    "id": 706,
+    "english": "deglutition",
+    "turkish": "yutkunma",
+    "exampleEn": "Difficulty with deglutition may indicate a swallowing disorder.",
+    "exampleTr": "Yutkunma güçlüğü bir yutma bozukluğuna işaret edebilir.",
+    "sourceNumber": 706
+  },
+  {
+    "id": 707,
+    "english": "swallow",
+    "turkish": "yutmak",
+    "exampleEn": "The patient was able to swallow tablets without difficulty.",
+    "exampleTr": "Hasta tabletleri güçlük çekmeden yutabildi.",
+    "sourceNumber": 707
+  },
+  {
+    "id": 708,
+    "english": "junk food",
+    "turkish": "yüksek kalorili ama besin değeri düşük hazır yiyecekler",
+    "exampleEn": "Frequent consumption of junk food may contribute to obesity.",
+    "exampleTr": "Hazır ve besin değeri düşük yiyeceklerin sık tüketimi obeziteye katkıda bulunabilir.",
+    "sourceNumber": 708
+  },
+  {
+    "id": 709,
+    "english": "hypertension",
+    "turkish": "yüksek tansiyon",
+    "exampleEn": "Hypertension increases the risk of heart disease and stroke.",
+    "exampleTr": "Yüksek tansiyon kalp hastalığı ve inme riskini artırır.",
+    "sourceNumber": 709
+  },
+  {
+    "id": 710,
+    "english": "to raise",
+    "turkish": "yükseltmek",
+    "exampleEn": "The medication may raise blood glucose levels in some patients.",
+    "exampleTr": "İlaç bazı hastalarda kan glikoz düzeylerini yükseltebilir.",
+    "sourceNumber": 710
+  },
+  {
+    "id": 711,
+    "english": "facial",
+    "turkish": "yüzle ilgili",
+    "exampleEn": "The patient experienced facial pain on the left side.",
+    "exampleTr": "Hasta yüzünün sol tarafında ağrı yaşadı.",
+    "sourceNumber": 711
+  },
+  {
+    "id": 712,
+    "english": "membrane",
+    "turkish": "zar, membran (cell membrane: hücre zarı)",
+    "exampleEn": "The cell membrane controls the movement of substances into and out of the cell.",
+    "exampleTr": "Hücre zarı maddelerin hücreye girişini ve hücreden çıkışını kontrol eder.",
+    "sourceNumber": 712
+  },
+  {
+    "id": 713,
+    "english": "to harm",
+    "turkish": "zarar vermek, yaralamak",
+    "exampleEn": "Smoking can harm the lungs and cardiovascular system.",
+    "exampleTr": "Sigara içmek akciğerlere ve kardiyovasküler sisteme zarar verebilir.",
+    "sourceNumber": 713
+  },
+  {
+    "id": 714,
+    "english": "noxious",
+    "turkish": "zararlı, zehirli",
+    "exampleEn": "Workers should avoid inhaling noxious fumes in the laboratory.",
+    "exampleTr": "Çalışanlar laboratuvarda zararlı dumanları solumaktan kaçınmalıdır.",
+    "sourceNumber": 714
+  },
+  {
+    "id": 715,
+    "english": "compromised",
+    "turkish": "zayıf düşmüş",
+    "exampleEn": "Patients with a compromised immune system are at greater risk of infection.",
+    "exampleTr": "Bağışıklık sistemi zayıf düşmüş hastalar daha yüksek enfeksiyon riski altındadır.",
+    "sourceNumber": 715
+  },
+  {
+    "id": 716,
+    "english": "weak pulse",
+    "turkish": "zayıf nabız",
+    "exampleEn": "A weak pulse may indicate poor circulation or reduced cardiac output.",
+    "exampleTr": "Zayıf nabız dolaşımın yetersiz olduğuna veya kalp debisinin azaldığına işaret edebilir.",
+    "sourceNumber": 716
+  },
+  {
+    "id": 717,
+    "english": "lean",
+    "turkish": "zayıf, sıska, yağsız",
+    "exampleEn": "The study compared body composition in lean and obese adults.",
+    "exampleTr": "Çalışma zayıf ve obez yetişkinlerde vücut bileşimini karşılaştırdı.",
+    "sourceNumber": 717
+  },
+  {
+    "id": 718,
+    "english": "weaken",
+    "turkish": "zayıflatmak",
+    "exampleEn": "Severe infection can weaken the body's immune response.",
+    "exampleTr": "Şiddetli enfeksiyon vücudun bağışıklık yanıtını zayıflatabilir.",
+    "sourceNumber": 718
+  },
+  {
+    "id": 719,
+    "english": "to attenuate",
+    "turkish": "zayıflatmak, güçten düşürmek",
+    "exampleEn": "The treatment was designed to attenuate the inflammatory response.",
+    "exampleTr": "Tedavi iltihabi yanıtı zayıflatmak amacıyla tasarlandı.",
+    "sourceNumber": 719
+  },
+  {
+    "id": 720,
+    "english": "weakness",
+    "turkish": "zayıflık, güçsüzlük",
+    "exampleEn": "Muscle weakness can occur after prolonged bed rest.",
+    "exampleTr": "Uzun süre yatakta kalındıktan sonra kas güçsüzlüğü görülebilir.",
+    "sourceNumber": 720
+  },
+  {
+    "id": 721,
+    "english": "infirmity",
+    "turkish": "zayıflık, sakatlık",
+    "exampleEn": "The report described age-related infirmity among the participants.",
+    "exampleTr": "Rapor katılımcılar arasında yaşa bağlı güçsüzlüğü tanımladı.",
+    "sourceNumber": 721
+  },
+  {
+    "id": 722,
+    "english": "mental retardation",
+    "turkish": "zekâ geriliği (eskimiş terim; bugün: zihinsel yetersizlik — intellectual disability)",
+    "exampleEn": "The source uses the historical term mental retardation; current respectful terminology is intellectual disability.",
+    "exampleTr": "Kaynakta tarihsel mental retardation terimi kullanılmıştır; güncel ve saygılı karşılık intellectual disability, yani zihinsel yetersizliktir.",
+    "sourceNumber": 722
+  },
+  {
+    "id": 723,
+    "english": "backward",
+    "turkish": "zekâ geriliği olan (eskimiş, kırıcı terim; bugün: zihinsel yetersizliği olan); geri, geriye doğru",
+    "exampleEn": "The word backward is outdated and offensive when used to describe a person; use a person with an intellectual disability instead.",
+    "exampleTr": "Backward sözcüğü bir kişiyi tanımlamak için kullanıldığında eskimiş ve kırıcıdır; bunun yerine zihinsel yetersizliği olan kişi ifadesi kullanılmalıdır.",
+    "sourceNumber": 723
+  },
+  {
+    "id": 724,
+    "english": "droplet",
+    "turkish": "zerre, damlacık",
+    "exampleEn": "Respiratory droplets can transmit some infectious diseases.",
+    "exampleTr": "Solunum damlacıkları bazı bulaşıcı hastalıkları bulaştırabilir.",
+    "sourceNumber": 724
+  },
+  {
+    "id": 725,
+    "english": "mentally handicapped",
+    "turkish": "zihinsel engelli (eskimiş terim; bugün: zihinsel yetersizliği olan — person with an intellectual disability)",
+    "exampleEn": "The source uses the outdated term mentally handicapped; the preferred expression is a person with an intellectual disability.",
+    "exampleTr": "Kaynakta eskimiş mentally handicapped terimi kullanılmıştır; tercih edilen ifade zihinsel yetersizliği olan kişidir.",
+    "sourceNumber": 725
   }
 ]
