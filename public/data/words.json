@@ -4798,5 +4798,245 @@
     "exampleEn": "Schizophrenia is a mental health disorder that requires ongoing care.",
     "exampleTr": "Şizofreni sürekli bakım gerektiren bir ruh sağlığı bozukluğudur.",
     "sourceNumber": 600
+  },
+  {
+    "id": 601,
+    "english": "sceptic",
+    "turkish": "şüpheci kimse",
+    "exampleEn": "The sceptic questioned whether the treatment was supported by sufficient evidence.",
+    "exampleTr": "Şüpheci kişi tedavinin yeterli kanıtla desteklenip desteklenmediğini sorguladı.",
+    "sourceNumber": 601
+  },
+  {
+    "id": 602,
+    "english": "endurance",
+    "turkish": "tahammül, dayanma, dayanıklılık",
+    "exampleEn": "The exercise programme was designed to improve the patients' endurance.",
+    "exampleTr": "Egzersiz programı hastaların dayanıklılığını artırmak için tasarlandı.",
+    "sourceNumber": 602
+  },
+  {
+    "id": 603,
+    "english": "intolerance",
+    "turkish": "tahammülsüzlük",
+    "exampleEn": "Lactose intolerance can cause bloating and abdominal discomfort.",
+    "exampleTr": "Laktoz tahammülsüzlüğü şişkinliğe ve karın rahatsızlığına neden olabilir.",
+    "sourceNumber": 603
+  },
+  {
+    "id": 604,
+    "english": "irritation",
+    "turkish": "tahriş",
+    "exampleEn": "The chemical caused irritation of the skin.",
+    "exampleTr": "Kimyasal ciltte tahrişe neden oldu.",
+    "sourceNumber": 604
+  },
+  {
+    "id": 605,
+    "english": "irritate",
+    "turkish": "tahriş etmek",
+    "exampleEn": "Some cleaning products can irritate the respiratory tract.",
+    "exampleTr": "Bazı temizlik ürünleri solunum yollarını tahriş edebilir.",
+    "sourceNumber": 605
+  },
+  {
+    "id": 606,
+    "english": "through",
+    "turkish": "aracılığıyla, içinden, boyunca",
+    "exampleEn": "The infection was transmitted through direct contact.",
+    "exampleTr": "Enfeksiyon doğrudan temas aracılığıyla bulaştı.",
+    "sourceNumber": 606
+  },
+  {
+    "id": 607,
+    "english": "establish",
+    "turkish": "saptamak, kurmak; (tanıyı) kesinleştirmek",
+    "exampleEn": "Further tests were needed to establish the diagnosis.",
+    "exampleTr": "Tanıyı kesinleştirmek için ek testler gerekiyordu.",
+    "sourceNumber": 607
+  },
+  {
+    "id": 608,
+    "english": "to transmit",
+    "turkish": "bulaştırmak, iletmek, aktarmak",
+    "exampleEn": "Mosquitoes can transmit pathogens to humans.",
+    "exampleTr": "Sivrisinekler patojenleri insanlara bulaştırabilir.",
+    "sourceNumber": 608
+  },
+  {
+    "id": 609,
+    "english": "treatment",
+    "turkish": "tedavi, tedavi yöntemi",
+    "exampleEn": "The patient responded well to the treatment.",
+    "exampleTr": "Hasta tedaviye iyi yanıt verdi.",
+    "sourceNumber": 609
+  },
+  {
+    "id": 610,
+    "english": "if left untreated",
+    "turkish": "tedavi edilmezse",
+    "exampleEn": "If left untreated, the infection may spread to other parts of the body.",
+    "exampleTr": "Tedavi edilmezse enfeksiyon vücudun diğer bölümlerine yayılabilir.",
+    "sourceNumber": 610
+  },
+  {
+    "id": 611,
+    "english": "precaution",
+    "turkish": "tedbir, önlem",
+    "exampleEn": "Healthcare workers take precautions to prevent infection transmission.",
+    "exampleTr": "Sağlık çalışanları enfeksiyon bulaşmasını önlemek için tedbir alır.",
+    "sourceNumber": 611
+  },
+  {
+    "id": 612,
+    "english": "to treat",
+    "turkish": "tedavi etmek",
+    "exampleEn": "Doctors use antibiotics to treat certain bacterial infections.",
+    "exampleTr": "Doktorlar belirli bakteriyel enfeksiyonları tedavi etmek için antibiyotik kullanır.",
+    "sourceNumber": 612
+  },
+  {
+    "id": 613,
+    "english": "irremediable",
+    "turkish": "tedavisi imkânsız",
+    "exampleEn": "The report described the condition as irremediable with the available treatment options.",
+    "exampleTr": "Rapor, mevcut tedavi seçenekleriyle durumun tedavi edilemez olduğunu belirtti.",
+    "sourceNumber": 613
+  },
+  {
+    "id": 614,
+    "english": "hazardous",
+    "turkish": "tehlikeli",
+    "exampleEn": "Exposure to hazardous chemicals can cause serious health problems.",
+    "exampleTr": "Tehlikeli kimyasallara maruz kalmak ciddi sağlık sorunlarına neden olabilir.",
+    "sourceNumber": 614
+  },
+  {
+    "id": 615,
+    "english": "recurrent",
+    "turkish": "tekrarlayan",
+    "exampleEn": "The patient suffered from recurrent urinary tract infections.",
+    "exampleTr": "Hasta tekrarlayan idrar yolu enfeksiyonlarından muzdaripti.",
+    "sourceNumber": 615
+  },
+  {
+    "id": 616,
+    "english": "tapeworm",
+    "turkish": "tenya",
+    "exampleEn": "Tapeworm infection can occur after eating contaminated or undercooked food.",
+    "exampleTr": "Tenya enfeksiyonu kontamine olmuş veya az pişmiş yiyeceklerin yenmesinden sonra ortaya çıkabilir.",
+    "sourceNumber": 616
+  },
+  {
+    "id": 617,
+    "english": "top",
+    "turkish": "tepe, üst",
+    "exampleEn": "The medication was applied to the top layer of the skin.",
+    "exampleTr": "İlaç cildin üst tabakasına uygulandı.",
+    "sourceNumber": 617
+  },
+  {
+    "id": 618,
+    "english": "react",
+    "turkish": "tepki vermek",
+    "exampleEn": "Some patients react differently to the same medication.",
+    "exampleTr": "Bazı hastalar aynı ilaca farklı tepki verir.",
+    "sourceNumber": 618
+  },
+  {
+    "id": 619,
+    "english": "respond to",
+    "turkish": "tepki vermek; (tedaviye) yanıt vermek",
+    "exampleEn": "The infection did not respond to the initial antibiotic treatment.",
+    "exampleTr": "Enfeksiyon ilk antibiyotik tedavisine yanıt vermedi.",
+    "sourceNumber": 619
+  },
+  {
+    "id": 620,
+    "english": "to sweat",
+    "turkish": "terlemek",
+    "exampleEn": "Patients may sweat excessively when they have a high fever.",
+    "exampleTr": "Hastalar yüksek ateşleri olduğunda aşırı terleyebilir.",
+    "sourceNumber": 620
+  },
+  {
+    "id": 621,
+    "english": "to institute",
+    "turkish": "tesis etmek, kurmak, (tedaviyi) başlatmak",
+    "exampleEn": "The hospital decided to institute a new infection-control policy.",
+    "exampleTr": "Hastane yeni bir enfeksiyon kontrol politikası başlatmaya karar verdi.",
+    "sourceNumber": 621
+  },
+  {
+    "id": 622,
+    "english": "diagnose",
+    "turkish": "teşhis etmek",
+    "exampleEn": "The physician used laboratory tests to diagnose the condition.",
+    "exampleTr": "Hekim durumu teşhis etmek için laboratuvar testlerinden yararlandı.",
+    "sourceNumber": 622
+  },
+  {
+    "id": 623,
+    "english": "tetanus",
+    "turkish": "tetanoz",
+    "exampleEn": "Tetanus can be prevented through vaccination.",
+    "exampleTr": "Tetanoz aşılama yoluyla önlenebilir.",
+    "sourceNumber": 623
+  },
+  {
+    "id": 624,
+    "english": "obstruct",
+    "turkish": "tıkamak",
+    "exampleEn": "A blood clot can obstruct an artery and restrict circulation.",
+    "exampleTr": "Bir kan pıhtısı atardamarı tıkayarak dolaşımı kısıtlayabilir.",
+    "sourceNumber": 624
+  },
+  {
+    "id": 625,
+    "english": "jail fever",
+    "turkish": "tifüs (lekeli humma)",
+    "exampleEn": "The historical text referred to typhus as jail fever.",
+    "exampleTr": "Tarihsel metin tifüsü jail fever olarak adlandırdı.",
+    "sourceNumber": 625
+  },
+  {
+    "id": 626,
+    "english": "typhoid",
+    "turkish": "tifo",
+    "exampleEn": "Typhoid fever is usually transmitted through contaminated food or water.",
+    "exampleTr": "Tifo genellikle kontamine olmuş yiyecek veya su yoluyla bulaşır.",
+    "sourceNumber": 626
+  },
+  {
+    "id": 627,
+    "english": "tremor",
+    "turkish": "titreme, ürperme",
+    "exampleEn": "The patient experienced a tremor in the hands.",
+    "exampleTr": "Hasta ellerinde titreme yaşadı.",
+    "sourceNumber": 627
+  },
+  {
+    "id": 628,
+    "english": "accumulate",
+    "turkish": "toplanmak, birikmek",
+    "exampleEn": "Fluid may accumulate in the lungs in severe cases of heart failure.",
+    "exampleTr": "Şiddetli kalp yetmezliği vakalarında akciğerlerde sıvı birikebilir.",
+    "sourceNumber": 628
+  },
+  {
+    "id": 629,
+    "english": "vein",
+    "turkish": "toplardamar",
+    "exampleEn": "A vein carries blood back toward the heart.",
+    "exampleTr": "Toplardamar kanı kalbe doğru geri taşır.",
+    "sourceNumber": 629
+  },
+  {
+    "id": 630,
+    "english": "sediment",
+    "turkish": "tortu, çökelti",
+    "exampleEn": "The urine sample was examined for sediment under a microscope.",
+    "exampleTr": "İdrar örneği mikroskop altında tortu açısından incelendi.",
+    "sourceNumber": 630
   }
 ]
