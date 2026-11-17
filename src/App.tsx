@@ -52,7 +52,7 @@ export default function App() {
     });
     setExamQuestions(questions);setExamStarted(true);setExamIndex(0);setExamAnswers({});setExamDone(false);
   };
-  const normalise=(value:string)=>value.toLocaleLowerCase("tr-TR").replace(/[.,;:!?()]/g,"").replace(/\\s+/g," ").trim();
+  const normalise=(value:string)=>value.toLocaleLowerCase("tr-TR").replace(/[.,;:!?()]/g,"").replace(/\s+/g," ").trim();
   const score=examQuestions.filter(q=>{
     const answer=normalise(examAnswers[q.word.id]??"");
     const accepted=q.kind==="context"?[q.word.english]:q.word.turkish.split(/[;,]/).map(s=>s.trim());
