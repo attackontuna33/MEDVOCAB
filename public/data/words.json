@@ -4078,5 +4078,245 @@
     "exampleEn": "The patient experienced cyclic episodes of abdominal pain.",
     "exampleTr": "Hasta dönemsel karın ağrısı atakları yaşadı.",
     "sourceNumber": 510
+  },
+  {
+    "id": 511,
+    "english": "clot",
+    "turkish": "pıhtı; pıhtılaşmak",
+    "exampleEn": "A blood clot can block the flow of blood through a vessel.",
+    "exampleTr": "Bir kan pıhtısı damardan geçen kan akışını engelleyebilir.",
+    "sourceNumber": 511
+  },
+  {
+    "id": 512,
+    "english": "pigmentation",
+    "turkish": "pigmentasyon, (deride) renklenme",
+    "exampleEn": "Changes in skin pigmentation may occur after inflammation.",
+    "exampleTr": "İltihaplanmadan sonra cilt pigmentasyonunda değişiklikler meydana gelebilir.",
+    "sourceNumber": 512
+  },
+  {
+    "id": 513,
+    "english": "foul",
+    "turkish": "pis, kirli, bozuk",
+    "exampleEn": "A foul smell from the wound may indicate infection.",
+    "exampleTr": "Yaradan gelen kötü koku enfeksiyona işaret edebilir.",
+    "sourceNumber": 513
+  },
+  {
+    "id": 514,
+    "english": "plaque",
+    "turkish": "plak, diş plağı; (damar) plağı",
+    "exampleEn": "Atherosclerotic plaque can narrow the coronary arteries.",
+    "exampleTr": "Aterosklerotik plak koroner atardamarları daraltabilir.",
+    "sourceNumber": 514
+  },
+  {
+    "id": 515,
+    "english": "intoxication",
+    "turkish": "poisoning, zehirlenme",
+    "exampleEn": "Alcohol intoxication can impair coordination and judgement.",
+    "exampleTr": "Alkol zehirlenmesi koordinasyonu ve muhakemeyi bozabilir.",
+    "sourceNumber": 515
+  },
+  {
+    "id": 516,
+    "english": "pump",
+    "turkish": "pompa; pompalamak",
+    "exampleEn": "The heart acts as a pump that circulates blood throughout the body.",
+    "exampleTr": "Kalp, kanı vücudun her yerine dolaştıran bir pompa gibi çalışır.",
+    "sourceNumber": 516
+  },
+  {
+    "id": 517,
+    "english": "prevalence",
+    "turkish": "prevalans, (bir hastalığın) yaygınlığı",
+    "exampleEn": "The prevalence of diabetes has increased in many countries.",
+    "exampleTr": "Diyabetin yaygınlığı birçok ülkede artmıştır.",
+    "sourceNumber": 517
+  },
+  {
+    "id": 518,
+    "english": "prognosis",
+    "turkish": "prognoz (bir hastalığın süresi ve gelişimi hakkında tahmin)",
+    "exampleEn": "The prognosis depends on the stage of the disease and the patient's general health.",
+    "exampleTr": "Prognoz hastalığın evresine ve hastanın genel sağlık durumuna bağlıdır.",
+    "sourceNumber": 518
+  },
+  {
+    "id": 519,
+    "english": "though",
+    "turkish": "rağmen",
+    "exampleEn": "Though the treatment was effective, some patients experienced side effects.",
+    "exampleTr": "Tedavi etkili olmasına rağmen bazı hastalar yan etkiler yaşadı.",
+    "sourceNumber": 519
+  },
+  {
+    "id": 520,
+    "english": "ailment",
+    "turkish": "rahatsızlık, hafif hastalık",
+    "exampleEn": "The clinic treats minor ailments as well as chronic conditions.",
+    "exampleTr": "Klinik kronik durumların yanı sıra hafif rahatsızlıkları da tedavi eder.",
+    "sourceNumber": 520
+  },
+  {
+    "id": 521,
+    "english": "relieve",
+    "turkish": "rahatlatmak, hafifletmek",
+    "exampleEn": "The medication helped relieve the patient's pain.",
+    "exampleTr": "İlaç hastanın ağrısını hafifletmeye yardımcı oldu.",
+    "sourceNumber": 521
+  },
+  {
+    "id": 522,
+    "english": "in utero",
+    "turkish": "rahimde, henüz doğmamış",
+    "exampleEn": "Some infections can affect fetal development in utero.",
+    "exampleTr": "Bazı enfeksiyonlar fetüsün anne rahmindeki gelişimini etkileyebilir.",
+    "sourceNumber": 522
+  },
+  {
+    "id": 523,
+    "english": "REM",
+    "turkish": "hızlı göz hareketi (rapid eye movement): rüyaların görüldüğü uyku evresi",
+    "exampleEn": "REM sleep is associated with vivid dreaming.",
+    "exampleTr": "REM uykusu canlı rüyalarla ilişkilidir.",
+    "sourceNumber": 523
+  },
+  {
+    "id": 524,
+    "english": "to report",
+    "turkish": "rapor etmek",
+    "exampleEn": "The patient was asked to report any new symptoms immediately.",
+    "exampleTr": "Hastadan yeni belirtileri derhâl bildirmesi istendi.",
+    "sourceNumber": 524
+  },
+  {
+    "id": 525,
+    "english": "rickets",
+    "turkish": "raşitizm",
+    "exampleEn": "Rickets can develop in children with severe vitamin D deficiency.",
+    "exampleTr": "Şiddetli D vitamini eksikliği olan çocuklarda raşitizm gelişebilir.",
+    "sourceNumber": 525
+  },
+  {
+    "id": 526,
+    "english": "reaction",
+    "turkish": "reaksiyon, yanıt",
+    "exampleEn": "The patient developed an allergic reaction to the medication.",
+    "exampleTr": "Hastada ilaca karşı alerjik reaksiyon gelişti.",
+    "sourceNumber": 526
+  },
+  {
+    "id": 527,
+    "english": "rebound",
+    "turkish": "recovery, düzelme, toparlanma; (tıpta) geri tepme: ilaç kesilince belirtilerin artarak geri dönmesi (rebound effect)",
+    "exampleEn": "The patient experienced rebound symptoms after stopping the medication.",
+    "exampleTr": "Hasta ilacı bıraktıktan sonra geri tepme belirtileri yaşadı.",
+    "sourceNumber": 527
+  },
+  {
+    "id": 528,
+    "english": "prescribe",
+    "turkish": "reçete yazmak",
+    "exampleEn": "The physician may prescribe antibiotics for a confirmed bacterial infection.",
+    "exampleTr": "Hekim doğrulanmış bakteriyel enfeksiyon için antibiyotik reçete edebilir.",
+    "sourceNumber": 528
+  },
+  {
+    "id": 529,
+    "english": "unprescribed",
+    "turkish": "reçetesiz",
+    "exampleEn": "The use of unprescribed medication may pose health risks.",
+    "exampleTr": "Reçetesiz ilaç kullanımı sağlık riskleri oluşturabilir.",
+    "sourceNumber": 529
+  },
+  {
+    "id": 530,
+    "english": "regimen",
+    "turkish": "rejim, perhiz; (tedavi) programı",
+    "exampleEn": "The patient followed the prescribed treatment regimen carefully.",
+    "exampleTr": "Hasta reçete edilen tedavi programını dikkatle uyguladı.",
+    "sourceNumber": 530
+  },
+  {
+    "id": 531,
+    "english": "rehabilitation",
+    "turkish": "rehabilitasyon, iyileştirme",
+    "exampleEn": "Rehabilitation helped the patient regain strength after the stroke.",
+    "exampleTr": "Rehabilitasyon hastanın inme sonrasında gücünü yeniden kazanmasına yardımcı oldu.",
+    "sourceNumber": 531
+  },
+  {
+    "id": 532,
+    "english": "cure",
+    "turkish": "remedy, relief, şifa, tedavi",
+    "exampleEn": "Researchers are continuing to search for a cure for the disease.",
+    "exampleTr": "Araştırmacılar hastalığın tedavisini bulmak için çalışmalarını sürdürüyor.",
+    "sourceNumber": 532
+  },
+  {
+    "id": 533,
+    "english": "discoloration",
+    "turkish": "renk bozukluğu",
+    "exampleEn": "Skin discoloration was observed around the site of the injury.",
+    "exampleTr": "Yaralanma bölgesinin çevresinde ciltte renk değişikliği gözlemlendi.",
+    "sourceNumber": 533
+  },
+  {
+    "id": 534,
+    "english": "resuscitation",
+    "turkish": "revival, yaşama döndürme",
+    "exampleEn": "Immediate resuscitation was started when the patient stopped breathing.",
+    "exampleTr": "Hasta nefes almayı durdurduğunda derhâl canlandırma işlemine başlandı.",
+    "sourceNumber": 534
+  },
+  {
+    "id": 535,
+    "english": "resurrect",
+    "turkish": "revive, yeniden diriltmek, canlandırmak",
+    "exampleEn": "The researchers studied methods to resurrect damaged cells in the laboratory.",
+    "exampleTr": "Araştırmacılar laboratuvarda hasarlı hücreleri yeniden canlandırma yöntemlerini inceledi.",
+    "sourceNumber": 535
+  },
+  {
+    "id": 536,
+    "english": "rheumatism",
+    "turkish": "romatizma",
+    "exampleEn": "Rheumatism can cause pain and stiffness in the joints.",
+    "exampleTr": "Romatizma eklemlerde ağrıya ve sertliğe neden olabilir.",
+    "sourceNumber": 536
+  },
+  {
+    "id": 537,
+    "english": "hourly",
+    "turkish": "saat başı",
+    "exampleEn": "The nurse checked the patient's vital signs hourly.",
+    "exampleTr": "Hemşire hastanın yaşamsal bulgularını saat başı kontrol etti.",
+    "sourceNumber": 537
+  },
+  {
+    "id": 538,
+    "english": "phase",
+    "turkish": "safha, dönem",
+    "exampleEn": "The disease was detected during an early phase.",
+    "exampleTr": "Hastalık erken bir dönemde tespit edildi.",
+    "sourceNumber": 538
+  },
+  {
+    "id": 539,
+    "english": "bile",
+    "turkish": "safra",
+    "exampleEn": "Bile helps the body digest fats.",
+    "exampleTr": "Safra vücudun yağları sindirmesine yardımcı olur.",
+    "sourceNumber": 539
+  },
+  {
+    "id": 540,
+    "english": "bile duct",
+    "turkish": "safra kanalı (safra kesesi = gallbladder)",
+    "exampleEn": "A gallstone can block the bile duct and cause pain.",
+    "exampleTr": "Bir safra taşı safra kanalını tıkayarak ağrıya neden olabilir.",
+    "sourceNumber": 540
   }
 ]
