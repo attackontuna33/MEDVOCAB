@@ -2,13 +2,12 @@ import { useEffect, useMemo, useState } from "react";
 import type { Word, ProgressMap, Progress } from "./types";
 
 const STORAGE = "medvocab-progress-v1";
-const todayKey = () => new Date().toLocaleDateString("tr-TR");
 const initialProgress = (words: Word[]): ProgressMap => Object.fromEntries(words.map(w => [w.id, {status:"new",dueAt:0,correct:0,wrong:0}]));
-const schedule = (p: Progress, correct: boolean): Progress => {
-  if (!correct) return {...p,status:"learning",dueAt:Date.now()+10*60*1000,wrong:p.wrong+1,lastSeen:Date.now()};
+const schedule = (p: Progress, correct: boolean, isNew: boolean): Progress => {
+  if (!correct) return {...p,status:"learning",dueAt:Date.now()+10*60*1000,wrong:p.wrong+1,lastSeen:Date.now(),...(isNew?{newSeenAt:Date.now()}:{})};
   const next = p.correct + 1;
   const days = next === 1 ? 1 : next === 2 ? 3 : next === 3 ? 7 : 14;
-  return {...p,status:next>=3?"known":"learning",dueAt:Date.now()+days*86400000,correct:next, lastSeen:Date.now()};
+  return {...p,status:next>=3?"known":"learning",dueAt:Date.now()+days*86400000,correct:next,lastSeen:Date.now(),...(isNew?{newSeenAt:Date.now()}:{})};
 };
 
 export default function App() {
@@ -17,28 +16,29 @@ export default function App() {
   const [tab,setTab] = useState("today");
   const [revealed,setRevealed] = useState(false);
   const [direction,setDirection] = useState<"en-tr"|"tr-en">("en-tr");
-  const [index,setIndex] = useState(0);
+  const [sessionDone,setSessionDone] = useState(0);
   const [examStarted,setExamStarted] = useState(false);
   const [examIndex,setExamIndex] = useState(0);
   const [examAnswers,setExamAnswers] = useState<Record<number,string>>({});
   const [examDone,setExamDone] = useState(false);
 
   useEffect(() => { fetch("/data/words.json").then(r=>r.json()).then((data:Word[])=>setWords(data)).catch(()=>setWords([])); },[]);
-  useEffect(() => { if (!words.length) return; try { const saved=localStorage.getItem(STORAGE); setProgress(saved?JSON.parse(saved):initialProgress(words)); } catch { setProgress(initialProgress(words)); } },[words]);
+  useEffect(() => { if (!words.length) return; try { const saved=localStorage.getItem(STORAGE); const parsed=saved?JSON.parse(saved) as ProgressMap:{}; setProgress({...initialProgress(words),...(parsed&&typeof parsed==="object"?parsed:{})}); } catch { setProgress(initialProgress(words)); } },[words]);
   useEffect(() => { if (Object.keys(progress).length) localStorage.setItem(STORAGE,JSON.stringify(progress)); },[progress]);
 
   const due = useMemo(()=>words.filter(w=>(progress[w.id]?.dueAt??0)>0 && (progress[w.id]?.dueAt??0)<=Date.now()).sort((a,b)=>(progress[a.id]?.dueAt??0)-(progress[b.id]?.dueAt??0)),[words,progress]);
   const fresh = useMemo(()=>words.filter(w=>(progress[w.id]?.status??"new")==="new"),[words,progress]);
-  const queue = useMemo(()=>[...due,...fresh].slice(0,20),[due,fresh]);
-  const current = queue[index];
-  const studied = Object.values(progress).filter(p=>p.lastSeen && new Date(p.lastSeen).toDateString()===new Date().toDateString()).length;
+  const todayCount = Object.values(progress).filter(p=>p.newSeenAt && new Date(p.newSeenAt).toDateString()===new Date().toDateString()).length;
+  const queue = useMemo(()=>[...due,...fresh.slice(0,Math.max(0,20-todayCount))],[due,fresh,todayCount]);
+  const current = queue[0];
+  const studied = todayCount;
   const learned = Object.values(progress).filter(p=>p.status==="known").length;
   const wrong = words.filter(w=>(progress[w.id]?.wrong??0)>0).sort((a,b)=>(progress[b.id]?.wrong??0)-(progress[a.id]?.wrong??0));
   const totalCorrect = Object.values(progress).reduce((n,p)=>n+p.correct,0);
   const totalWrong = Object.values(progress).reduce((n,p)=>n+p.wrong,0);
   const weekDays = Array.from({length:7},(_,i)=>{const d=new Date();d.setDate(d.getDate()-(6-i));return d;});
   const streak = (()=>{let n=0;const active=new Set(Object.values(progress).filter(p=>p.lastSeen).map(p=>new Date(p.lastSeen!).toDateString()));for(let i=0;i<365;i++){const d=new Date();d.setDate(d.getDate()-i);if(active.has(d.toDateString()))n++;else if(i>0)break;}return n;})();
-  const mark = (ok:boolean) => { if(!current)return; setProgress(prev=>({...prev,[current.id]:schedule(prev[current.id]??{status:"new",dueAt:0,correct:0,wrong:0},ok)})); setRevealed(false); setDirection(Math.random()>.5?"en-tr":"tr-en"); setIndex(i=>i+1>=queue.length?0:i+1); };
+  const mark = (ok:boolean) => { if(!current)return; const isNew=(progress[current.id]?.status??"new")==="new"; setProgress(prev=>({...prev,[current.id]:schedule(prev[current.id]??{status:"new",dueAt:0,correct:0,wrong:0},ok,isNew)})); setRevealed(false); setDirection(Math.random()>.5?"en-tr":"tr-en"); setSessionDone(n=>n+1); };
   const startExam=()=>{setExamStarted(true);setExamIndex(0);setExamAnswers({});setExamDone(false);};
   const examWords=words.slice(0,Math.min(10,words.length));
   const score=examWords.filter(w=>examAnswers[w.id]?.trim().toLocaleLowerCase("tr-TR")===w.turkish.trim().toLocaleLowerCase("tr-TR")).length;
@@ -53,7 +53,7 @@ export default function App() {
       <header className="topbar"><div><span className="eyebrow">YÖKDİL · SAĞLIK BİLİMLERİ</span><h1>{({today:"Günlük çalışma",words:"Kelime kartları",wrong:"Yanlış cevaplar",weekly:"Haftalık ilerleme",exam:"Sınav modu"} as Record<string,string>)[tab]}</h1></div><div className="top-actions"><span className="streak">♨ {streak} gün seri</span><span className="avatar">D</span></div></header>
       {tab==="today"&&<><section className="welcome"><div><span className="eyebrow light">BUGÜNÜN HEDEFİ</span><h2>Az ama düzenli.<br/><em>Her gün biraz daha iyi.</em></h2><p>Önce zamanı gelen tekrarlar, ardından yeni kelimeler.</p></div><div className="target"><strong>{Math.min(studied,20)}<small>/20</small></strong><span>Günlük hedef</span><div className="progress-line"><i style={{width:`${Math.min(studied/20*100,100)}%`}}/></div></div></section>
       <div className="stats"><div className="stat"><span>TAMAMLANAN KELİME</span><b>{learned}</b><small>öğrenildi</small></div><div className="stat"><span>TEKRAR BEKLEYEN</span><b>{due.length}</b><small>bugün zamanı gelen</small></div><div className="stat"><span>YANLIŞ CEVAP</span><b>{totalWrong}</b><small>toplam hata</small></div><div className="stat"><span>DOĞRU CEVAP</span><b>{totalCorrect}</b><small>toplam doğru</small></div></div>
-      <section className="study-layout"><div className="study-card"><div className="card-head"><span>GÜNLÜK KART</span><span>{queue.length?Math.min(index+1,queue.length):0} / {queue.length}</span></div>{current?<><div className="word-face" onClick={()=>setRevealed(v=>!v)} role="button" tabIndex={0} onKeyDown={e=>e.key==="Enter"&&setRevealed(v=>!v)}><span className="direction">{direction==="en-tr"?"ENGLISH → TÜRKÇE":"TÜRKÇE → ENGLISH"}</span><h2>{direction==="en-tr"?current.english:current.turkish}</h2><p>{revealed?(direction==="en-tr"?current.turkish:current.english):"Anlamı görmek için karta dokun"}</p>{revealed&&<div className="example"><small>ÖRNEK CÜMLE</small><p>{current.exampleEn||"Örnek cümle hazırlanıyor."}</p><p className="translation">{current.exampleTr||"Türkçe çeviri hazırlanıyor."}</p></div>}<span className="tap-hint">{revealed?"Kapatmak için dokun":"◉ GÖSTER"}</span></div><div className="card-actions">{revealed?<><button className="btn ghost" onClick={()=>mark(false)}>Tekrar et</button><button className="btn primary" onClick={()=>mark(true)}>Biliyorum</button></>:<button className="btn primary full" onClick={()=>setRevealed(true)}>Anlamı göster</button>}</div></>:<div className="empty"><div className="empty-icon">✦</div><h3>Kelime verisi hazırlanıyor</h3><p>PDF’deki 725 kayıt doğrulanıp örnek cümleleri eklendikçe kartların burada açılacak. Şimdilik örnek kelime uydurmuyoruz.</p></div>}</div>
+      <section className="study-layout"><div className="study-card"><div className="card-head"><span>GÜNLÜK KART</span><span>{current?Math.min(sessionDone+1,20):Math.min(sessionDone,20)} / 20</span></div>{current?<><div className="word-face" onClick={()=>setRevealed(v=>!v)} role="button" tabIndex={0} onKeyDown={e=>e.key==="Enter"&&setRevealed(v=>!v)}><span className="direction">{direction==="en-tr"?"ENGLISH → TÜRKÇE":"TÜRKÇE → ENGLISH"}</span><h2>{direction==="en-tr"?current.english:current.turkish}</h2><p>{revealed?(direction==="en-tr"?current.turkish:current.english):"Anlamı görmek için karta dokun"}</p>{revealed&&<div className="example"><small>ÖRNEK CÜMLE</small><p>{current.exampleEn||"Örnek cümle hazırlanıyor."}</p><p className="translation">{current.exampleTr||"Türkçe çeviri hazırlanıyor."}</p></div>}<span className="tap-hint">{revealed?"Kapatmak için dokun":"◉ GÖSTER"}</span></div><div className="card-actions">{revealed?<><button className="btn ghost" onClick={()=>mark(false)}>Tekrar et</button><button className="btn primary" onClick={()=>mark(true)}>Biliyorum</button></>:<button className="btn primary full" onClick={()=>setRevealed(true)}>Anlamı göster</button>}</div></>:<div className="empty"><div className="empty-icon">✦</div><h3>Günlük hedef tamamlandı</h3><p>Bugün için zamanı gelen tekrarları ve 20 yeni kelimeyi tamamladın. Yarın yeni kelimelerle devam edeceksin.</p></div>}</div>
       <div className="side-panel"><div className="panel-title">ÇALIŞMA SIRASI</div><div className="step"><b>01</b><div><strong>Tekrarlar</strong><small>{due.length} kelime zamanı geldi</small></div><span>→</span></div><div className="step"><b>02</b><div><strong>Yeni kelimeler</strong><small>{fresh.length} kelime öğrenilmeyi bekliyor</small></div><span>→</span></div><div className="panel-note"><strong>Hatırlatma</strong><p>Yanlış işaretlediğin kelimeler kısa aralıkla yeniden karşına çıkar.</p></div></div></section></>}
       {tab==="words"&&<section className="list-panel"><div className="panel-title">KELİME HAVUZU <span>{words.length} kayıt</span></div>{words.length?words.map(w=><div className="word-row" key={w.id}><b>{w.english}</b><span>{w.turkish}</span><small>{progress[w.id]?.status==="known"?"Öğrenildi":"Çalışılacak"}</small></div>):<div className="empty"><h3>Kaynak kelimeler aktarılıyor</h3><p>PDF’deki asıl İngilizce–Türkçe kayıtları koruyarak aktaracağız.</p></div>}</section>}
       {tab==="wrong"&&<section className="list-panel"><div className="panel-title">TEKRAR GEREKENLER <span>{wrong.length} kelime</span></div>{wrong.length?wrong.map(w=><div className="word-row" key={w.id}><b>{w.english}</b><span>{w.turkish}</span><small>{progress[w.id].wrong} yanlış</small></div>):<div className="empty"><h3>Henüz yanlış cevabın yok</h3><p>Çalışma sırasında “Tekrar et” dediğin kelimeler burada birikecek.</p></div>}</section>}
