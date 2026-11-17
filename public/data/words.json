@@ -1,32 +1,482 @@
 [
-  {"id":31,"english":"pulmonary","turkish":"akciğere ait","exampleEn":"Pulmonary function tests measure how well the lungs work.","exampleTr":"Akciğer fonksiyon testleri, akciğerlerin ne kadar iyi çalıştığını ölçer.","sourceNumber":31},
-  {"id":32,"english":"flow","turkish":"akım, akış","exampleEn":"The device measures blood flow through the artery.","exampleTr":"Cihaz, atardamardan geçen kan akışını ölçer.","sourceNumber":32},
-  {"id":33,"english":"current","turkish":"akım, geçerli, güncel","exampleEn":"The current guidelines recommend regular blood pressure monitoring.","exampleTr":"Güncel kılavuzlar düzenli kan basıncı takibi önermektedir.","sourceNumber":33},
-  {"id":34,"english":"allergy","turkish":"alerji","exampleEn":"A food allergy can cause symptoms ranging from a rash to breathing difficulties.","exampleTr":"Gıda alerjisi, döküntüden solunum güçlüğüne kadar değişen belirtilere neden olabilir.","sourceNumber":34},
-  {"id":35,"english":"wet","turkish":"altını ıslatmak, (yatağı) ıslatmak; ıslak, ıslatmak","exampleEn":"Some children may wet the bed during periods of stress.","exampleTr":"Bazı çocuklar stres dönemlerinde yatağını ıslatabilir.","sourceNumber":35},
-  {"id":36,"english":"operation","turkish":"ameliyat","exampleEn":"The patient recovered well after the operation.","exampleTr":"Hasta ameliyattan sonra iyi bir şekilde iyileşti.","sourceNumber":36},
-  {"id":37,"english":"undergo","turkish":"geçirmek, -e maruz kalmak (ör. ameliyat)","exampleEn":"Patients may undergo surgery when other treatments are ineffective.","exampleTr":"Diğer tedaviler etkisiz kaldığında hastalar ameliyat geçirebilir.","sourceNumber":37},
-  {"id":38,"english":"recovery ward","turkish":"ameliyat sonrası kendine gelme odası","exampleEn":"After surgery, the patient was taken to the recovery ward for observation.","exampleTr":"Ameliyattan sonra hasta gözlem için ameliyat sonrası derlenme odasına alındı.","sourceNumber":38},
-  {"id":39,"english":"operating theatre","turkish":"ameliyathane","exampleEn":"The surgical team prepared the operating theatre before the procedure.","exampleTr":"Cerrahi ekip, işlemden önce ameliyathaneyi hazırladı.","sourceNumber":39},
-  {"id":40,"english":"comprehend","turkish":"anlamak","exampleEn":"Patients should be given clear information they can comprehend.","exampleTr":"Hastalara anlayabilecekleri açık bilgiler verilmelidir.","sourceNumber":40},
-  {"id":41,"english":"upsetting","turkish":"annoying, üzücü, sinir bozucu","exampleEn":"Receiving a serious diagnosis can be upsetting for patients and their families.","exampleTr":"Ciddi bir tanı almak hastalar ve aileleri için üzücü olabilir.","sourceNumber":41},
-  {"id":42,"english":"anorexia","turkish":"anoreksi, iştahsızlık; yememe hastalığı (anorexia nervosa)","exampleEn":"Anorexia nervosa is an eating disorder that requires specialist care.","exampleTr":"Anoreksiya nervoza, uzman bakımı gerektiren bir yeme bozukluğudur.","sourceNumber":42},
-  {"id":43,"english":"antigen","turkish":"antijen","exampleEn":"An antigen can trigger an immune response in the body.","exampleTr":"Bir antijen, vücutta bağışıklık yanıtını tetikleyebilir.","sourceNumber":43},
-  {"id":44,"english":"antibody","turkish":"antikor","exampleEn":"The immune system produces antibodies to help fight infections.","exampleTr":"Bağışıklık sistemi, enfeksiyonlarla savaşmaya yardımcı olmak için antikor üretir.","sourceNumber":44},
-  {"id":45,"english":"antibiotic","turkish":"antibiyotik","exampleEn":"Antibiotics are used to treat infections caused by bacteria.","exampleTr":"Antibiyotikler, bakterilerin neden olduğu enfeksiyonları tedavi etmek için kullanılır.","sourceNumber":45},
-  {"id":46,"english":"apnoea","turkish":"apne (uyku vb. sırasında) nefes alma işlevinin geçici olarak durması","exampleEn":"Sleep apnoea causes repeated pauses in breathing during sleep.","exampleTr":"Uyku apnesi, uyku sırasında solunumun tekrar tekrar duraklamasına neden olur.","sourceNumber":46},
-  {"id":47,"english":"occasional","turkish":"ara sıra olan","exampleEn":"The patient reported occasional dizziness after taking the medication.","exampleTr":"Hasta, ilacı aldıktan sonra ara sıra baş dönmesi yaşadığını bildirdi.","sourceNumber":47},
-  {"id":48,"english":"pause","turkish":"ara, durak, duraklama; duraklamak, ara vermek","exampleEn":"The monitor detected a brief pause in the patient's heartbeat.","exampleTr":"Monitör, hastanın kalp atışında kısa bir duraklama tespit etti.","sourceNumber":48},
-  {"id":49,"english":"intermittent","turkish":"aralıklı","exampleEn":"The patient experienced intermittent chest pain over several days.","exampleTr":"Hasta birkaç gün boyunca aralıklı göğüs ağrısı yaşadı.","sourceNumber":49},
-  {"id":50,"english":"hind","turkish":"arka, art","exampleEn":"The injury affected the hind limb of the animal.","exampleTr":"Yaralanma hayvanın arka uzvunu etkiledi.","sourceNumber":50},
-  {"id":51,"english":"debris","turkish":"artık madde, yıkıntı ürünü","exampleEn":"The wound was cleaned to remove debris and reduce the risk of infection.","exampleTr":"Enfeksiyon riskini azaltmak için yara, artık maddelerden arındırılarak temizlendi.","sourceNumber":51},
-  {"id":52,"english":"to augment","turkish":"artırmak, çoğaltmak","exampleEn":"The treatment may augment the effect of the patient's existing medication.","exampleTr":"Tedavi, hastanın mevcut ilacının etkisini artırabilir.","sourceNumber":52},
-  {"id":53,"english":"asthma","turkish":"astım","exampleEn":"Asthma can cause wheezing, coughing, and difficulty breathing.","exampleTr":"Astım hırıltıya, öksürüğe ve nefes almada güçlüğe neden olabilir.","sourceNumber":53},
-  {"id":54,"english":"stage","turkish":"aşama","exampleEn":"The disease was diagnosed at an early stage.","exampleTr":"Hastalığa erken bir aşamada tanı kondu.","sourceNumber":54},
-  {"id":55,"english":"vaccine","turkish":"aşı","exampleEn":"The vaccine helps protect people against the infection.","exampleTr":"Aşı, insanların enfeksiyona karşı korunmasına yardımcı olur.","sourceNumber":55},
-  {"id":56,"english":"instil","turkish":"damlatmak (ilaç); aşılamak (fikir, duygu)","exampleEn":"The nurse was instructed to instil two drops into the patient's eye.","exampleTr":"Hemşireye hastanın gözüne iki damla damlatması talimatı verildi.","sourceNumber":56},
-  {"id":57,"english":"vaccinate","turkish":"aşılamak","exampleEn":"Health workers vaccinate children according to the national immunisation schedule.","exampleTr":"Sağlık çalışanları çocukları ulusal bağışıklama takvimine göre aşılar.","sourceNumber":57},
-  {"id":58,"english":"to implant","turkish":"(vücuda) yerleştirmek, implante etmek","exampleEn":"Surgeons may implant a device to regulate the patient's heartbeat.","exampleTr":"Cerrahlar, hastanın kalp atışını düzenlemek için bir cihaz yerleştirebilir.","sourceNumber":58},
-  {"id":59,"english":"overdose","turkish":"aşırı doz","exampleEn":"An overdose of this medication may cause serious side effects.","exampleTr":"Bu ilacın aşırı dozu ciddi yan etkilere neden olabilir.","sourceNumber":59},
-  {"id":60,"english":"hypersensitive","turkish":"aşırı duyarlı","exampleEn":"Some patients are hypersensitive to certain medications.","exampleTr":"Bazı hastalar belirli ilaçlara karşı aşırı duyarlıdır.","sourceNumber":60}
+  {
+    "id": 1,
+    "english": "underlying",
+    "turkish": "altta yatan, temelde yatan (underlying cause: altta yatan neden)",
+    "exampleEn": "The doctor investigated the underlying cause of the patient's fever.",
+    "exampleTr": "Doktor, hastanın ateşinin altında yatan nedeni araştırdı.",
+    "sourceNumber": 1
+  },
+  {
+    "id": 2,
+    "english": "throughout",
+    "turkish": "boyunca, baştan başa, her yerinde",
+    "exampleEn": "The infection spread throughout the patient's respiratory tract.",
+    "exampleTr": "Enfeksiyon hastanın solunum yolu boyunca yayıldı.",
+    "sourceNumber": 2
+  },
+  {
+    "id": 3,
+    "english": "vessel",
+    "turkish": "damar",
+    "exampleEn": "The scan showed a blockage in a blood vessel.",
+    "exampleTr": "Tarama, bir kan damarında tıkanıklık olduğunu gösterdi.",
+    "sourceNumber": 3
+  },
+  {
+    "id": 4,
+    "english": "toward",
+    "turkish": "-e doğru",
+    "exampleEn": "The patient slowly turned toward the nurse when she called his name.",
+    "exampleTr": "Hemşire adını söylediğinde hasta yavaşça ona doğru döndü.",
+    "sourceNumber": 4
+  },
+  {
+    "id": 5,
+    "english": "compared with",
+    "turkish": "ile karşılaştırıldığında",
+    "exampleEn": "Compared with the previous test, the patient's blood pressure was lower.",
+    "exampleTr": "Önceki testle karşılaştırıldığında hastanın kan basıncı daha düşüktü.",
+    "sourceNumber": 5
+  },
+  {
+    "id": 6,
+    "english": "heart failure",
+    "turkish": "kalp yetmezliği",
+    "exampleEn": "Heart failure can cause fatigue and shortness of breath.",
+    "exampleTr": "Kalp yetmezliği yorgunluğa ve nefes darlığına neden olabilir.",
+    "sourceNumber": 6
+  },
+  {
+    "id": 7,
+    "english": "pulse",
+    "turkish": "nabız",
+    "exampleEn": "The nurse checked the patient's pulse before the procedure.",
+    "exampleTr": "Hemşire işlemden önce hastanın nabzını kontrol etti.",
+    "sourceNumber": 7
+  },
+  {
+    "id": 8,
+    "english": "shortness of breath",
+    "turkish": "nefes darlığı",
+    "exampleEn": "Shortness of breath may be a symptom of a respiratory infection.",
+    "exampleTr": "Nefes darlığı, solunum yolu enfeksiyonunun bir belirtisi olabilir.",
+    "sourceNumber": 8
+  },
+  {
+    "id": 9,
+    "english": "clean bill of health",
+    "turkish": "sağlık belgesi",
+    "exampleEn": "After a thorough examination, the athlete received a clean bill of health.",
+    "exampleTr": "Sporcu, kapsamlı bir muayenenin ardından sağlık açısından herhangi bir sorunu olmadığını gösteren onayı aldı.",
+    "sourceNumber": 9
+  },
+  {
+    "id": 10,
+    "english": "tight",
+    "turkish": "sıkı, dar",
+    "exampleEn": "The bandage should not be so tight that it restricts blood flow.",
+    "exampleTr": "Bandaj, kan akışını kısıtlayacak kadar sıkı olmamalıdır.",
+    "sourceNumber": 10
+  },
+  {
+    "id": 11,
+    "english": "satisfactory",
+    "turkish": "tatminkâr",
+    "exampleEn": "The patient made satisfactory progress during the first week of treatment.",
+    "exampleTr": "Hasta, tedavinin ilk haftasında tatminkâr bir ilerleme kaydetti.",
+    "sourceNumber": 11
+  },
+  {
+    "id": 12,
+    "english": "stuffy",
+    "turkish": "tıkalı (burun), havasız",
+    "exampleEn": "A stuffy nose is a common symptom of the common cold.",
+    "exampleTr": "Burun tıkanıklığı, soğuk algınlığının yaygın bir belirtisidir.",
+    "sourceNumber": 12
+  },
+  {
+    "id": 13,
+    "english": "teenager",
+    "turkish": "ergen, genç (13-19 yaş arası)",
+    "exampleEn": "The teenager was referred to a specialist for further assessment.",
+    "exampleTr": "Ergen, ileri değerlendirme için bir uzmana yönlendirildi.",
+    "sourceNumber": 13
+  },
+  {
+    "id": 14,
+    "english": "teens",
+    "turkish": "13-19 yaş dönemi; ergenler, gençler",
+    "exampleEn": "Mental health problems may first appear during the teens.",
+    "exampleTr": "Ruh sağlığı sorunları ilk kez ergenlik döneminde ortaya çıkabilir.",
+    "sourceNumber": 14
+  },
+  {
+    "id": 15,
+    "english": "trimester",
+    "turkish": "3 aylık dönem",
+    "exampleEn": "Regular prenatal visits are important during every trimester of pregnancy.",
+    "exampleTr": "Gebeliğin her üç aylık döneminde düzenli doğum öncesi kontroller önemlidir.",
+    "sourceNumber": 15
+  },
+  {
+    "id": 16,
+    "english": "ache, pain, agony",
+    "turkish": "acı",
+    "exampleEn": "The patient described the ache, pain, and agony caused by the injury.",
+    "exampleTr": "Hasta, yaralanmanın yol açtığı sızıyı, ağrıyı ve şiddetli acıyı tarif etti.",
+    "sourceNumber": 16
+  },
+  {
+    "id": 17,
+    "english": "emergency",
+    "turkish": "acil durum",
+    "exampleEn": "Patients with severe chest pain should seek emergency medical care.",
+    "exampleTr": "Şiddetli göğüs ağrısı yaşayan hastalar acil tıbbi yardım almalıdır.",
+    "sourceNumber": 17
+  },
+  {
+    "id": 18,
+    "english": "dire",
+    "turkish": "acil, çok ciddi",
+    "exampleEn": "The shortage of clean water created dire health risks for the community.",
+    "exampleTr": "Temiz su kıtlığı, toplum için çok ciddi sağlık riskleri oluşturdu.",
+    "sourceNumber": 18
+  },
+  {
+    "id": 19,
+    "english": "fasting",
+    "turkish": "açlık, aç kalma, oruç; aç karnına (fasting blood glucose: açlık kan şekeri)",
+    "exampleEn": "Fasting blood glucose levels are usually measured after at least eight hours without food.",
+    "exampleTr": "Açlık kan şekeri düzeyleri genellikle en az sekiz saat yemek yenmeden geçen sürenin ardından ölçülür.",
+    "sourceNumber": 19
+  },
+  {
+    "id": 20,
+    "english": "fair-skinned",
+    "turkish": "açık tenli",
+    "exampleEn": "Fair-skinned people may have a higher risk of sunburn.",
+    "exampleTr": "Açık tenli kişilerde güneş yanığı riski daha yüksek olabilir.",
+    "sourceNumber": 20
+  },
+  {
+    "id": 21,
+    "english": "deficit",
+    "turkish": "açık, eksiklik, yetersizlik",
+    "exampleEn": "A vitamin D deficit can affect bone health.",
+    "exampleTr": "D vitamini eksikliği kemik sağlığını etkileyebilir.",
+    "sourceNumber": 21
+  },
+  {
+    "id": 22,
+    "english": "starve",
+    "turkish": "açlık çekmek, aç kalmak; açlıktan ölmek",
+    "exampleEn": "Without adequate nutrition, patients may begin to starve.",
+    "exampleTr": "Yeterli beslenme sağlanmadığında hastalar açlık çekmeye başlayabilir.",
+    "sourceNumber": 22
+  },
+  {
+    "id": 23,
+    "english": "acute",
+    "turkish": "ağır, vahim, akut",
+    "exampleEn": "The patient was admitted to hospital with acute abdominal pain.",
+    "exampleTr": "Hasta akut karın ağrısıyla hastaneye yatırıldı.",
+    "sourceNumber": 23
+  },
+  {
+    "id": 24,
+    "english": "pain",
+    "turkish": "ağrı",
+    "exampleEn": "The patient reported severe pain in the lower back.",
+    "exampleTr": "Hasta belinin alt kısmında şiddetli ağrı olduğunu bildirdi.",
+    "sourceNumber": 24
+  },
+  {
+    "id": 25,
+    "english": "painkiller",
+    "turkish": "ağrı kesici",
+    "exampleEn": "The doctor prescribed a painkiller to relieve the patient's headache.",
+    "exampleTr": "Doktor, hastanın baş ağrısını hafifletmek için bir ağrı kesici reçete etti.",
+    "sourceNumber": 25
+  },
+  {
+    "id": 26,
+    "english": "painful",
+    "turkish": "ağrılı",
+    "exampleEn": "The procedure may be painful for some patients.",
+    "exampleTr": "İşlem bazı hastalar için ağrılı olabilir.",
+    "sourceNumber": 26
+  },
+  {
+    "id": 27,
+    "english": "painless",
+    "turkish": "ağrısız",
+    "exampleEn": "The screening test is quick and painless.",
+    "exampleTr": "Tarama testi hızlı ve ağrısızdır.",
+    "sourceNumber": 27
+  },
+  {
+    "id": 28,
+    "english": "lung",
+    "turkish": "akciğer",
+    "exampleEn": "Smoking is a major risk factor for lung disease.",
+    "exampleTr": "Sigara içmek akciğer hastalıkları için önemli bir risk faktörüdür.",
+    "sourceNumber": 28
+  },
+  {
+    "id": 29,
+    "english": "lung cancer",
+    "turkish": "akciğer kanseri",
+    "exampleEn": "Early diagnosis can improve treatment outcomes in lung cancer.",
+    "exampleTr": "Erken tanı, akciğer kanserinde tedavi sonuçlarını iyileştirebilir.",
+    "sourceNumber": 29
+  },
+  {
+    "id": 30,
+    "english": "pulmonary tuberculosis",
+    "turkish": "akciğer veremi",
+    "exampleEn": "Pulmonary tuberculosis primarily affects the lungs and is caused by bacteria.",
+    "exampleTr": "Akciğer veremi öncelikle akciğerleri etkiler ve bakterilerden kaynaklanır.",
+    "sourceNumber": 30
+  },
+  {
+    "id": 31,
+    "english": "pulmonary",
+    "turkish": "akciğere ait",
+    "exampleEn": "Pulmonary function tests measure how well the lungs work.",
+    "exampleTr": "Akciğer fonksiyon testleri, akciğerlerin ne kadar iyi çalıştığını ölçer.",
+    "sourceNumber": 31
+  },
+  {
+    "id": 32,
+    "english": "flow",
+    "turkish": "akım, akış",
+    "exampleEn": "The device measures blood flow through the artery.",
+    "exampleTr": "Cihaz, atardamardan geçen kan akışını ölçer.",
+    "sourceNumber": 32
+  },
+  {
+    "id": 33,
+    "english": "current",
+    "turkish": "akım, geçerli, güncel",
+    "exampleEn": "The current guidelines recommend regular blood pressure monitoring.",
+    "exampleTr": "Güncel kılavuzlar düzenli kan basıncı takibi önermektedir.",
+    "sourceNumber": 33
+  },
+  {
+    "id": 34,
+    "english": "allergy",
+    "turkish": "alerji",
+    "exampleEn": "A food allergy can cause symptoms ranging from a rash to breathing difficulties.",
+    "exampleTr": "Gıda alerjisi, döküntüden solunum güçlüğüne kadar değişen belirtilere neden olabilir.",
+    "sourceNumber": 34
+  },
+  {
+    "id": 35,
+    "english": "wet",
+    "turkish": "altını ıslatmak, (yatağı) ıslatmak; ıslak, ıslatmak",
+    "exampleEn": "Some children may wet the bed during periods of stress.",
+    "exampleTr": "Bazı çocuklar stres dönemlerinde yatağını ıslatabilir.",
+    "sourceNumber": 35
+  },
+  {
+    "id": 36,
+    "english": "operation",
+    "turkish": "ameliyat",
+    "exampleEn": "The patient recovered well after the operation.",
+    "exampleTr": "Hasta ameliyattan sonra iyi bir şekilde iyileşti.",
+    "sourceNumber": 36
+  },
+  {
+    "id": 37,
+    "english": "undergo",
+    "turkish": "geçirmek, -e maruz kalmak (ör. ameliyat)",
+    "exampleEn": "Patients may undergo surgery when other treatments are ineffective.",
+    "exampleTr": "Diğer tedaviler etkisiz kaldığında hastalar ameliyat geçirebilir.",
+    "sourceNumber": 37
+  },
+  {
+    "id": 38,
+    "english": "recovery ward",
+    "turkish": "ameliyat sonrası kendine gelme odası",
+    "exampleEn": "After surgery, the patient was taken to the recovery ward for observation.",
+    "exampleTr": "Ameliyattan sonra hasta gözlem için ameliyat sonrası derlenme odasına alındı.",
+    "sourceNumber": 38
+  },
+  {
+    "id": 39,
+    "english": "operating theatre",
+    "turkish": "ameliyathane",
+    "exampleEn": "The surgical team prepared the operating theatre before the procedure.",
+    "exampleTr": "Cerrahi ekip, işlemden önce ameliyathaneyi hazırladı.",
+    "sourceNumber": 39
+  },
+  {
+    "id": 40,
+    "english": "comprehend",
+    "turkish": "anlamak",
+    "exampleEn": "Patients should be given clear information they can comprehend.",
+    "exampleTr": "Hastalara anlayabilecekleri açık bilgiler verilmelidir.",
+    "sourceNumber": 40
+  },
+  {
+    "id": 41,
+    "english": "upsetting",
+    "turkish": "annoying, üzücü, sinir bozucu",
+    "exampleEn": "Receiving a serious diagnosis can be upsetting for patients and their families.",
+    "exampleTr": "Ciddi bir tanı almak hastalar ve aileleri için üzücü olabilir.",
+    "sourceNumber": 41
+  },
+  {
+    "id": 42,
+    "english": "anorexia",
+    "turkish": "anoreksi, iştahsızlık; yememe hastalığı (anorexia nervosa)",
+    "exampleEn": "Anorexia nervosa is an eating disorder that requires specialist care.",
+    "exampleTr": "Anoreksiya nervoza, uzman bakımı gerektiren bir yeme bozukluğudur.",
+    "sourceNumber": 42
+  },
+  {
+    "id": 43,
+    "english": "antigen",
+    "turkish": "antijen",
+    "exampleEn": "An antigen can trigger an immune response in the body.",
+    "exampleTr": "Bir antijen, vücutta bağışıklık yanıtını tetikleyebilir.",
+    "sourceNumber": 43
+  },
+  {
+    "id": 44,
+    "english": "antibody",
+    "turkish": "antikor",
+    "exampleEn": "The immune system produces antibodies to help fight infections.",
+    "exampleTr": "Bağışıklık sistemi, enfeksiyonlarla savaşmaya yardımcı olmak için antikor üretir.",
+    "sourceNumber": 44
+  },
+  {
+    "id": 45,
+    "english": "antibiotic",
+    "turkish": "antibiyotik",
+    "exampleEn": "Antibiotics are used to treat infections caused by bacteria.",
+    "exampleTr": "Antibiyotikler, bakterilerin neden olduğu enfeksiyonları tedavi etmek için kullanılır.",
+    "sourceNumber": 45
+  },
+  {
+    "id": 46,
+    "english": "apnoea",
+    "turkish": "apne (uyku vb. sırasında) nefes alma işlevinin geçici olarak durması",
+    "exampleEn": "Sleep apnoea causes repeated pauses in breathing during sleep.",
+    "exampleTr": "Uyku apnesi, uyku sırasında solunumun tekrar tekrar duraklamasına neden olur.",
+    "sourceNumber": 46
+  },
+  {
+    "id": 47,
+    "english": "occasional",
+    "turkish": "ara sıra olan",
+    "exampleEn": "The patient reported occasional dizziness after taking the medication.",
+    "exampleTr": "Hasta, ilacı aldıktan sonra ara sıra baş dönmesi yaşadığını bildirdi.",
+    "sourceNumber": 47
+  },
+  {
+    "id": 48,
+    "english": "pause",
+    "turkish": "ara, durak, duraklama; duraklamak, ara vermek",
+    "exampleEn": "The monitor detected a brief pause in the patient's heartbeat.",
+    "exampleTr": "Monitör, hastanın kalp atışında kısa bir duraklama tespit etti.",
+    "sourceNumber": 48
+  },
+  {
+    "id": 49,
+    "english": "intermittent",
+    "turkish": "aralıklı",
+    "exampleEn": "The patient experienced intermittent chest pain over several days.",
+    "exampleTr": "Hasta birkaç gün boyunca aralıklı göğüs ağrısı yaşadı.",
+    "sourceNumber": 49
+  },
+  {
+    "id": 50,
+    "english": "hind",
+    "turkish": "arka, art",
+    "exampleEn": "The injury affected the hind limb of the animal.",
+    "exampleTr": "Yaralanma hayvanın arka uzvunu etkiledi.",
+    "sourceNumber": 50
+  },
+  {
+    "id": 51,
+    "english": "debris",
+    "turkish": "artık madde, yıkıntı ürünü",
+    "exampleEn": "The wound was cleaned to remove debris and reduce the risk of infection.",
+    "exampleTr": "Enfeksiyon riskini azaltmak için yara, artık maddelerden arındırılarak temizlendi.",
+    "sourceNumber": 51
+  },
+  {
+    "id": 52,
+    "english": "to augment",
+    "turkish": "artırmak, çoğaltmak",
+    "exampleEn": "The treatment may augment the effect of the patient's existing medication.",
+    "exampleTr": "Tedavi, hastanın mevcut ilacının etkisini artırabilir.",
+    "sourceNumber": 52
+  },
+  {
+    "id": 53,
+    "english": "asthma",
+    "turkish": "astım",
+    "exampleEn": "Asthma can cause wheezing, coughing, and difficulty breathing.",
+    "exampleTr": "Astım hırıltıya, öksürüğe ve nefes almada güçlüğe neden olabilir.",
+    "sourceNumber": 53
+  },
+  {
+    "id": 54,
+    "english": "stage",
+    "turkish": "aşama",
+    "exampleEn": "The disease was diagnosed at an early stage.",
+    "exampleTr": "Hastalığa erken bir aşamada tanı kondu.",
+    "sourceNumber": 54
+  },
+  {
+    "id": 55,
+    "english": "vaccine",
+    "turkish": "aşı",
+    "exampleEn": "The vaccine helps protect people against the infection.",
+    "exampleTr": "Aşı, insanların enfeksiyona karşı korunmasına yardımcı olur.",
+    "sourceNumber": 55
+  },
+  {
+    "id": 56,
+    "english": "instil",
+    "turkish": "damlatmak (ilaç); aşılamak (fikir, duygu)",
+    "exampleEn": "The nurse was instructed to instil two drops into the patient's eye.",
+    "exampleTr": "Hemşireye hastanın gözüne iki damla damlatması talimatı verildi.",
+    "sourceNumber": 56
+  },
+  {
+    "id": 57,
+    "english": "vaccinate",
+    "turkish": "aşılamak",
+    "exampleEn": "Health workers vaccinate children according to the national immunisation schedule.",
+    "exampleTr": "Sağlık çalışanları çocukları ulusal bağışıklama takvimine göre aşılar.",
+    "sourceNumber": 57
+  },
+  {
+    "id": 58,
+    "english": "to implant",
+    "turkish": "(vücuda) yerleştirmek, implante etmek",
+    "exampleEn": "Surgeons may implant a device to regulate the patient's heartbeat.",
+    "exampleTr": "Cerrahlar, hastanın kalp atışını düzenlemek için bir cihaz yerleştirebilir.",
+    "sourceNumber": 58
+  },
+  {
+    "id": 59,
+    "english": "overdose",
+    "turkish": "aşırı doz",
+    "exampleEn": "An overdose of this medication may cause serious side effects.",
+    "exampleTr": "Bu ilacın aşırı dozu ciddi yan etkilere neden olabilir.",
+    "sourceNumber": 59
+  },
+  {
+    "id": 60,
+    "english": "hypersensitive",
+    "turkish": "aşırı duyarlı",
+    "exampleEn": "Some patients are hypersensitive to certain medications.",
+    "exampleTr": "Bazı hastalar belirli ilaçlara karşı aşırı duyarlıdır.",
+    "sourceNumber": 60
+  }
 ]
