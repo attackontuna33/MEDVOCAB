@@ -17,6 +17,8 @@ export default function App() {
   const [revealed,setRevealed] = useState(false);
   const [direction,setDirection] = useState<"en-tr"|"tr-en">("en-tr");
   const [sessionDone,setSessionDone] = useState(0);
+  const [examMode,setExamMode] = useState<"vocabulary"|"context"|"reading"|"mixed">("vocabulary");
+  const [examQuestions,setExamQuestions] = useState<Array<{word:Word;kind:"vocabulary"|"context"|"reading";prompt:string;answer:string;passage?:string}>>([]);
   const [examStarted,setExamStarted] = useState(false);
   const [examIndex,setExamIndex] = useState(0);
   const [examAnswers,setExamAnswers] = useState<Record<number,string>>({});
@@ -39,9 +41,26 @@ export default function App() {
   const weekDays = Array.from({length:7},(_,i)=>{const d=new Date();d.setDate(d.getDate()-(6-i));return d;});
   const streak = (()=>{let n=0;const active=new Set(Object.values(progress).filter(p=>p.lastSeen).map(p=>new Date(p.lastSeen!).toDateString()));for(let i=0;i<365;i++){const d=new Date();d.setDate(d.getDate()-i);if(active.has(d.toDateString()))n++;else if(i>0)break;}return n;})();
   const mark = (ok:boolean) => { if(!current)return; const isNew=(progress[current.id]?.status??"new")==="new"; setProgress(prev=>({...prev,[current.id]:schedule(prev[current.id]??{status:"new",dueAt:0,correct:0,wrong:0},ok,isNew)})); setRevealed(false); setDirection(Math.random()>.5?"en-tr":"tr-en"); setSessionDone(n=>n+1); };
-  const startExam=()=>{setExamStarted(true);setExamIndex(0);setExamAnswers({});setExamDone(false);};
+  const startExam=()=>{
+    const pool=[...words].sort(()=>Math.random()-.5).slice(0,10);
+    const questions=pool.map((word,i)=>{
+      const kind=examMode==="mixed"?(["vocabulary","context","reading"] as const)[i%3]:examMode;
+      const passage=kind==="reading"?pool.slice(0,Math.min(4,pool.length)).map(item=>item.exampleEn).join(" "):undefined;
+      const escaped=word.english.replace(/[.*+?^${}()|[\]\\]/g,"\\  const startExam=()=>{setExamStarted(true);setExamIndex(0);setExamAnswers({});setExamDone(false);};
   const examWords=words.slice(0,Math.min(10,words.length));
-  const score=examWords.filter(w=>examAnswers[w.id]?.trim().toLocaleLowerCase("tr-TR")===w.turkish.trim().toLocaleLowerCase("tr-TR")).length;
+  const score=examWords.filter(w=>examAnswers[w.id]?.trim().toLocaleLowerCase("tr-TR")===w.turkish.trim().toLocaleLowerCase("tr-TR")).length;");
+      const cloze=word.exampleEn.replace(new RegExp(escaped,"i"),"_____");
+      const prompt=kind==="vocabulary"?`Türkçe karşılığını yaz: ${word.english}`:kind==="context"?cloze:`Metinde geçen “${word.english}” ifadesinin Türkçe karşılığını yaz.`;
+      return {word,kind,prompt,answer:kind==="context"?word.english:word.turkish,passage};
+    });
+    setExamQuestions(questions);setExamStarted(true);setExamIndex(0);setExamAnswers({});setExamDone(false);
+  };
+  const normalise=(value:string)=>value.toLocaleLowerCase("tr-TR").replace(/[.,;:!?()]/g,"").replace(/\\s+/g," ").trim();
+  const score=examQuestions.filter(q=>{
+    const answer=normalise(examAnswers[q.word.id]??"");
+    const accepted=q.kind==="context"?[q.word.english]:q.word.turkish.split(/[;,]/).map(s=>s.trim());
+    return accepted.some(item=>answer===normalise(item)||normalise(item).includes(answer)&&answer.length>2);
+  }).length;
 
   return <div className="app-shell">
     <aside className="sidebar"><div className="brand"><span className="brand-mark">M</span><div><b>MEDVOCAB</b><small>HEALTH ENGLISH</small></div></div>
@@ -58,7 +77,7 @@ export default function App() {
       {tab==="words"&&<section className="list-panel"><div className="panel-title">KELİME HAVUZU <span>{words.length} kayıt</span></div>{words.length?words.map(w=><div className="word-row" key={w.id}><b>{w.english}</b><span>{w.turkish}</span><small>{progress[w.id]?.status==="known"?"Öğrenildi":"Çalışılacak"}</small></div>):<div className="empty"><h3>Kaynak kelimeler aktarılıyor</h3><p>PDF’deki asıl İngilizce–Türkçe kayıtları koruyarak aktaracağız.</p></div>}</section>}
       {tab==="wrong"&&<section className="list-panel"><div className="panel-title">TEKRAR GEREKENLER <span>{wrong.length} kelime</span></div>{wrong.length?wrong.map(w=><div className="word-row" key={w.id}><b>{w.english}</b><span>{w.turkish}</span><small>{progress[w.id].wrong} yanlış</small></div>):<div className="empty"><h3>Henüz yanlış cevabın yok</h3><p>Çalışma sırasında “Tekrar et” dediğin kelimeler burada birikecek.</p></div>}</section>}
       {tab==="weekly"&&<section className="list-panel"><div className="panel-title">SON 7 GÜN</div><div className="week-grid">{weekDays.map(d=>{const count=Object.values(progress).filter(p=>p.lastSeen&&new Date(p.lastSeen).toDateString()===d.toDateString()).length;return <div className="day" key={d.toISOString()}><span>{d.toLocaleDateString("tr-TR",{weekday:"short"})}</span><b className={count?"done":""}>{count}</b><small>kelime</small></div>})}</div><div className="stats"><div className="stat"><span>DOĞRU</span><b>{totalCorrect}</b></div><div className="stat"><span>YANLIŞ</span><b>{totalWrong}</b></div><div className="stat"><span>ÖĞRENİLEN</span><b>{learned}</b></div></div></section>}
-      {tab==="exam"&&<section className="list-panel exam-panel"><div className="panel-title">KELİME SINAVI</div>{!examStarted?<div className="empty"><div className="empty-icon">◎</div><h3>Bilgini ölçmeye hazır mısın?</h3><p>Kaynak kelimelerden karma bir mini sınav. Her soruda İngilizce kelimenin Türkçe karşılığını yaz.</p><button className="btn primary" onClick={startExam} disabled={!words.length}>Sınava başla</button>{!words.length&&<small>Kelime havuzu eklendiğinde etkinleşecek.</small>}</div>:examDone?<div className="empty"><h3>Sınav tamamlandı</h3><strong className="score">{score} / {examWords.length}</strong><p>Yanlış cevaplarını tekrar listesinde inceleyebilirsin.</p><button className="btn primary" onClick={()=>setExamStarted(false)}>Kapat</button></div>:<div className="exam-question"><span>SORU {examIndex+1} / {examWords.length}</span><h2>{examWords[examIndex]?.english}</h2><input value={examAnswers[examWords[examIndex]?.id]??""} onChange={e=>setExamAnswers(p=>({...p,[examWords[examIndex].id]:e.target.value}))} placeholder="Türkçe anlamını yaz…"/><button className="btn primary" onClick={()=>examIndex+1===examWords.length?setExamDone(true):setExamIndex(i=>i+1)}>{examIndex+1===examWords.length?"Sınavı bitir":"Sonraki soru"}</button></div>}</section>}
+      {tab==="exam"&&<section className="list-panel exam-panel"><div className="panel-title">SINAV MODÜLLERİ</div>{!examStarted?<div className="empty"><div className="empty-icon">◎</div><h3>Bilgini ölçmeye hazır mısın?</h3><p>PDF’deki kelimelerle dört farklı çalışma biçimi.</p><div className="exam-modes"><button className={examMode==="vocabulary"?"btn primary":"btn ghost"} onClick={()=>setExamMode("vocabulary")}>Kelime</button><button className={examMode==="context"?"btn primary":"btn ghost"} onClick={()=>setExamMode("context")}>Bağlam / Boşluk</button><button className={examMode==="reading"?"btn primary":"btn ghost"} onClick={()=>setExamMode("reading")}>Sağlık metni</button><button className={examMode==="mixed"?"btn primary":"btn ghost"} onClick={()=>setExamMode("mixed")}>Karma mini sınav</button></div><button className="btn primary" onClick={startExam} disabled={!words.length}>Sınava başla</button>{!words.length&&<small>Kelime havuzu yükleniyor.</small>}</div>:examDone?<div className="empty"><h3>Sınav tamamlandı</h3><strong className="score">{score} / {examQuestions.length}</strong><p>Yanlış cevaplarını tekrar listesinde inceleyebilirsin.</p><button className="btn primary" onClick={()=>setExamStarted(false)}>Kapat</button></div>:<div className="exam-question"><span>SORU {examIndex+1} / {examQuestions.length} · {examQuestions[examIndex]?.kind==="vocabulary"?"KELİME":examQuestions[examIndex]?.kind==="context"?"BAĞLAM":"OKUMA"}</span>{examQuestions[examIndex]?.passage&&<p className="reading-passage">{examQuestions[examIndex].passage}</p>}<h2>{examQuestions[examIndex]?.prompt}</h2><input value={examAnswers[examQuestions[examIndex]?.word.id]??""} onChange={e=>setExamAnswers(p=>({...p,[examQuestions[examIndex].word.id]:e.target.value}))} placeholder={examQuestions[examIndex]?.kind==="context"?"İngilizce kelime veya ifade…":"Türkçe anlamını yaz…"}/><button className="btn primary" onClick={()=>examIndex+1===examQuestions.length?setExamDone(true):setExamIndex(i=>i+1)}>{examIndex+1===examQuestions.length?"Sınavı bitir":"Sonraki soru"}</button></div>}</section>}
       <footer>MEDVOCAB <span>Yalnızca yüklenen YÖKDİL Sağlık kelime kaynağı temel alınır.</span></footer>
     </main>
   </div>;
